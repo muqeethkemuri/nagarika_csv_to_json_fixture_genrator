@@ -73,14 +73,14 @@ class CategoryConverter:
         """Create a category data URL dictionary."""
         return {
             "model": "kalari.CategoriesDataUrls",
-            "pk": category_data_id,
+            "pk": self.data_pk_counter, # Corrected this line
             "fields": {
                 "path": f"odissi/sequence/{filename}",
                 "type": "video",
                 "category_data_id": category_data_id
             }
         }
-        
+
     def create_category_movement(self, category_data_id: int, related_slug: str, movement_type: str, is_related_only: bool = False) -> dict:
         """Create a categories_movement dictionary."""
         movement = {
@@ -207,12 +207,21 @@ class CategoryConverter:
                  # Create CategoriesMovements entry for front data
                 explanation_slug = row.get('explanation_slug') or row.get('Explanation')
                 sequence_slug = row.get('sequence_slug') or row.get('Sequence')
+                unit_slug = row.get('unit_slug') or row.get('Unit')
+                context_slug = row.get('context_slug') or row.get('Context')
+
                 if explanation_slug and pd.notna(explanation_slug):
-                     movement = self.create_category_movement(front_data["pk"], str(explanation_slug).strip(), "explanation")
-                     categories_movements.append(movement) 
+                    movement = self.create_category_movement(front_data["pk"], str(explanation_slug).strip(), "explanation")
+                    categories_movements.append(movement)
                 elif sequence_slug and pd.notna(sequence_slug):
-                     movement = self.create_category_movement(front_data["pk"], str(sequence_slug).strip(), "sequence")
-                     categories_movements.append(movement)
+                    movement = self.create_category_movement(front_data["pk"], str(sequence_slug).strip(), "sequence")
+                    categories_movements.append(movement)
+                elif unit_slug and pd.notna(unit_slug):
+                    movement = self.create_category_movement(front_data["pk"], str(unit_slug).strip(), "unit")
+                    categories_movements.append(movement)
+                elif context_slug and pd.notna(context_slug):
+                    movement = self.create_category_movement(front_data["pk"], str(context_slug).strip(), "context")
+                    categories_movements.append(movement)
             
             if side_file and pd.notna(side_file):
             
@@ -234,12 +243,20 @@ class CategoryConverter:
                 # Create CategoriesMovements entry for side data
                 explanation_slug = row.get('explanation_slug') or row.get('Explanation')
                 sequence_slug = row.get('sequence_slug') or row.get('Sequence')
+                unit_slug = row.get('unit_slug') or row.get('Unit')
+                context_slug = row.get('context_slug') or row.get('Context')
 
                 if explanation_slug and pd.notna(explanation_slug):
                     movement = self.create_category_movement(side_data["pk"], str(explanation_slug).strip(), "explanation")
                     categories_movements.append(movement)
                 elif sequence_slug and pd.notna(sequence_slug):
                     movement = self.create_category_movement(side_data["pk"], str(sequence_slug).strip(), "sequence")
+                    categories_movements.append(movement)
+                elif unit_slug and pd.notna(unit_slug):
+                    movement = self.create_category_movement(side_data["pk"], str(unit_slug).strip(), "unit")
+                    categories_movements.append(movement)
+                elif context_slug and pd.notna(context_slug):
+                    movement = self.create_category_movement(side_data["pk"], str(context_slug).strip(), "context")
                     categories_movements.append(movement)
 
     def generate_categories_json(self, excel_files: List[str]) -> Tuple[List[dict], List[dict], List[dict], List[dict]]:
@@ -255,7 +272,11 @@ class CategoryConverter:
         for excel_file in excel_files:
             print(f"Processing file: {excel_file}")
             # Read Excel file
-            df = pd.read_excel(excel_file)
+            try:
+                df = pd.read_csv(excel_file)  # Changed to read_csv
+            except Exception as e:
+                print(f"Error reading file '{excel_file}': {e}")
+                continue  # Skip to the next file
             
             # Clean column names by stripping whitespace
             df.columns = df.columns.str.strip()
@@ -294,17 +315,17 @@ def save_json(data: List[dict], output_file: str) -> None:
 def main():
     try:
         # Prompt user for Excel file names
-        excel_files = input("Enter the names of the Excel files (comma-separated): ").split(',')
-        excel_files = [f.strip() for f in excel_files]  # Remove leading/trailing spaces
+        file_names = input("Enter the names of the CSV files (comma-separated): ").split(',')
+        excel_files = [f.strip() for f in file_names]  # Remove leading/trailing spaces
         
         # Check if files exist
         for excel_file in excel_files:
             try:
-                with open(excel_file, 'rb'):
+                with open(excel_file, 'r'): # Changed to text read mode
                     pass
             except FileNotFoundError:
                 print(f"Error: The file '{excel_file}' was not found.")
-                print("Please make sure your Excel files are in the same directory as this script.")
+                print("Please make sure your CSV files are in the same directory as this script.")
                 exit(1)
         
         # Create converter and generate all category data
