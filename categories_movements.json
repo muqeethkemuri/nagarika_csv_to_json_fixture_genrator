@@ -1,1 +1,5402 @@
-[]
+[
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3000,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7000,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3001,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7002,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3002,
+    "fields": {
+      "name": "Introduction",
+      "category_data_movements_id": 7004,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3003,
+    "fields": {
+      "name": "Rupashree Mohapatra",
+      "category_data_movements_id": 7006,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3004,
+    "fields": {
+      "name": "Current practices",
+      "category_data_movements_id": 7008,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3005,
+    "fields": {
+      "name": "Traditional",
+      "category_data_movements_id": 7010,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3006,
+    "fields": {
+      "name": "Current",
+      "category_data_movements_id": 7012,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3007,
+    "fields": {
+      "name": "Introduction",
+      "category_data_movements_id": 7014,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3008,
+    "fields": {
+      "name": "Kelucharan Mohapatra",
+      "category_data_movements_id": 7016,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3009,
+    "fields": {
+      "name": "Gangadhar Pradhan",
+      "category_data_movements_id": 7018,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3010,
+    "fields": {
+      "name": "Sanjukta Panigrahi",
+      "category_data_movements_id": 7020,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3011,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7022,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3012,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7024,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3013,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7026,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3014,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7028,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3015,
+    "fields": {
+      "name": "Warm-Up",
+      "category_data_movements_id": 7030,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3016,
+    "fields": {
+      "name": "Warm-up Demo",
+      "category_data_movements_id": 7032,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3017,
+    "fields": {
+      "name": "Warm-up Demo",
+      "category_data_movements_id": 7034,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3018,
+    "fields": {
+      "name": "Folk Cardio",
+      "category_data_movements_id": 7036,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3019,
+    "fields": {
+      "name": "Folk-cardio Demo",
+      "category_data_movements_id": 7038,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3020,
+    "fields": {
+      "name": "Folk-cardio Demo",
+      "category_data_movements_id": 7040,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3021,
+    "fields": {
+      "name": "Cool Down",
+      "category_data_movements_id": 7042,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3022,
+    "fields": {
+      "name": "Cool Down Demo",
+      "category_data_movements_id": 7044,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3023,
+    "fields": {
+      "name": "Cool Down Demo",
+      "category_data_movements_id": 7046,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3024,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7048,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3025,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7050,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3026,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7052,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3027,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7054,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3028,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7056,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3029,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7058,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3030,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7060,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3031,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7062,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3032,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7064,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3033,
+    "fields": {
+      "name": "Approach",
+      "category_data_movements_id": 7066,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3034,
+    "fields": {
+      "name": "Anecdotes 1",
+      "category_data_movements_id": 7068,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3035,
+    "fields": {
+      "name": "Anecdotes 2",
+      "category_data_movements_id": 7070,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3036,
+    "fields": {
+      "name": "Approach",
+      "category_data_movements_id": 7072,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3037,
+    "fields": {
+      "name": "Anecdotes",
+      "category_data_movements_id": 7074,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3038,
+    "fields": {
+      "name": "Adult",
+      "category_data_movements_id": 7076,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3039,
+    "fields": {
+      "name": "Children",
+      "category_data_movements_id": 7078,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3040,
+    "fields": {
+      "name": "Counselling",
+      "category_data_movements_id": 7080,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3041,
+    "fields": {
+      "name": "Approach",
+      "category_data_movements_id": 7082,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3042,
+    "fields": {
+      "name": "Transmission",
+      "category_data_movements_id": 7084,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3043,
+    "fields": {
+      "name": "Artistic Journey",
+      "category_data_movements_id": 7086,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3044,
+    "fields": {
+      "name": "Thoughts On Dance",
+      "category_data_movements_id": 7088,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3045,
+    "fields": {
+      "name": "Artistic Journey",
+      "category_data_movements_id": 7090,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3046,
+    "fields": {
+      "name": "Thoughts On Dance",
+      "category_data_movements_id": 7092,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3047,
+    "fields": {
+      "name": "Artistic Journey",
+      "category_data_movements_id": 7094,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3048,
+    "fields": {
+      "name": "Thoughts On Dance",
+      "category_data_movements_id": 7096,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3049,
+    "fields": {
+      "name": "Artistic Journey",
+      "category_data_movements_id": 7098,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3050,
+    "fields": {
+      "name": "Thoughts On Dance",
+      "category_data_movements_id": 7100,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3051,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7102,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3052,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7104,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3053,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7106,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3054,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7108,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3055,
+    "fields": {
+      "name": "Introduction",
+      "category_data_movements_id": 7110,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3056,
+    "fields": {
+      "name": "Current practices",
+      "category_data_movements_id": 7112,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3057,
+    "fields": {
+      "name": "Dhaneshwar Swain",
+      "category_data_movements_id": 7114,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3058,
+    "fields": {
+      "name": "Overview",
+      "category_data_movements_id": 7116,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3059,
+    "fields": {
+      "name": "Adi tala in Arasa & Chakradhar",
+      "category_data_movements_id": 7118,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3060,
+    "fields": {
+      "name": "Sabda swara patha",
+      "category_data_movements_id": 7120,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3061,
+    "fields": {
+      "name": "Composition by Banamali Maharana",
+      "category_data_movements_id": 7122,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3062,
+    "fields": {
+      "name": "Bani",
+      "category_data_movements_id": 7124,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3063,
+    "fields": {
+      "name": "Theka",
+      "category_data_movements_id": 7126,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3064,
+    "fields": {
+      "name": "Tyahi",
+      "category_data_movements_id": 7128,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3065,
+    "fields": {
+      "name": "Tisra Gati",
+      "category_data_movements_id": 7130,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3066,
+    "fields": {
+      "name": "Battu by Kelucharan Mohapatra",
+      "category_data_movements_id": 7132,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3067,
+    "fields": {
+      "name": "Bani by Pankaj Charan Das",
+      "category_data_movements_id": 7134,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3068,
+    "fields": {
+      "name": "Ganesh Bandana",
+      "category_data_movements_id": 7136,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3069,
+    "fields": {
+      "name": "Dasavtara by Deba Prasad Das",
+      "category_data_movements_id": 7138,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3070,
+    "fields": {
+      "name": "Mrugi",
+      "category_data_movements_id": 7140,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3071,
+    "fields": {
+      "name": "Mayuri",
+      "category_data_movements_id": 7142,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3072,
+    "fields": {
+      "name": "Gajalila",
+      "category_data_movements_id": 7144,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3073,
+    "fields": {
+      "name": "Manduki",
+      "category_data_movements_id": 7146,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3074,
+    "fields": {
+      "name": "Turangini",
+      "category_data_movements_id": 7148,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3075,
+    "fields": {
+      "name": "Manavi",
+      "category_data_movements_id": 7150,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3076,
+    "fields": {
+      "name": "Dadra in tisra gati by Dhaneshwar Swain",
+      "category_data_movements_id": 7152,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3077,
+    "fields": {
+      "name": "Chhanda prakaran",
+      "category_data_movements_id": 7154,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3078,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7156,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3079,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7158,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3080,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7160,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3081,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7162,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3082,
+    "fields": {
+      "name": "Overview",
+      "category_data_movements_id": 7164,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3083,
+    "fields": {
+      "name": "Ekatali",
+      "category_data_movements_id": 7166,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3084,
+    "fields": {
+      "name": "Khemta/Jhula",
+      "category_data_movements_id": 7168,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3085,
+    "fields": {
+      "name": "Rupak",
+      "category_data_movements_id": 7170,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3086,
+    "fields": {
+      "name": "Jhampa",
+      "category_data_movements_id": 7172,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3087,
+    "fields": {
+      "name": "Adi",
+      "category_data_movements_id": 7174,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3088,
+    "fields": {
+      "name": "Tripata",
+      "category_data_movements_id": 7176,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3089,
+    "fields": {
+      "name": "Jati",
+      "category_data_movements_id": 7178,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3090,
+    "fields": {
+      "name": "Adatali",
+      "category_data_movements_id": 7180,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3091,
+    "fields": {
+      "name": "Matha",
+      "category_data_movements_id": 7182,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3092,
+    "fields": {
+      "name": "Kuduk",
+      "category_data_movements_id": 7184,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3093,
+    "fields": {
+      "name": "Sarimaan",
+      "category_data_movements_id": 7186,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3094,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7188,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3095,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7190,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3096,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7192,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3097,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7194,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3098,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7196,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3099,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7198,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3100,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7200,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3101,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7202,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3102,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7204,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3103,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7206,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3104,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7208,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3105,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7210,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3106,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7212,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3107,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7214,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3108,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7216,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3109,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7218,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3110,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7220,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3111,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7222,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3112,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7224,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3113,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7226,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3114,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7228,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3115,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7230,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3116,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7232,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3117,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7234,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3118,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7236,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3119,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7238,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3120,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7240,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3121,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7242,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3122,
+    "fields": {
+      "name": "Overview",
+      "category_data_movements_id": 7244,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3123,
+    "fields": {
+      "name": "Pataka",
+      "category_data_movements_id": 7246,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3124,
+    "fields": {
+      "name": "Tripataka",
+      "category_data_movements_id": 7248,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3125,
+    "fields": {
+      "name": "Ardhapataka",
+      "category_data_movements_id": 7250,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3126,
+    "fields": {
+      "name": "Kartarimukha",
+      "category_data_movements_id": 7252,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3127,
+    "fields": {
+      "name": "Mayura",
+      "category_data_movements_id": 7254,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3128,
+    "fields": {
+      "name": "Ardha Chandra",
+      "category_data_movements_id": 7256,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3129,
+    "fields": {
+      "name": "Arala",
+      "category_data_movements_id": 7258,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3130,
+    "fields": {
+      "name": "Shukatunda",
+      "category_data_movements_id": 7260,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3131,
+    "fields": {
+      "name": "Mushti",
+      "category_data_movements_id": 7262,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3132,
+    "fields": {
+      "name": "Shikhara",
+      "category_data_movements_id": 7264,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3133,
+    "fields": {
+      "name": "Kapitha",
+      "category_data_movements_id": 7266,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3134,
+    "fields": {
+      "name": "Katakamukha",
+      "category_data_movements_id": 7268,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3135,
+    "fields": {
+      "name": "Suchi",
+      "category_data_movements_id": 7270,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3136,
+    "fields": {
+      "name": "Chandrakala",
+      "category_data_movements_id": 7272,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3137,
+    "fields": {
+      "name": "Padmakosha",
+      "category_data_movements_id": 7274,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3138,
+    "fields": {
+      "name": "Sarpaseersha",
+      "category_data_movements_id": 7276,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3139,
+    "fields": {
+      "name": "Mrigasheersha",
+      "category_data_movements_id": 7278,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3140,
+    "fields": {
+      "name": "Simhamukha",
+      "category_data_movements_id": 7280,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3141,
+    "fields": {
+      "name": "Kangula",
+      "category_data_movements_id": 7282,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3142,
+    "fields": {
+      "name": "Alapadma",
+      "category_data_movements_id": 7284,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3143,
+    "fields": {
+      "name": "Chatura",
+      "category_data_movements_id": 7286,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3144,
+    "fields": {
+      "name": "Bhramara",
+      "category_data_movements_id": 7288,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3145,
+    "fields": {
+      "name": "Hamsasya",
+      "category_data_movements_id": 7290,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3146,
+    "fields": {
+      "name": "Hamsapaksha",
+      "category_data_movements_id": 7292,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3147,
+    "fields": {
+      "name": "Samdamsa",
+      "category_data_movements_id": 7294,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3148,
+    "fields": {
+      "name": "Mukula",
+      "category_data_movements_id": 7296,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3149,
+    "fields": {
+      "name": "Tamrachooda",
+      "category_data_movements_id": 7298,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3150,
+    "fields": {
+      "name": "Trishula",
+      "category_data_movements_id": 7300,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3151,
+    "fields": {
+      "name": "Overview",
+      "category_data_movements_id": 7302,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3152,
+    "fields": {
+      "name": "Anjali",
+      "category_data_movements_id": 7304,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3153,
+    "fields": {
+      "name": "Kapota",
+      "category_data_movements_id": 7306,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3154,
+    "fields": {
+      "name": "Karkata",
+      "category_data_movements_id": 7308,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3155,
+    "fields": {
+      "name": "Swastika",
+      "category_data_movements_id": 7310,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3156,
+    "fields": {
+      "name": "Dola hasta",
+      "category_data_movements_id": 7312,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3157,
+    "fields": {
+      "name": "Pushpaputa",
+      "category_data_movements_id": 7314,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3158,
+    "fields": {
+      "name": "Utsanga",
+      "category_data_movements_id": 7316,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3159,
+    "fields": {
+      "name": "Shivalinga",
+      "category_data_movements_id": 7318,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3160,
+    "fields": {
+      "name": "Katakavardhana",
+      "category_data_movements_id": 7320,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3161,
+    "fields": {
+      "name": "Kartariswastika",
+      "category_data_movements_id": 7322,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3162,
+    "fields": {
+      "name": "Sakata",
+      "category_data_movements_id": 7324,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3163,
+    "fields": {
+      "name": "Sankha",
+      "category_data_movements_id": 7326,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3164,
+    "fields": {
+      "name": "Chakra",
+      "category_data_movements_id": 7328,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3165,
+    "fields": {
+      "name": "Samputa",
+      "category_data_movements_id": 7330,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3166,
+    "fields": {
+      "name": "Pasa",
+      "category_data_movements_id": 7332,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3167,
+    "fields": {
+      "name": "Kilaka",
+      "category_data_movements_id": 7334,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3168,
+    "fields": {
+      "name": "Matsya",
+      "category_data_movements_id": 7336,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3169,
+    "fields": {
+      "name": "Koorma",
+      "category_data_movements_id": 7338,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3170,
+    "fields": {
+      "name": "Varaha",
+      "category_data_movements_id": 7340,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3171,
+    "fields": {
+      "name": "Garuda",
+      "category_data_movements_id": 7342,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3172,
+    "fields": {
+      "name": "Nagabandha",
+      "category_data_movements_id": 7344,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3173,
+    "fields": {
+      "name": "Khatwa",
+      "category_data_movements_id": 7346,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3174,
+    "fields": {
+      "name": "Bherunda",
+      "category_data_movements_id": 7348,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3175,
+    "fields": {
+      "name": "Overview",
+      "category_data_movements_id": 7350,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3176,
+    "fields": {
+      "name": "Asamyukta Hasta",
+      "category_data_movements_id": 7352,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3177,
+    "fields": {
+      "name": "Samyukta Hasta",
+      "category_data_movements_id": 7354,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3178,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7356,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3179,
+    "fields": {
+      "name": "Overview",
+      "category_data_movements_id": 7358,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3180,
+    "fields": {
+      "name": "Angika",
+      "category_data_movements_id": 7360,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3181,
+    "fields": {
+      "name": "Vachika",
+      "category_data_movements_id": 7362,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3182,
+    "fields": {
+      "name": "Aharya",
+      "category_data_movements_id": 7364,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3183,
+    "fields": {
+      "name": "Sattvika",
+      "category_data_movements_id": 7366,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3184,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7368,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3185,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7370,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3186,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7372,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3187,
+    "fields": {
+      "name": "Emphasis",
+      "category_data_movements_id": 7374,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3188,
+    "fields": {
+      "name": "Elocution",
+      "category_data_movements_id": 7376,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3189,
+    "fields": {
+      "name": "Energy",
+      "category_data_movements_id": 7378,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3190,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7380,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3191,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7382,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3192,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7384,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3193,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7386,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3194,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7388,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3195,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7390,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3196,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7392,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3197,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7394,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3198,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7396,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3199,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7398,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3200,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7400,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3201,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7402,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3202,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7404,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3203,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7406,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3204,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7408,
+      "type": "CONTEXT",
+      "is_related_only": false
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3205,
+    "fields": {
+      "name": "Bhoomipranam",
+      "category_data_movements_id": 7410,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3206,
+    "fields": {
+      "name": "Bhoomipranam",
+      "category_data_movements_id": 7412,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3207,
+    "fields": {
+      "name": "Durga Stuti",
+      "category_data_movements_id": 7414,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3208,
+    "fields": {
+      "name": "Durga Stuti",
+      "category_data_movements_id": 7416,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3209,
+    "fields": {
+      "name": "Ganesh Bandana",
+      "category_data_movements_id": 7418,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3210,
+    "fields": {
+      "name": "Ganesh Bandana",
+      "category_data_movements_id": 7420,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3211,
+    "fields": {
+      "name": "Sabhapranam",
+      "category_data_movements_id": 7422,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3212,
+    "fields": {
+      "name": "Sabhapranam",
+      "category_data_movements_id": 7424,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3213,
+    "fields": {
+      "name": "Sthiti",
+      "category_data_movements_id": 7426,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3214,
+    "fields": {
+      "name": "Sthiti",
+      "category_data_movements_id": 7428,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3215,
+    "fields": {
+      "name": "Sthayi - Pankaj Charan Das",
+      "category_data_movements_id": 7430,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3216,
+    "fields": {
+      "name": "Sthayi - Pankaj Charan Das",
+      "category_data_movements_id": 7432,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3217,
+    "fields": {
+      "name": "Battu - Kelucharan Mohapatra",
+      "category_data_movements_id": 7434,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3218,
+    "fields": {
+      "name": "Battu - Kelucharan Mohapatra",
+      "category_data_movements_id": 7436,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3219,
+    "fields": {
+      "name": "Konark Kanti",
+      "category_data_movements_id": 7438,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3220,
+    "fields": {
+      "name": "Konark Kanti",
+      "category_data_movements_id": 7440,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3221,
+    "fields": {
+      "name": "Raga Rageshri",
+      "category_data_movements_id": 7442,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3222,
+    "fields": {
+      "name": "Raga Rageshri",
+      "category_data_movements_id": 7444,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3223,
+    "fields": {
+      "name": "Raga Hamsadhwani",
+      "category_data_movements_id": 7446,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3224,
+    "fields": {
+      "name": "Raga Hamsadhwani",
+      "category_data_movements_id": 7448,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3225,
+    "fields": {
+      "name": "Sakhi Hey",
+      "category_data_movements_id": 7450,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3226,
+    "fields": {
+      "name": "Sakhi Hey",
+      "category_data_movements_id": 7452,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3227,
+    "fields": {
+      "name": "Pratinayaka",
+      "category_data_movements_id": 7454,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3228,
+    "fields": {
+      "name": "Pratinayaka",
+      "category_data_movements_id": 7456,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3229,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7458,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3230,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7460,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3231,
+    "fields": {
+      "name": "1",
+      "category_data_movements_id": 7462,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3232,
+    "fields": {
+      "name": "1",
+      "category_data_movements_id": 7464,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3233,
+    "fields": {
+      "name": "2",
+      "category_data_movements_id": 7466,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3234,
+    "fields": {
+      "name": "2",
+      "category_data_movements_id": 7468,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3235,
+    "fields": {
+      "name": "3",
+      "category_data_movements_id": 7470,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3236,
+    "fields": {
+      "name": "3",
+      "category_data_movements_id": 7472,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3237,
+    "fields": {
+      "name": "4",
+      "category_data_movements_id": 7474,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3238,
+    "fields": {
+      "name": "4",
+      "category_data_movements_id": 7476,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3239,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7478,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3240,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7480,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3241,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7482,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3242,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7484,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3243,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7486,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3244,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7488,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3245,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7490,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3246,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7492,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3247,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7494,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3248,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7496,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3249,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7498,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3250,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7500,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3251,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7502,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3252,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7504,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3253,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7506,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3254,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7508,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3255,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7510,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3256,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7512,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3257,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7514,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3258,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7516,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3259,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7518,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3260,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7520,
+      "type": "SEQUENCE",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3261,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7522,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3262,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7524,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3263,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7526,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3264,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7528,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3265,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7530,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3266,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7532,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3267,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7534,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3268,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7536,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3269,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7538,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3270,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7540,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3271,
+    "fields": {
+      "name": "Mardala",
+      "category_data_movements_id": 7542,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3272,
+    "fields": {
+      "name": "Mardala",
+      "category_data_movements_id": 7544,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3273,
+    "fields": {
+      "name": "Beena",
+      "category_data_movements_id": 7546,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3274,
+    "fields": {
+      "name": "Beena",
+      "category_data_movements_id": 7548,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3275,
+    "fields": {
+      "name": "Manjeera",
+      "category_data_movements_id": 7550,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3276,
+    "fields": {
+      "name": "Manjeera",
+      "category_data_movements_id": 7552,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3277,
+    "fields": {
+      "name": "Bansi",
+      "category_data_movements_id": 7554,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3278,
+    "fields": {
+      "name": "Bansi",
+      "category_data_movements_id": 7556,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3279,
+    "fields": {
+      "name": "Alasa",
+      "category_data_movements_id": 7558,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3280,
+    "fields": {
+      "name": "Alasa",
+      "category_data_movements_id": 7560,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3281,
+    "fields": {
+      "name": "Darpana",
+      "category_data_movements_id": 7562,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3282,
+    "fields": {
+      "name": "Darpana",
+      "category_data_movements_id": 7564,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3283,
+    "fields": {
+      "name": "Salbhanjika",
+      "category_data_movements_id": 7566,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3284,
+    "fields": {
+      "name": "Salbhanjika",
+      "category_data_movements_id": 7568,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3285,
+    "fields": {
+      "name": "Abhiman",
+      "category_data_movements_id": 7570,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3286,
+    "fields": {
+      "name": "Abhiman",
+      "category_data_movements_id": 7572,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3287,
+    "fields": {
+      "name": "Rama",
+      "category_data_movements_id": 7574,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3288,
+    "fields": {
+      "name": "Rama",
+      "category_data_movements_id": 7576,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3289,
+    "fields": {
+      "name": "Ravana",
+      "category_data_movements_id": 7578,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3290,
+    "fields": {
+      "name": "Ravana",
+      "category_data_movements_id": 7580,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3291,
+    "fields": {
+      "name": "Surya",
+      "category_data_movements_id": 7582,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3292,
+    "fields": {
+      "name": "Surya",
+      "category_data_movements_id": 7584,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3293,
+    "fields": {
+      "name": "Vishnu",
+      "category_data_movements_id": 7586,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3294,
+    "fields": {
+      "name": "Vishnu",
+      "category_data_movements_id": 7588,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3295,
+    "fields": {
+      "name": "Shiva",
+      "category_data_movements_id": 7590,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3296,
+    "fields": {
+      "name": "Shiva",
+      "category_data_movements_id": 7592,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3297,
+    "fields": {
+      "name": "Durga",
+      "category_data_movements_id": 7594,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3298,
+    "fields": {
+      "name": "Durga",
+      "category_data_movements_id": 7596,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3299,
+    "fields": {
+      "name": "Adi",
+      "category_data_movements_id": 7598,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3300,
+    "fields": {
+      "name": "Adi",
+      "category_data_movements_id": 7600,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3301,
+    "fields": {
+      "name": "Rekha",
+      "category_data_movements_id": 7602,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3302,
+    "fields": {
+      "name": "Rekha",
+      "category_data_movements_id": 7604,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3303,
+    "fields": {
+      "name": "Sama",
+      "category_data_movements_id": 7606,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3304,
+    "fields": {
+      "name": "Sama",
+      "category_data_movements_id": 7608,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3305,
+    "fields": {
+      "name": "Viparitha/dwimukha",
+      "category_data_movements_id": 7610,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3306,
+    "fields": {
+      "name": "Viparitha/dwimukha",
+      "category_data_movements_id": 7612,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3307,
+    "fields": {
+      "name": "Ardhaswastika",
+      "category_data_movements_id": 7614,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3308,
+    "fields": {
+      "name": "Ardhaswastika",
+      "category_data_movements_id": 7616,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3309,
+    "fields": {
+      "name": "Swastika",
+      "category_data_movements_id": 7618,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3310,
+    "fields": {
+      "name": "Swastika",
+      "category_data_movements_id": 7620,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3311,
+    "fields": {
+      "name": "Kumbha",
+      "category_data_movements_id": 7622,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3312,
+    "fields": {
+      "name": "Kumbha",
+      "category_data_movements_id": 7624,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3313,
+    "fields": {
+      "name": "Ardha-chauka",
+      "category_data_movements_id": 7626,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3314,
+    "fields": {
+      "name": "Ardha-chauka",
+      "category_data_movements_id": 7628,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3315,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7630,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3316,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7632,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3317,
+    "fields": {
+      "name": "Mandala",
+      "category_data_movements_id": 7634,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3318,
+    "fields": {
+      "name": "Mandala",
+      "category_data_movements_id": 7636,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3319,
+    "fields": {
+      "name": "Trasya",
+      "category_data_movements_id": 7638,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3320,
+    "fields": {
+      "name": "Trasya",
+      "category_data_movements_id": 7640,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3321,
+    "fields": {
+      "name": "Dhanu",
+      "category_data_movements_id": 7642,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3322,
+    "fields": {
+      "name": "Dhanu",
+      "category_data_movements_id": 7644,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3323,
+    "fields": {
+      "name": "Prusthadhanu",
+      "category_data_movements_id": 7646,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3324,
+    "fields": {
+      "name": "Prusthadhanu",
+      "category_data_movements_id": 7648,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3325,
+    "fields": {
+      "name": "Suchi",
+      "category_data_movements_id": 7650,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3326,
+    "fields": {
+      "name": "Suchi",
+      "category_data_movements_id": 7652,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3327,
+    "fields": {
+      "name": "Kunchita",
+      "category_data_movements_id": 7654,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3328,
+    "fields": {
+      "name": "Kunchita",
+      "category_data_movements_id": 7656,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3329,
+    "fields": {
+      "name": "Vilagna Parshani",
+      "category_data_movements_id": 7658,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3330,
+    "fields": {
+      "name": "Vilagna Parshani",
+      "category_data_movements_id": 7660,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3331,
+    "fields": {
+      "name": "Anukunchita",
+      "category_data_movements_id": 7662,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3332,
+    "fields": {
+      "name": "Anukunchita",
+      "category_data_movements_id": 7664,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3333,
+    "fields": {
+      "name": "Gharshita",
+      "category_data_movements_id": 7666,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3334,
+    "fields": {
+      "name": "Gharshita",
+      "category_data_movements_id": 7668,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3335,
+    "fields": {
+      "name": "Utparshani",
+      "category_data_movements_id": 7670,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3336,
+    "fields": {
+      "name": "Utparshani",
+      "category_data_movements_id": 7672,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3337,
+    "fields": {
+      "name": "Ashrita",
+      "category_data_movements_id": 7674,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3338,
+    "fields": {
+      "name": "Ashrita",
+      "category_data_movements_id": 7676,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3339,
+    "fields": {
+      "name": "Meenapuchha",
+      "category_data_movements_id": 7678,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3340,
+    "fields": {
+      "name": "Meenapuchha",
+      "category_data_movements_id": 7680,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3341,
+    "fields": {
+      "name": "Lolita",
+      "category_data_movements_id": 7682,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3342,
+    "fields": {
+      "name": "Lolita",
+      "category_data_movements_id": 7684,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3343,
+    "fields": {
+      "name": "Uttolita",
+      "category_data_movements_id": 7686,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3344,
+    "fields": {
+      "name": "Uttolita",
+      "category_data_movements_id": 7688,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3345,
+    "fields": {
+      "name": "Ullolita",
+      "category_data_movements_id": 7690,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3346,
+    "fields": {
+      "name": "Ullolita",
+      "category_data_movements_id": 7692,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3347,
+    "fields": {
+      "name": "Januashrita",
+      "category_data_movements_id": 7694,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3348,
+    "fields": {
+      "name": "Januashrita",
+      "category_data_movements_id": 7696,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3349,
+    "fields": {
+      "name": "Nupura",
+      "category_data_movements_id": 7698,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3350,
+    "fields": {
+      "name": "Nupura",
+      "category_data_movements_id": 7700,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3351,
+    "fields": {
+      "name": "Alidha",
+      "category_data_movements_id": 7702,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3352,
+    "fields": {
+      "name": "Alidha",
+      "category_data_movements_id": 7704,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3353,
+    "fields": {
+      "name": "Pratyalidha",
+      "category_data_movements_id": 7706,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3354,
+    "fields": {
+      "name": "Pratyalidha",
+      "category_data_movements_id": 7708,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3355,
+    "fields": {
+      "name": "Bandhani",
+      "category_data_movements_id": 7710,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3356,
+    "fields": {
+      "name": "Bandhani",
+      "category_data_movements_id": 7712,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3357,
+    "fields": {
+      "name": "Ekapada",
+      "category_data_movements_id": 7714,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3358,
+    "fields": {
+      "name": "Ekapada",
+      "category_data_movements_id": 7716,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3359,
+    "fields": {
+      "name": "Janghashrita",
+      "category_data_movements_id": 7718,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3360,
+    "fields": {
+      "name": "Janghashrita",
+      "category_data_movements_id": 7720,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3361,
+    "fields": {
+      "name": "Mahapada",
+      "category_data_movements_id": 7722,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3362,
+    "fields": {
+      "name": "Mahapada",
+      "category_data_movements_id": 7724,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3363,
+    "fields": {
+      "name": "Prushta Mahapada",
+      "category_data_movements_id": 7726,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3364,
+    "fields": {
+      "name": "Prushta Mahapada",
+      "category_data_movements_id": 7728,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3365,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7730,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3366,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7732,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3367,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7734,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3368,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7736,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3369,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7738,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3370,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7740,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3371,
+    "fields": {
+      "name": "1",
+      "category_data_movements_id": 7742,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3372,
+    "fields": {
+      "name": "1",
+      "category_data_movements_id": 7744,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3373,
+    "fields": {
+      "name": "2",
+      "category_data_movements_id": 7746,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3374,
+    "fields": {
+      "name": "2",
+      "category_data_movements_id": 7748,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3375,
+    "fields": {
+      "name": "3",
+      "category_data_movements_id": 7750,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3376,
+    "fields": {
+      "name": "3",
+      "category_data_movements_id": 7752,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3377,
+    "fields": {
+      "name": "4",
+      "category_data_movements_id": 7754,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3378,
+    "fields": {
+      "name": "4",
+      "category_data_movements_id": 7756,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3379,
+    "fields": {
+      "name": "5",
+      "category_data_movements_id": 7758,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3380,
+    "fields": {
+      "name": "5",
+      "category_data_movements_id": 7760,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3381,
+    "fields": {
+      "name": "6",
+      "category_data_movements_id": 7762,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3382,
+    "fields": {
+      "name": "6",
+      "category_data_movements_id": 7764,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3383,
+    "fields": {
+      "name": "7",
+      "category_data_movements_id": 7766,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3384,
+    "fields": {
+      "name": "7",
+      "category_data_movements_id": 7768,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3385,
+    "fields": {
+      "name": "8",
+      "category_data_movements_id": 7770,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3386,
+    "fields": {
+      "name": "8",
+      "category_data_movements_id": 7772,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3387,
+    "fields": {
+      "name": "9",
+      "category_data_movements_id": 7774,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3388,
+    "fields": {
+      "name": "9",
+      "category_data_movements_id": 7776,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3389,
+    "fields": {
+      "name": "10",
+      "category_data_movements_id": 7778,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3390,
+    "fields": {
+      "name": "10",
+      "category_data_movements_id": 7780,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3391,
+    "fields": {
+      "name": "1",
+      "category_data_movements_id": 7782,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3392,
+    "fields": {
+      "name": "1",
+      "category_data_movements_id": 7784,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3393,
+    "fields": {
+      "name": "2",
+      "category_data_movements_id": 7786,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3394,
+    "fields": {
+      "name": "2",
+      "category_data_movements_id": 7788,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3395,
+    "fields": {
+      "name": "3",
+      "category_data_movements_id": 7790,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3396,
+    "fields": {
+      "name": "3",
+      "category_data_movements_id": 7792,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3397,
+    "fields": {
+      "name": "4",
+      "category_data_movements_id": 7794,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3398,
+    "fields": {
+      "name": "4",
+      "category_data_movements_id": 7796,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3399,
+    "fields": {
+      "name": "5",
+      "category_data_movements_id": 7798,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3400,
+    "fields": {
+      "name": "5",
+      "category_data_movements_id": 7800,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3401,
+    "fields": {
+      "name": "6",
+      "category_data_movements_id": 7802,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3402,
+    "fields": {
+      "name": "6",
+      "category_data_movements_id": 7804,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3403,
+    "fields": {
+      "name": "7",
+      "category_data_movements_id": 7806,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3404,
+    "fields": {
+      "name": "7",
+      "category_data_movements_id": 7808,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3405,
+    "fields": {
+      "name": "8",
+      "category_data_movements_id": 7810,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3406,
+    "fields": {
+      "name": "8",
+      "category_data_movements_id": 7812,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3407,
+    "fields": {
+      "name": "9",
+      "category_data_movements_id": 7814,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3408,
+    "fields": {
+      "name": "9",
+      "category_data_movements_id": 7816,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3409,
+    "fields": {
+      "name": "10",
+      "category_data_movements_id": 7818,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3410,
+    "fields": {
+      "name": "10",
+      "category_data_movements_id": 7820,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3411,
+    "fields": {
+      "name": "1",
+      "category_data_movements_id": 7822,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3412,
+    "fields": {
+      "name": "1",
+      "category_data_movements_id": 7824,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3413,
+    "fields": {
+      "name": "2",
+      "category_data_movements_id": 7826,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3414,
+    "fields": {
+      "name": "2",
+      "category_data_movements_id": 7828,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3415,
+    "fields": {
+      "name": "3",
+      "category_data_movements_id": 7830,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3416,
+    "fields": {
+      "name": "3",
+      "category_data_movements_id": 7832,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3417,
+    "fields": {
+      "name": "4",
+      "category_data_movements_id": 7834,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3418,
+    "fields": {
+      "name": "4",
+      "category_data_movements_id": 7836,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3419,
+    "fields": {
+      "name": "5",
+      "category_data_movements_id": 7838,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3420,
+    "fields": {
+      "name": "5",
+      "category_data_movements_id": 7840,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3421,
+    "fields": {
+      "name": "6",
+      "category_data_movements_id": 7842,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3422,
+    "fields": {
+      "name": "6",
+      "category_data_movements_id": 7844,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3423,
+    "fields": {
+      "name": "7",
+      "category_data_movements_id": 7846,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3424,
+    "fields": {
+      "name": "7",
+      "category_data_movements_id": 7848,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3425,
+    "fields": {
+      "name": "8",
+      "category_data_movements_id": 7850,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3426,
+    "fields": {
+      "name": "8",
+      "category_data_movements_id": 7852,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3427,
+    "fields": {
+      "name": "9",
+      "category_data_movements_id": 7854,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3428,
+    "fields": {
+      "name": "9",
+      "category_data_movements_id": 7856,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3429,
+    "fields": {
+      "name": "10",
+      "category_data_movements_id": 7858,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3430,
+    "fields": {
+      "name": "10",
+      "category_data_movements_id": 7860,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3431,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7862,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3432,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7864,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3433,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7866,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3434,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7868,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3435,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7870,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3436,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7872,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3437,
+    "fields": {
+      "name": "Ullolita",
+      "category_data_movements_id": 7874,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3438,
+    "fields": {
+      "name": "Ullolita",
+      "category_data_movements_id": 7876,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3439,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7878,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3440,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7880,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3441,
+    "fields": {
+      "name": "Uthparshini",
+      "category_data_movements_id": 7882,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3442,
+    "fields": {
+      "name": "Uthparshini",
+      "category_data_movements_id": 7884,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3443,
+    "fields": {
+      "name": "Parshachira",
+      "category_data_movements_id": 7886,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3444,
+    "fields": {
+      "name": "Parshachira",
+      "category_data_movements_id": 7888,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3445,
+    "fields": {
+      "name": "Prushtadhanu",
+      "category_data_movements_id": 7890,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3446,
+    "fields": {
+      "name": "Prushtadhanu",
+      "category_data_movements_id": 7892,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3447,
+    "fields": {
+      "name": "Trasya",
+      "category_data_movements_id": 7894,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3448,
+    "fields": {
+      "name": "Trasya",
+      "category_data_movements_id": 7896,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3449,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7898,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3450,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7900,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3451,
+    "fields": {
+      "name": "Tribhangi",
+      "category_data_movements_id": 7902,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3452,
+    "fields": {
+      "name": "Tribhangi",
+      "category_data_movements_id": 7904,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3453,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7906,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3454,
+    "fields": {
+      "name": "Chauka",
+      "category_data_movements_id": 7908,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3455,
+    "fields": {
+      "name": "Purna",
+      "category_data_movements_id": 7910,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3456,
+    "fields": {
+      "name": "Purna",
+      "category_data_movements_id": 7912,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3457,
+    "fields": {
+      "name": "Thiya",
+      "category_data_movements_id": 7914,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3458,
+    "fields": {
+      "name": "Thiya",
+      "category_data_movements_id": 7916,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3459,
+    "fields": {
+      "name": "Bosa",
+      "category_data_movements_id": 7918,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3460,
+    "fields": {
+      "name": "Bosa",
+      "category_data_movements_id": 7920,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3461,
+    "fields": {
+      "name": "Chhanda",
+      "category_data_movements_id": 7922,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3462,
+    "fields": {
+      "name": "Chhanda",
+      "category_data_movements_id": 7924,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3463,
+    "fields": {
+      "name": "Viparita",
+      "category_data_movements_id": 7926,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3464,
+    "fields": {
+      "name": "Viparita",
+      "category_data_movements_id": 7928,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3465,
+    "fields": {
+      "name": "Chhapka",
+      "category_data_movements_id": 7930,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3466,
+    "fields": {
+      "name": "Chhapka",
+      "category_data_movements_id": 7932,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3467,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7934,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3468,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7936,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3469,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7938,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3470,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7940,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3471,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7942,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3472,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7944,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3473,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7946,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3474,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7948,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3475,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7950,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3476,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7952,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3477,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7954,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3478,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7956,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3479,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7958,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3480,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7960,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3481,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7962,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3482,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7964,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3483,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7966,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3484,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7968,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3485,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7970,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3486,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7972,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3487,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7974,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3488,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7976,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3489,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7978,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3490,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7980,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3491,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7982,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3492,
+    "fields": {
+      "name": "nan",
+      "category_data_movements_id": 7984,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3493,
+    "fields": {
+      "name": "Original 1",
+      "category_data_movements_id": 7986,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3494,
+    "fields": {
+      "name": "Original 1",
+      "category_data_movements_id": 7988,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3495,
+    "fields": {
+      "name": "Transformed 1",
+      "category_data_movements_id": 7990,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3496,
+    "fields": {
+      "name": "Transformed 1",
+      "category_data_movements_id": 7992,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3497,
+    "fields": {
+      "name": "Original 2",
+      "category_data_movements_id": 7994,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3498,
+    "fields": {
+      "name": "Original 2",
+      "category_data_movements_id": 7996,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3499,
+    "fields": {
+      "name": "Transformed 2",
+      "category_data_movements_id": 7998,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3500,
+    "fields": {
+      "name": "Transformed 2",
+      "category_data_movements_id": 8000,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3501,
+    "fields": {
+      "name": "Original 1",
+      "category_data_movements_id": 8002,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3502,
+    "fields": {
+      "name": "Original 1",
+      "category_data_movements_id": 8004,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3503,
+    "fields": {
+      "name": "Transformed 1",
+      "category_data_movements_id": 8006,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3504,
+    "fields": {
+      "name": "Transformed 1",
+      "category_data_movements_id": 8008,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3505,
+    "fields": {
+      "name": "Original 2",
+      "category_data_movements_id": 8010,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3506,
+    "fields": {
+      "name": "Original 2",
+      "category_data_movements_id": 8012,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3507,
+    "fields": {
+      "name": "Transformed 2A",
+      "category_data_movements_id": 8014,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3508,
+    "fields": {
+      "name": "Transformed 2A",
+      "category_data_movements_id": 8016,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3509,
+    "fields": {
+      "name": "Transformed 2B",
+      "category_data_movements_id": 8018,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3510,
+    "fields": {
+      "name": "Transformed 2B",
+      "category_data_movements_id": 8020,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3511,
+    "fields": {
+      "name": "Original 1",
+      "category_data_movements_id": 8022,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3512,
+    "fields": {
+      "name": "Original 1",
+      "category_data_movements_id": 8024,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3513,
+    "fields": {
+      "name": "Transformed 1",
+      "category_data_movements_id": 8026,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3514,
+    "fields": {
+      "name": "Transformed 1",
+      "category_data_movements_id": 8028,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3515,
+    "fields": {
+      "name": "Original 2",
+      "category_data_movements_id": 8030,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3516,
+    "fields": {
+      "name": "Original 2",
+      "category_data_movements_id": 8032,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3517,
+    "fields": {
+      "name": "Transformed 2",
+      "category_data_movements_id": 8034,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3518,
+    "fields": {
+      "name": "Transformed 2",
+      "category_data_movements_id": 8036,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3519,
+    "fields": {
+      "name": "Original 1",
+      "category_data_movements_id": 8038,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3520,
+    "fields": {
+      "name": "Original 1",
+      "category_data_movements_id": 8040,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3521,
+    "fields": {
+      "name": "Transformed 1",
+      "category_data_movements_id": 8042,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3522,
+    "fields": {
+      "name": "Transformed 1",
+      "category_data_movements_id": 8044,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3523,
+    "fields": {
+      "name": "Original 2",
+      "category_data_movements_id": 8046,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3524,
+    "fields": {
+      "name": "Original 2",
+      "category_data_movements_id": 8048,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3525,
+    "fields": {
+      "name": "Transformed 2",
+      "category_data_movements_id": 8050,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3526,
+    "fields": {
+      "name": "Transformed 2",
+      "category_data_movements_id": 8052,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3527,
+    "fields": {
+      "name": "Original & Transformed 1",
+      "category_data_movements_id": 8054,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3528,
+    "fields": {
+      "name": "Original & Transformed 1",
+      "category_data_movements_id": 8056,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3529,
+    "fields": {
+      "name": "Original & Transformed 2",
+      "category_data_movements_id": 8058,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3530,
+    "fields": {
+      "name": "Original & Transformed 2",
+      "category_data_movements_id": 8060,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3531,
+    "fields": {
+      "name": "Original & Transformed 3",
+      "category_data_movements_id": 8062,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3532,
+    "fields": {
+      "name": "Original & Transformed 3",
+      "category_data_movements_id": 8064,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3533,
+    "fields": {
+      "name": "Original",
+      "category_data_movements_id": 8066,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3534,
+    "fields": {
+      "name": "Transformed",
+      "category_data_movements_id": 8068,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3535,
+    "fields": {
+      "name": "Transformed",
+      "category_data_movements_id": 8070,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3536,
+    "fields": {
+      "name": "Original",
+      "category_data_movements_id": 8072,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3537,
+    "fields": {
+      "name": "Original",
+      "category_data_movements_id": 8074,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3538,
+    "fields": {
+      "name": "Transformed",
+      "category_data_movements_id": 8076,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  },
+  {
+    "model": "kalari.CategoriesMovements",
+    "pk": 3539,
+    "fields": {
+      "name": "Transformed",
+      "category_data_movements_id": 8078,
+      "type": "UNIT",
+      "is_related_only": true
+    }
+  }
+]

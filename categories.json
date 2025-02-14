@@ -5,14 +5,13 @@
     "fields": {
       "name": "Genesis",
       "slug": "genesis",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 1,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 1
     }
   },
   {
@@ -21,12 +20,12 @@
     "fields": {
       "name": "Odissi",
       "slug": "odissi",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4000,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -36,12 +35,12 @@
     "fields": {
       "name": "Parampara",
       "slug": "parampara",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4000,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -51,12 +50,12 @@
     "fields": {
       "name": "Mahari",
       "slug": "mahari",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4000,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -66,12 +65,12 @@
     "fields": {
       "name": "Introduction",
       "slug": "introduction",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4003,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -81,12 +80,12 @@
     "fields": {
       "name": "Rupashree Mohapatra",
       "slug": "rupashree-mohapatra",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4003,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -96,12 +95,12 @@
     "fields": {
       "name": "Current practices",
       "slug": "current-practices",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4003,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -111,12 +110,12 @@
     "fields": {
       "name": "Gotipua",
       "slug": "gotipua",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4000,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -126,12 +125,12 @@
     "fields": {
       "name": "Traditional",
       "slug": "traditional",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4007,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -141,12 +140,12 @@
     "fields": {
       "name": "Current",
       "slug": "current",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4007,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -156,12 +155,12 @@
     "fields": {
       "name": "Early Gurus",
       "slug": "early-gurus",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4000,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -171,12 +170,12 @@
     "fields": {
       "name": "Introduction",
       "slug": "introduction",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4010,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -186,12 +185,12 @@
     "fields": {
       "name": "Kelucharan Mohapatra",
       "slug": "kelucharan-mohapatra",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4010,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -201,12 +200,12 @@
     "fields": {
       "name": "Gangadhar Pradhan",
       "slug": "gangadhar-pradhan",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4010,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -216,12 +215,12 @@
     "fields": {
       "name": "Sanjukta Panigrahi",
       "slug": "sanjukta-panigrahi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4010,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -231,14 +230,13 @@
     "fields": {
       "name": "Texts & transmissions",
       "slug": "texts-transmissions",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 2,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 2
     }
   },
   {
@@ -247,12 +245,12 @@
     "fields": {
       "name": "Oral Traditions & Texts",
       "slug": "oral-traditions-texts",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4015,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -262,12 +260,12 @@
     "fields": {
       "name": "Abhinaya Chandrika",
       "slug": "abhinaya-chandrika",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4015,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -277,12 +275,12 @@
     "fields": {
       "name": "Geeta Gobinda",
       "slug": "geeta-gobinda",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4015,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -292,14 +290,13 @@
     "fields": {
       "name": "Body & aesthetics",
       "slug": "body-aesthetics",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 3,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 3
     }
   },
   {
@@ -308,12 +305,12 @@
     "fields": {
       "name": "Body care system",
       "slug": "body-care-system",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4019,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -323,12 +320,12 @@
     "fields": {
       "name": "Warm-Up",
       "slug": "warm-up",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4020,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -338,12 +335,12 @@
     "fields": {
       "name": "Warm-up Demo",
       "slug": "warm-up-demo",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4020,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -353,12 +350,12 @@
     "fields": {
       "name": "Folk Cardio",
       "slug": "folk-cardio",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4020,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -368,12 +365,12 @@
     "fields": {
       "name": "Folk-cardio Demo",
       "slug": "folk-cardio-demo",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4020,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -383,12 +380,12 @@
     "fields": {
       "name": "Cool Down",
       "slug": "cool-down",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4020,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -398,12 +395,12 @@
     "fields": {
       "name": "Cool Down Demo",
       "slug": "cool-down-demo",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4020,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -413,12 +410,12 @@
     "fields": {
       "name": "Enactment",
       "slug": "enactment",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4019,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -428,12 +425,12 @@
     "fields": {
       "name": "Auchityam",
       "slug": "auchityam",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4019,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -443,12 +440,12 @@
     "fields": {
       "name": "Costume & Ornament",
       "slug": "costume-ornament",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4019,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -458,12 +455,12 @@
     "fields": {
       "name": "Iconography",
       "slug": "iconography",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4019,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -473,12 +470,12 @@
     "fields": {
       "name": "Realms of embodiment",
       "slug": "realms-of-embodiment",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4019,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -488,14 +485,13 @@
     "fields": {
       "name": "Principles of Movement",
       "slug": "principles-of-movement",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 4,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 4
     }
   },
   {
@@ -504,12 +500,12 @@
     "fields": {
       "name": "Movement Articulations",
       "slug": "movement-articulations",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4032,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -519,12 +515,12 @@
     "fields": {
       "name": "Circularity",
       "slug": "circularity",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4032,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -534,12 +530,12 @@
     "fields": {
       "name": "Movement Qualities",
       "slug": "movement-qualities",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4032,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -549,14 +545,13 @@
     "fields": {
       "name": "Pedagogy",
       "slug": "pedagogy",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 5,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 5
     }
   },
   {
@@ -565,12 +560,12 @@
     "fields": {
       "name": "Traditional",
       "slug": "traditional",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4036,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -580,12 +575,12 @@
     "fields": {
       "name": "Kelucharan Mohapatra",
       "slug": "kelucharan-mohapatra",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4036,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -595,12 +590,12 @@
     "fields": {
       "name": "Approach",
       "slug": "approach",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4038,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -610,12 +605,12 @@
     "fields": {
       "name": "Anecdotes 1",
       "slug": "anecdotes-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4038,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -625,12 +620,12 @@
     "fields": {
       "name": "Anecdotes 2",
       "slug": "anecdotes-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4038,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -640,12 +635,12 @@
     "fields": {
       "name": "Gangadhar Pradhan",
       "slug": "gangadhar-pradhan",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4036,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -655,12 +650,12 @@
     "fields": {
       "name": "Approach",
       "slug": "approach",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4042,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -670,12 +665,12 @@
     "fields": {
       "name": "Anecdotes",
       "slug": "anecdotes",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4042,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -685,12 +680,12 @@
     "fields": {
       "name": "Sharmila Biswas",
       "slug": "sharmila-biswas",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4036,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -700,12 +695,12 @@
     "fields": {
       "name": "Adult",
       "slug": "adult",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4045,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -715,12 +710,12 @@
     "fields": {
       "name": "Children",
       "slug": "children",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4045,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -730,12 +725,12 @@
     "fields": {
       "name": "Counselling",
       "slug": "counselling",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4045,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -745,12 +740,12 @@
     "fields": {
       "name": "Aruna Mohanty",
       "slug": "aruna-mohanty",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4036,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -760,12 +755,12 @@
     "fields": {
       "name": "Approach",
       "slug": "approach",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4049,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -775,12 +770,12 @@
     "fields": {
       "name": "Transmission",
       "slug": "transmission",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4049,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -790,14 +785,13 @@
     "fields": {
       "name": "Choreographic Approach",
       "slug": "choreographic-approach",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 6,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 6
     }
   },
   {
@@ -806,12 +800,12 @@
     "fields": {
       "name": "Kelucharan Mohapatra",
       "slug": "kelucharan-mohapatra",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4052,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -821,12 +815,12 @@
     "fields": {
       "name": "Artistic Journey",
       "slug": "artistic-journey",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4053,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -836,12 +830,12 @@
     "fields": {
       "name": "Thoughts On Dance",
       "slug": "thoughts-on-dance",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4053,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -851,12 +845,12 @@
     "fields": {
       "name": "Gangadhar Pradhan",
       "slug": "gangadhar-pradhan",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4052,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -866,12 +860,12 @@
     "fields": {
       "name": "Artistic Journey",
       "slug": "artistic-journey",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4056,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -881,12 +875,12 @@
     "fields": {
       "name": "Thoughts On Dance",
       "slug": "thoughts-on-dance",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4056,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -896,12 +890,12 @@
     "fields": {
       "name": "Sharmila Biswas",
       "slug": "sharmila-biswas",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4052,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -911,12 +905,12 @@
     "fields": {
       "name": "Artistic Journey",
       "slug": "artistic-journey",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4059,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -926,12 +920,12 @@
     "fields": {
       "name": "Thoughts On Dance",
       "slug": "thoughts-on-dance",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4059,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -941,12 +935,12 @@
     "fields": {
       "name": "Aruna Mohanty",
       "slug": "aruna-mohanty",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4052,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -956,12 +950,12 @@
     "fields": {
       "name": "Artistic Journey",
       "slug": "artistic-journey",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4062,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -971,12 +965,12 @@
     "fields": {
       "name": "Thoughts On Dance",
       "slug": "thoughts-on-dance",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4062,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -986,14 +980,13 @@
     "fields": {
       "name": "Music",
       "slug": "music",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 7,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 7
     }
   },
   {
@@ -1002,12 +995,12 @@
     "fields": {
       "name": "Odissi Music",
       "slug": "odissi-music",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4065,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -1017,12 +1010,12 @@
     "fields": {
       "name": "Accompaniments",
       "slug": "accompaniments",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4065,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -1032,12 +1025,12 @@
     "fields": {
       "name": "Odissi Mrudanga",
       "slug": "odissi-mrudanga",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4065,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -1047,12 +1040,12 @@
     "fields": {
       "name": "Mardala",
       "slug": "mardala",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4065,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -1062,12 +1055,12 @@
     "fields": {
       "name": "Introduction",
       "slug": "introduction",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4069,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -1077,12 +1070,12 @@
     "fields": {
       "name": "Current practices",
       "slug": "current-practices",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4069,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -1092,12 +1085,12 @@
     "fields": {
       "name": "Dhaneshwar Swain",
       "slug": "dhaneshwar-swain",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4069,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -1107,12 +1100,12 @@
     "fields": {
       "name": "Mardala Excerpts",
       "slug": "mardala-excerpts",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4065,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -1122,12 +1115,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -1137,12 +1130,12 @@
     "fields": {
       "name": "Adi tala in Arasa & Chakradhar",
       "slug": "adi-tala-in-arasa-chakradhar",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -1152,12 +1145,12 @@
     "fields": {
       "name": "Sabda swara patha",
       "slug": "sabda-swara-patha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -1167,12 +1160,12 @@
     "fields": {
       "name": "Composition by Banamali Maharana",
       "slug": "composition-by-banamali-maharana",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -1182,12 +1175,12 @@
     "fields": {
       "name": "Bani",
       "slug": "bani",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -1197,12 +1190,12 @@
     "fields": {
       "name": "Theka",
       "slug": "theka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -1212,12 +1205,12 @@
     "fields": {
       "name": "Tyahi",
       "slug": "tyahi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -1227,12 +1220,12 @@
     "fields": {
       "name": "Tisra Gati",
       "slug": "tisra-gati",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -1242,12 +1235,12 @@
     "fields": {
       "name": "Battu by Kelucharan Mohapatra",
       "slug": "battu-by-kelucharan-mohapatra",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -1257,12 +1250,12 @@
     "fields": {
       "name": "Bani by Pankaj Charan Das",
       "slug": "bani-by-pankaj-charan-das",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -1272,12 +1265,12 @@
     "fields": {
       "name": "Ganesh Bandana",
       "slug": "ganesh-bandana",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 11
     }
   },
@@ -1287,12 +1280,12 @@
     "fields": {
       "name": "Dasavtara by Deba Prasad Das",
       "slug": "dasavtara-by-deba-prasad-das",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 12
     }
   },
@@ -1302,12 +1295,12 @@
     "fields": {
       "name": "Mrugi",
       "slug": "mrugi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 13
     }
   },
@@ -1317,12 +1310,12 @@
     "fields": {
       "name": "Mayuri",
       "slug": "mayuri",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 14
     }
   },
@@ -1332,12 +1325,12 @@
     "fields": {
       "name": "Gajalila",
       "slug": "gajalila",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 15
     }
   },
@@ -1347,12 +1340,12 @@
     "fields": {
       "name": "Manduki",
       "slug": "manduki",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 16
     }
   },
@@ -1362,12 +1355,12 @@
     "fields": {
       "name": "Turangini",
       "slug": "turangini",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 17
     }
   },
@@ -1377,12 +1370,12 @@
     "fields": {
       "name": "Manavi",
       "slug": "manavi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 18
     }
   },
@@ -1392,12 +1385,12 @@
     "fields": {
       "name": "Dadra in tisra gati by Dhaneshwar Swain",
       "slug": "dadra-in-tisra-gati-by-dhaneshwar-swain",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 19
     }
   },
@@ -1407,12 +1400,12 @@
     "fields": {
       "name": "Chhanda prakaran",
       "slug": "chhanda-prakaran",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4073,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 20
     }
   },
@@ -1422,12 +1415,12 @@
     "fields": {
       "name": "Rhythmic variations",
       "slug": "rhythmic-variations",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4065,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -1437,14 +1430,13 @@
     "fields": {
       "name": "Tala",
       "slug": "tala",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 8,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 8
     }
   },
   {
@@ -1453,12 +1445,12 @@
     "fields": {
       "name": "Introduction",
       "slug": "introduction",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4095,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -1468,12 +1460,12 @@
     "fields": {
       "name": "Attributes",
       "slug": "attributes",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4095,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -1483,12 +1475,12 @@
     "fields": {
       "name": "Terminologies",
       "slug": "terminologies",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4095,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -1498,12 +1490,12 @@
     "fields": {
       "name": "Tala system",
       "slug": "tala-system",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4095,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -1513,12 +1505,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -1528,12 +1520,12 @@
     "fields": {
       "name": "Ekatali",
       "slug": "ekatali",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -1543,12 +1535,12 @@
     "fields": {
       "name": "Khemta/Jhula",
       "slug": "khemta-jhula",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -1558,12 +1550,12 @@
     "fields": {
       "name": "Rupak",
       "slug": "rupak",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -1573,12 +1565,12 @@
     "fields": {
       "name": "Jhampa",
       "slug": "jhampa",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -1588,12 +1580,12 @@
     "fields": {
       "name": "Adi",
       "slug": "adi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -1603,12 +1595,12 @@
     "fields": {
       "name": "Tripata",
       "slug": "tripata",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -1618,12 +1610,12 @@
     "fields": {
       "name": "Jati",
       "slug": "jati",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -1633,12 +1625,12 @@
     "fields": {
       "name": "Adatali",
       "slug": "adatali",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -1648,12 +1640,12 @@
     "fields": {
       "name": "Matha",
       "slug": "matha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -1663,12 +1655,12 @@
     "fields": {
       "name": "Kuduk",
       "slug": "kuduk",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 11
     }
   },
@@ -1678,12 +1670,12 @@
     "fields": {
       "name": "Sarimaan",
       "slug": "sarimaan",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4099,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 12
     }
   },
@@ -1693,12 +1685,12 @@
     "fields": {
       "name": "Arasa",
       "slug": "arasa",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4095,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -1708,12 +1700,12 @@
     "fields": {
       "name": "Mana",
       "slug": "mana",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4095,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -1723,14 +1715,13 @@
     "fields": {
       "name": "Shirobheda",
       "slug": "shirobheda",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 9,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 9
     }
   },
   {
@@ -1739,12 +1730,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -1754,12 +1745,12 @@
     "fields": {
       "name": "Sama",
       "slug": "sama",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -1769,12 +1760,12 @@
     "fields": {
       "name": "Udvahita",
       "slug": "udvahita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -1784,12 +1775,12 @@
     "fields": {
       "name": "Adhomukha",
       "slug": "adhomukha",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -1799,12 +1790,12 @@
     "fields": {
       "name": "Alolita",
       "slug": "alolita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -1814,12 +1805,12 @@
     "fields": {
       "name": "Dhuta",
       "slug": "dhuta",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -1829,12 +1820,12 @@
     "fields": {
       "name": "Kampita",
       "slug": "kampita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -1844,12 +1835,12 @@
     "fields": {
       "name": "Paravritta",
       "slug": "paravritta",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -1859,12 +1850,12 @@
     "fields": {
       "name": "Utkhipta",
       "slug": "utkhipta",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -1874,12 +1865,12 @@
     "fields": {
       "name": "Paribahita",
       "slug": "paribahita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4114,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -1889,14 +1880,13 @@
     "fields": {
       "name": "Drishti Bheda",
       "slug": "drishti-bheda",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 10,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 10
     }
   },
   {
@@ -1905,12 +1895,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -1920,12 +1910,12 @@
     "fields": {
       "name": "Sama",
       "slug": "sama",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -1935,12 +1925,12 @@
     "fields": {
       "name": "Alokita",
       "slug": "alokita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -1950,12 +1940,12 @@
     "fields": {
       "name": "Sachi",
       "slug": "sachi",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -1965,12 +1955,12 @@
     "fields": {
       "name": "Pralokita",
       "slug": "pralokita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -1980,12 +1970,12 @@
     "fields": {
       "name": "Nimilita",
       "slug": "nimilita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -1995,12 +1985,12 @@
     "fields": {
       "name": "Ullokita",
       "slug": "ullokita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -2010,12 +2000,12 @@
     "fields": {
       "name": "Anuvrutta",
       "slug": "anuvrutta",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -2025,12 +2015,12 @@
     "fields": {
       "name": "Avalokita",
       "slug": "avalokita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4125,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -2040,14 +2030,13 @@
     "fields": {
       "name": "Greevabheda",
       "slug": "greevabheda",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 11,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 11
     }
   },
   {
@@ -2056,12 +2045,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4135,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -2071,12 +2060,12 @@
     "fields": {
       "name": "Sundari",
       "slug": "sundari",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4135,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -2086,12 +2075,12 @@
     "fields": {
       "name": "Tiraschina",
       "slug": "tiraschina",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4135,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -2101,12 +2090,12 @@
     "fields": {
       "name": "Parivartita",
       "slug": "parivartita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4135,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -2116,12 +2105,12 @@
     "fields": {
       "name": "Prakampita",
       "slug": "prakampita",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4135,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -2131,14 +2120,13 @@
     "fields": {
       "name": "Hasta Mudra",
       "slug": "hasta-mudra",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 12,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 12
     }
   },
   {
@@ -2147,12 +2135,12 @@
     "fields": {
       "name": "Introduction",
       "slug": "introduction",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4141,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -2162,12 +2150,12 @@
     "fields": {
       "name": "Significance",
       "slug": "significance",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4141,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -2177,12 +2165,12 @@
     "fields": {
       "name": "Asamyukta Hasta",
       "slug": "asamyukta-hasta",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4141,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -2192,12 +2180,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -2207,12 +2195,12 @@
     "fields": {
       "name": "Pataka",
       "slug": "pataka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -2222,12 +2210,12 @@
     "fields": {
       "name": "Tripataka",
       "slug": "tripataka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -2237,12 +2225,12 @@
     "fields": {
       "name": "Ardhapataka",
       "slug": "ardhapataka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -2252,12 +2240,12 @@
     "fields": {
       "name": "Kartarimukha",
       "slug": "kartarimukha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -2267,12 +2255,12 @@
     "fields": {
       "name": "Mayura",
       "slug": "mayura",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -2282,12 +2270,12 @@
     "fields": {
       "name": "Ardha Chandra",
       "slug": "ardha-chandra",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -2297,12 +2285,12 @@
     "fields": {
       "name": "Arala",
       "slug": "arala",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -2312,12 +2300,12 @@
     "fields": {
       "name": "Shukatunda",
       "slug": "shukatunda",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -2327,12 +2315,12 @@
     "fields": {
       "name": "Mushti",
       "slug": "mushti",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -2342,12 +2330,12 @@
     "fields": {
       "name": "Shikhara",
       "slug": "shikhara",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 11
     }
   },
@@ -2357,12 +2345,12 @@
     "fields": {
       "name": "Kapitha",
       "slug": "kapitha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 12
     }
   },
@@ -2372,12 +2360,12 @@
     "fields": {
       "name": "Katakamukha",
       "slug": "katakamukha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 13
     }
   },
@@ -2387,12 +2375,12 @@
     "fields": {
       "name": "Suchi",
       "slug": "suchi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 14
     }
   },
@@ -2402,12 +2390,12 @@
     "fields": {
       "name": "Chandrakala",
       "slug": "chandrakala",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 15
     }
   },
@@ -2417,12 +2405,12 @@
     "fields": {
       "name": "Padmakosha",
       "slug": "padmakosha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 16
     }
   },
@@ -2432,12 +2420,12 @@
     "fields": {
       "name": "Sarpaseersha",
       "slug": "sarpaseersha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 17
     }
   },
@@ -2447,12 +2435,12 @@
     "fields": {
       "name": "Mrigasheersha",
       "slug": "mrigasheersha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 18
     }
   },
@@ -2462,12 +2450,12 @@
     "fields": {
       "name": "Simhamukha",
       "slug": "simhamukha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 19
     }
   },
@@ -2477,12 +2465,12 @@
     "fields": {
       "name": "Kangula",
       "slug": "kangula",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 20
     }
   },
@@ -2492,12 +2480,12 @@
     "fields": {
       "name": "Alapadma",
       "slug": "alapadma",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 21
     }
   },
@@ -2507,12 +2495,12 @@
     "fields": {
       "name": "Chatura",
       "slug": "chatura",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 22
     }
   },
@@ -2522,12 +2510,12 @@
     "fields": {
       "name": "Bhramara",
       "slug": "bhramara",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 23
     }
   },
@@ -2537,12 +2525,12 @@
     "fields": {
       "name": "Hamsasya",
       "slug": "hamsasya",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 24
     }
   },
@@ -2552,12 +2540,12 @@
     "fields": {
       "name": "Hamsapaksha",
       "slug": "hamsapaksha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 25
     }
   },
@@ -2567,12 +2555,12 @@
     "fields": {
       "name": "Samdamsa",
       "slug": "samdamsa",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 26
     }
   },
@@ -2582,12 +2570,12 @@
     "fields": {
       "name": "Mukula",
       "slug": "mukula",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 27
     }
   },
@@ -2597,12 +2585,12 @@
     "fields": {
       "name": "Tamrachooda",
       "slug": "tamrachooda",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 28
     }
   },
@@ -2612,12 +2600,12 @@
     "fields": {
       "name": "Trishula",
       "slug": "trishula",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4144,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 29
     }
   },
@@ -2627,12 +2615,12 @@
     "fields": {
       "name": "Samyukta Hasta",
       "slug": "samyukta-hasta",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4141,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -2642,12 +2630,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -2657,12 +2645,12 @@
     "fields": {
       "name": "Anjali",
       "slug": "anjali",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -2672,12 +2660,12 @@
     "fields": {
       "name": "Kapota",
       "slug": "kapota",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -2687,12 +2675,12 @@
     "fields": {
       "name": "Karkata",
       "slug": "karkata",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -2702,12 +2690,12 @@
     "fields": {
       "name": "Swastika",
       "slug": "swastika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -2717,12 +2705,12 @@
     "fields": {
       "name": "Dola hasta",
       "slug": "dola-hasta",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -2732,12 +2720,12 @@
     "fields": {
       "name": "Pushpaputa",
       "slug": "pushpaputa",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -2747,12 +2735,12 @@
     "fields": {
       "name": "Utsanga",
       "slug": "utsanga",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -2762,12 +2750,12 @@
     "fields": {
       "name": "Shivalinga",
       "slug": "shivalinga",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -2777,12 +2765,12 @@
     "fields": {
       "name": "Katakavardhana",
       "slug": "katakavardhana",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -2792,12 +2780,12 @@
     "fields": {
       "name": "Kartariswastika",
       "slug": "kartariswastika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 11
     }
   },
@@ -2807,12 +2795,12 @@
     "fields": {
       "name": "Sakata",
       "slug": "sakata",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 12
     }
   },
@@ -2822,12 +2810,12 @@
     "fields": {
       "name": "Sankha",
       "slug": "sankha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 13
     }
   },
@@ -2837,12 +2825,12 @@
     "fields": {
       "name": "Chakra",
       "slug": "chakra",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 14
     }
   },
@@ -2852,12 +2840,12 @@
     "fields": {
       "name": "Samputa",
       "slug": "samputa",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 15
     }
   },
@@ -2867,12 +2855,12 @@
     "fields": {
       "name": "Pasa",
       "slug": "pasa",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 16
     }
   },
@@ -2882,12 +2870,12 @@
     "fields": {
       "name": "Kilaka",
       "slug": "kilaka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 17
     }
   },
@@ -2897,12 +2885,12 @@
     "fields": {
       "name": "Matsya",
       "slug": "matsya",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 18
     }
   },
@@ -2912,12 +2900,12 @@
     "fields": {
       "name": "Koorma",
       "slug": "koorma",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 19
     }
   },
@@ -2927,12 +2915,12 @@
     "fields": {
       "name": "Varaha",
       "slug": "varaha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 20
     }
   },
@@ -2942,12 +2930,12 @@
     "fields": {
       "name": "Garuda",
       "slug": "garuda",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 21
     }
   },
@@ -2957,12 +2945,12 @@
     "fields": {
       "name": "Nagabandha",
       "slug": "nagabandha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 22
     }
   },
@@ -2972,12 +2960,12 @@
     "fields": {
       "name": "Khatwa",
       "slug": "khatwa",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 23
     }
   },
@@ -2987,12 +2975,12 @@
     "fields": {
       "name": "Bherunda",
       "slug": "bherunda",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4174,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 24
     }
   },
@@ -3002,12 +2990,12 @@
     "fields": {
       "name": "Abhinaya Chandrika",
       "slug": "abhinaya-chandrika",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4141,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -3017,12 +3005,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4199,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3032,12 +3020,12 @@
     "fields": {
       "name": "Asamyukta Hasta",
       "slug": "asamyukta-hasta",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4199,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3047,12 +3035,12 @@
     "fields": {
       "name": "Samyukta Hasta",
       "slug": "samyukta-hasta",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4199,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -3062,14 +3050,13 @@
     "fields": {
       "name": "Abhinaya",
       "slug": "abhinaya",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 13,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 13
     }
   },
   {
@@ -3078,12 +3065,12 @@
     "fields": {
       "name": "Art of Communication",
       "slug": "art-of-communication",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4203,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3093,12 +3080,12 @@
     "fields": {
       "name": "Classification",
       "slug": "classification",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4203,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3108,12 +3095,12 @@
     "fields": {
       "name": "Overview",
       "slug": "overview",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4205,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3123,12 +3110,12 @@
     "fields": {
       "name": "Angika",
       "slug": "angika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4205,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3138,12 +3125,12 @@
     "fields": {
       "name": "Vachika",
       "slug": "vachika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4205,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -3153,12 +3140,12 @@
     "fields": {
       "name": "Aharya",
       "slug": "aharya",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4205,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -3168,12 +3155,12 @@
     "fields": {
       "name": "Sattvika",
       "slug": "sattvika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4205,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -3183,12 +3170,12 @@
     "fields": {
       "name": "Sthayi & Sanchari Bhava",
       "slug": "sthayi-sanchari-bhava",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4203,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -3198,12 +3185,12 @@
     "fields": {
       "name": "Bhava & Rasa",
       "slug": "bhava-rasa",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4203,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -3213,14 +3200,13 @@
     "fields": {
       "name": "Theatre Practices",
       "slug": "theatre-practices",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 14,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 14
     }
   },
   {
@@ -3229,12 +3215,12 @@
     "fields": {
       "name": "Role in Dance",
       "slug": "role-in-dance",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4213,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3244,12 +3230,12 @@
     "fields": {
       "name": "Techniques",
       "slug": "techniques",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4213,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3259,12 +3245,12 @@
     "fields": {
       "name": "Emphasis",
       "slug": "emphasis",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4215,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3274,12 +3260,12 @@
     "fields": {
       "name": "Elocution",
       "slug": "elocution",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4215,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3289,12 +3275,12 @@
     "fields": {
       "name": "Energy",
       "slug": "energy",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4215,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -3304,14 +3290,13 @@
     "fields": {
       "name": "Earlier Archival Footage",
       "slug": "earlier-archival-footage",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 15,
-      "category_type": "ODISSI"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 15
     }
   },
   {
@@ -3320,12 +3305,12 @@
     "fields": {
       "name": "Footage 1",
       "slug": "footage-1",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3335,12 +3320,12 @@
     "fields": {
       "name": "Footage 2",
       "slug": "footage-2",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3350,12 +3335,12 @@
     "fields": {
       "name": "Footage 3",
       "slug": "footage-3",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -3365,12 +3350,12 @@
     "fields": {
       "name": "Footage 4",
       "slug": "footage-4",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -3380,12 +3365,12 @@
     "fields": {
       "name": "Footage 5",
       "slug": "footage-5",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -3395,12 +3380,12 @@
     "fields": {
       "name": "Footage 6",
       "slug": "footage-6",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -3410,12 +3395,12 @@
     "fields": {
       "name": "Footage 7",
       "slug": "footage-7",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -3425,12 +3410,12 @@
     "fields": {
       "name": "Footage 8",
       "slug": "footage-8",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -3440,12 +3425,12 @@
     "fields": {
       "name": "Footage 9",
       "slug": "footage-9",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -3455,12 +3440,12 @@
     "fields": {
       "name": "Footage 10",
       "slug": "footage-10",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -3470,12 +3455,12 @@
     "fields": {
       "name": "Footage 11",
       "slug": "footage-11",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 11
     }
   },
@@ -3485,12 +3470,12 @@
     "fields": {
       "name": "Footage 12",
       "slug": "footage-12",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 12
     }
   },
@@ -3500,12 +3485,12 @@
     "fields": {
       "name": "Footage 13",
       "slug": "footage-13",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 13
     }
   },
@@ -3515,12 +3500,12 @@
     "fields": {
       "name": "Footage 14",
       "slug": "footage-14",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 14
     }
   },
@@ -3530,12 +3515,12 @@
     "fields": {
       "name": "Footage 15",
       "slug": "footage-15",
-      "type": "SEQUENCE",
+      "type": "CONTEXT",
       "parent": 4219,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 15
     }
   },
@@ -3549,9 +3534,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 16,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3565,8 +3550,8 @@
       "parent": 4235,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3580,8 +3565,8 @@
       "parent": 4235,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3595,8 +3580,8 @@
       "parent": 4235,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -3610,8 +3595,8 @@
       "parent": 4235,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -3625,9 +3610,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 17,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 2,
       "category_type": "ODISSI"
     }
   },
@@ -3641,8 +3626,8 @@
       "parent": 4240,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3656,8 +3641,8 @@
       "parent": 4240,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3671,8 +3656,8 @@
       "parent": 4240,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -3686,8 +3671,8 @@
       "parent": 4240,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -3701,9 +3686,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 18,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 3,
       "category_type": "ODISSI"
     }
   },
@@ -3717,8 +3702,8 @@
       "parent": 4245,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3732,8 +3717,8 @@
       "parent": 4245,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3747,9 +3732,9 @@
       "parent": 4203,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 5
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 1
     }
   },
   {
@@ -3762,9 +3747,9 @@
       "parent": 4203,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 6
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 2
     }
   },
   {
@@ -3777,9 +3762,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 19,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 4,
       "category_type": "ODISSI"
     }
   },
@@ -3793,9 +3778,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 20,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 5,
       "category_type": "ODISSI"
     }
   },
@@ -3809,8 +3794,8 @@
       "parent": 4251,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -3824,8 +3809,8 @@
       "parent": 4251,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -3839,8 +3824,8 @@
       "parent": 4251,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -3854,8 +3839,8 @@
       "parent": 4251,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -3869,9 +3854,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 21,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 6,
       "category_type": "ODISSI"
     }
   },
@@ -3885,9 +3870,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 22,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 7,
       "category_type": "ODISSI"
     }
   },
@@ -3901,9 +3886,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 23,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 8,
       "category_type": "ODISSI"
     }
   },
@@ -3917,9 +3902,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 24,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 9,
       "category_type": "ODISSI"
     }
   },
@@ -3933,9 +3918,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 25,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 10,
       "category_type": "ODISSI"
     }
   },
@@ -3949,9 +3934,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 26,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 11,
       "category_type": "ODISSI"
     }
   },
@@ -3965,9 +3950,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 27,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 12,
       "category_type": "ODISSI"
     }
   },
@@ -3981,9 +3966,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 28,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 13,
       "category_type": "ODISSI"
     }
   },
@@ -3997,9 +3982,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 29,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 14,
       "category_type": "ODISSI"
     }
   },
@@ -4013,9 +3998,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 30,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 15,
       "category_type": "ODISSI"
     }
   },
@@ -4029,9 +4014,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 31,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 16,
       "category_type": "ODISSI"
     }
   },
@@ -4045,9 +4030,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 32,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 17,
       "category_type": "ODISSI"
     }
   },
@@ -4057,13 +4042,13 @@
     "fields": {
       "name": "Bhangi",
       "slug": "bhangi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 33,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4073,12 +4058,12 @@
     "fields": {
       "name": "Sama Bhanga",
       "slug": "sama-bhanga",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4268,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4088,12 +4073,12 @@
     "fields": {
       "name": "Ardha Bhanga/Abhangi",
       "slug": "ardha-bhanga-abhangi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4268,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4103,12 +4088,12 @@
     "fields": {
       "name": "Chauka",
       "slug": "chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4268,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4118,12 +4103,12 @@
     "fields": {
       "name": "Tribhangi",
       "slug": "tribhangi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4268,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4133,12 +4118,12 @@
     "fields": {
       "name": "Atibhanga",
       "slug": "atibhanga",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4268,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -4148,13 +4133,13 @@
     "fields": {
       "name": "Shilpa Bhangima",
       "slug": "shilpa-bhangima",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 34,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 2,
       "category_type": "ODISSI"
     }
   },
@@ -4164,12 +4149,12 @@
     "fields": {
       "name": "Instrument",
       "slug": "instrument",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4274,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4179,12 +4164,12 @@
     "fields": {
       "name": "Mardala",
       "slug": "mardala",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4275,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4194,12 +4179,12 @@
     "fields": {
       "name": "Beena",
       "slug": "beena",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4275,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4209,12 +4194,12 @@
     "fields": {
       "name": "Manjeera",
       "slug": "manjeera",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4275,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4224,12 +4209,12 @@
     "fields": {
       "name": "Bansi",
       "slug": "bansi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4275,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4239,12 +4224,12 @@
     "fields": {
       "name": "Nayika",
       "slug": "nayika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4274,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4254,12 +4239,12 @@
     "fields": {
       "name": "Alasa",
       "slug": "alasa",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4280,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4269,12 +4254,12 @@
     "fields": {
       "name": "Darpana",
       "slug": "darpana",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4280,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4284,12 +4269,12 @@
     "fields": {
       "name": "Salbhanjika",
       "slug": "salbhanjika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4280,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4299,12 +4284,12 @@
     "fields": {
       "name": "Abhiman",
       "slug": "abhiman",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4280,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4314,12 +4299,12 @@
     "fields": {
       "name": "Devi-devata",
       "slug": "devi-devata",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4274,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4329,12 +4314,12 @@
     "fields": {
       "name": "Rama",
       "slug": "rama",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4285,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4344,12 +4329,12 @@
     "fields": {
       "name": "Ravana",
       "slug": "ravana",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4285,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4359,12 +4344,12 @@
     "fields": {
       "name": "Surya",
       "slug": "surya",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4285,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4374,12 +4359,12 @@
     "fields": {
       "name": "Vishnu",
       "slug": "vishnu",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4285,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4389,12 +4374,12 @@
     "fields": {
       "name": "Shiva",
       "slug": "shiva",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4285,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -4404,12 +4389,12 @@
     "fields": {
       "name": "Durga",
       "slug": "durga",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4285,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -4419,13 +4404,13 @@
     "fields": {
       "name": "Padabheda",
       "slug": "padabheda",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 35,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 3,
       "category_type": "ODISSI"
     }
   },
@@ -4435,12 +4420,12 @@
     "fields": {
       "name": "Sama",
       "slug": "sama",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4292,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4450,12 +4435,12 @@
     "fields": {
       "name": "Adi",
       "slug": "adi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4293,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4465,12 +4450,12 @@
     "fields": {
       "name": "Rekha",
       "slug": "rekha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4293,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4480,12 +4465,12 @@
     "fields": {
       "name": "Sama",
       "slug": "sama",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4293,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4495,12 +4480,12 @@
     "fields": {
       "name": "Viparitha/dwimukha",
       "slug": "viparitha-dwimukha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4293,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4510,12 +4495,12 @@
     "fields": {
       "name": "Chauka",
       "slug": "chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4292,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4525,12 +4510,12 @@
     "fields": {
       "name": "Ardhaswastika",
       "slug": "ardhaswastika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4298,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4540,12 +4525,12 @@
     "fields": {
       "name": "Swastika",
       "slug": "swastika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4298,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4555,12 +4540,12 @@
     "fields": {
       "name": "Kumbha",
       "slug": "kumbha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4298,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4570,12 +4555,12 @@
     "fields": {
       "name": "Ardha-chauka",
       "slug": "ardha-chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4298,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4585,12 +4570,12 @@
     "fields": {
       "name": "Chauka",
       "slug": "chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4298,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -4600,12 +4585,12 @@
     "fields": {
       "name": "Mandala",
       "slug": "mandala",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4298,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -4615,12 +4600,12 @@
     "fields": {
       "name": "Tribhangi",
       "slug": "tribhangi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4292,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4630,12 +4615,12 @@
     "fields": {
       "name": "Trasya",
       "slug": "trasya",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4305,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4645,12 +4630,12 @@
     "fields": {
       "name": "Dhanu",
       "slug": "dhanu",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4305,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4660,12 +4645,12 @@
     "fields": {
       "name": "Prusthadhanu",
       "slug": "prusthadhanu",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4305,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4675,12 +4660,12 @@
     "fields": {
       "name": "Suchi",
       "slug": "suchi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4305,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4690,12 +4675,12 @@
     "fields": {
       "name": "Kunchita",
       "slug": "kunchita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4305,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -4705,12 +4690,12 @@
     "fields": {
       "name": "Vilagna Parshani",
       "slug": "vilagna-parshani",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4305,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -4720,12 +4705,12 @@
     "fields": {
       "name": "Ardha Bhanga",
       "slug": "ardha-bhanga",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4292,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4735,12 +4720,12 @@
     "fields": {
       "name": "Anukunchita",
       "slug": "anukunchita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4312,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4750,12 +4735,12 @@
     "fields": {
       "name": "Gharshita",
       "slug": "gharshita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4312,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4765,12 +4750,12 @@
     "fields": {
       "name": "Utparshani",
       "slug": "utparshani",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4312,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4780,12 +4765,12 @@
     "fields": {
       "name": "Others",
       "slug": "others",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4292,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -4795,12 +4780,12 @@
     "fields": {
       "name": "Ashrita",
       "slug": "ashrita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -4810,12 +4795,12 @@
     "fields": {
       "name": "Meenapuchha",
       "slug": "meenapuchha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -4825,12 +4810,12 @@
     "fields": {
       "name": "Lolita",
       "slug": "lolita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -4840,12 +4825,12 @@
     "fields": {
       "name": "Uttolita",
       "slug": "uttolita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -4855,12 +4840,12 @@
     "fields": {
       "name": "Ullolita",
       "slug": "ullolita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -4870,12 +4855,12 @@
     "fields": {
       "name": "Januashrita",
       "slug": "januashrita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -4885,12 +4870,12 @@
     "fields": {
       "name": "Nupura",
       "slug": "nupura",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -4900,12 +4885,12 @@
     "fields": {
       "name": "Alidha",
       "slug": "alidha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -4915,12 +4900,12 @@
     "fields": {
       "name": "Pratyalidha",
       "slug": "pratyalidha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -4930,12 +4915,12 @@
     "fields": {
       "name": "Bandhani",
       "slug": "bandhani",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -4945,12 +4930,12 @@
     "fields": {
       "name": "Ekapada",
       "slug": "ekapada",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 11
     }
   },
@@ -4960,12 +4945,12 @@
     "fields": {
       "name": "Janghashrita",
       "slug": "janghashrita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 12
     }
   },
@@ -4975,12 +4960,12 @@
     "fields": {
       "name": "Mahapada",
       "slug": "mahapada",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 13
     }
   },
@@ -4990,12 +4975,12 @@
     "fields": {
       "name": "Prushta Mahapada",
       "slug": "prushta-mahapada",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4316,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 14
     }
   },
@@ -5005,13 +4990,13 @@
     "fields": {
       "name": "Bakshyachalana",
       "slug": "bakshyachalana",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 36,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 4,
       "category_type": "ODISSI"
     }
   },
@@ -5021,12 +5006,12 @@
     "fields": {
       "name": "Bamachala - Dakshyachala",
       "slug": "bamachala-dakshyachala",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4331,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5036,12 +5021,12 @@
     "fields": {
       "name": "Agrachala - Prushthachala",
       "slug": "agrachala-prushthachala",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4331,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5051,12 +5036,12 @@
     "fields": {
       "name": "Prachala",
       "slug": "prachala",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4331,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -5066,13 +5051,13 @@
     "fields": {
       "name": "Basic steps",
       "slug": "basic-steps",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 37,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 5,
       "category_type": "ODISSI"
     }
   },
@@ -5082,12 +5067,12 @@
     "fields": {
       "name": "Sama-Ardha",
       "slug": "sama-ardha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4335,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5097,12 +5082,12 @@
     "fields": {
       "name": "1",
       "slug": "1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5112,12 +5097,12 @@
     "fields": {
       "name": "2",
       "slug": "2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5127,12 +5112,12 @@
     "fields": {
       "name": "3",
       "slug": "3",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -5142,12 +5127,12 @@
     "fields": {
       "name": "4",
       "slug": "4",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -5157,12 +5142,12 @@
     "fields": {
       "name": "5",
       "slug": "5",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -5172,12 +5157,12 @@
     "fields": {
       "name": "6",
       "slug": "6",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -5187,12 +5172,12 @@
     "fields": {
       "name": "7",
       "slug": "7",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -5202,12 +5187,12 @@
     "fields": {
       "name": "8",
       "slug": "8",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -5217,12 +5202,12 @@
     "fields": {
       "name": "9",
       "slug": "9",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -5232,12 +5217,12 @@
     "fields": {
       "name": "10",
       "slug": "10",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4336,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -5247,12 +5232,12 @@
     "fields": {
       "name": "Chauka",
       "slug": "chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4335,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5262,12 +5247,12 @@
     "fields": {
       "name": "1",
       "slug": "1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5277,12 +5262,12 @@
     "fields": {
       "name": "2",
       "slug": "2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5292,12 +5277,12 @@
     "fields": {
       "name": "3",
       "slug": "3",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -5307,12 +5292,12 @@
     "fields": {
       "name": "4",
       "slug": "4",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -5322,12 +5307,12 @@
     "fields": {
       "name": "5",
       "slug": "5",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -5337,12 +5322,12 @@
     "fields": {
       "name": "6",
       "slug": "6",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -5352,12 +5337,12 @@
     "fields": {
       "name": "7",
       "slug": "7",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -5367,12 +5352,12 @@
     "fields": {
       "name": "8",
       "slug": "8",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -5382,12 +5367,12 @@
     "fields": {
       "name": "9",
       "slug": "9",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -5397,12 +5382,12 @@
     "fields": {
       "name": "10",
       "slug": "10",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4347,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -5412,12 +5397,12 @@
     "fields": {
       "name": "Tribhangi",
       "slug": "tribhangi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4335,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -5427,12 +5412,12 @@
     "fields": {
       "name": "1",
       "slug": "1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5442,12 +5427,12 @@
     "fields": {
       "name": "2",
       "slug": "2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5457,12 +5442,12 @@
     "fields": {
       "name": "3",
       "slug": "3",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -5472,12 +5457,12 @@
     "fields": {
       "name": "4",
       "slug": "4",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -5487,12 +5472,12 @@
     "fields": {
       "name": "5",
       "slug": "5",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -5502,12 +5487,12 @@
     "fields": {
       "name": "6",
       "slug": "6",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -5517,12 +5502,12 @@
     "fields": {
       "name": "7",
       "slug": "7",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -5532,12 +5517,12 @@
     "fields": {
       "name": "8",
       "slug": "8",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -5547,12 +5532,12 @@
     "fields": {
       "name": "9",
       "slug": "9",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -5562,12 +5547,12 @@
     "fields": {
       "name": "10",
       "slug": "10",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4358,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -5577,13 +5562,13 @@
     "fields": {
       "name": "Bhramari",
       "slug": "bhramari",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 38,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 6,
       "category_type": "ODISSI"
     }
   },
@@ -5593,12 +5578,12 @@
     "fields": {
       "name": "Ardha",
       "slug": "ardha",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5608,12 +5593,12 @@
     "fields": {
       "name": "Veshtita",
       "slug": "veshtita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5623,12 +5608,12 @@
     "fields": {
       "name": "Ekapada",
       "slug": "ekapada",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -5638,12 +5623,12 @@
     "fields": {
       "name": "Chauka",
       "slug": "chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4372,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5653,12 +5638,12 @@
     "fields": {
       "name": "Ullolita",
       "slug": "ullolita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4372,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5668,12 +5653,12 @@
     "fields": {
       "name": "Chakra",
       "slug": "chakra",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -5683,12 +5668,12 @@
     "fields": {
       "name": "Chauka",
       "slug": "chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4375,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5698,12 +5683,12 @@
     "fields": {
       "name": "Uthparshini",
       "slug": "uthparshini",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4375,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5713,12 +5698,12 @@
     "fields": {
       "name": "Parshachira",
       "slug": "parshachira",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4375,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -5728,12 +5713,12 @@
     "fields": {
       "name": "Kunchita",
       "slug": "kunchita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -5743,12 +5728,12 @@
     "fields": {
       "name": "Prushtadhanu",
       "slug": "prushtadhanu",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4379,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5758,12 +5743,12 @@
     "fields": {
       "name": "Trasya",
       "slug": "trasya",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4379,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5773,12 +5758,12 @@
     "fields": {
       "name": "Viparita",
       "slug": "viparita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -5788,12 +5773,12 @@
     "fields": {
       "name": "Chauka",
       "slug": "chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4382,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5803,12 +5788,12 @@
     "fields": {
       "name": "Tribhangi",
       "slug": "tribhangi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4382,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5818,12 +5803,12 @@
     "fields": {
       "name": "Utpluta",
       "slug": "utpluta",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -5833,12 +5818,12 @@
     "fields": {
       "name": "Chauka",
       "slug": "chauka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4385,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5848,12 +5833,12 @@
     "fields": {
       "name": "Purna",
       "slug": "purna",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4385,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5863,12 +5848,12 @@
     "fields": {
       "name": "Garuda",
       "slug": "garuda",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -5878,12 +5863,12 @@
     "fields": {
       "name": "Thiya",
       "slug": "thiya",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4388,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5893,12 +5878,12 @@
     "fields": {
       "name": "Bosa",
       "slug": "bosa",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4388,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5908,12 +5893,12 @@
     "fields": {
       "name": "Balaita",
       "slug": "balaita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -5923,12 +5908,12 @@
     "fields": {
       "name": "Chhanda",
       "slug": "chhanda",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4391,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -5938,12 +5923,12 @@
     "fields": {
       "name": "Viparita",
       "slug": "viparita",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4391,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -5953,12 +5938,12 @@
     "fields": {
       "name": "Chhapka",
       "slug": "chhapka",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4391,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -5968,12 +5953,12 @@
     "fields": {
       "name": "Akash",
       "slug": "akash",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 10
     }
   },
@@ -5983,12 +5968,12 @@
     "fields": {
       "name": "Prithvi",
       "slug": "prithvi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 11
     }
   },
@@ -5998,12 +5983,12 @@
     "fields": {
       "name": "Anga",
       "slug": "anga",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 12
     }
   },
@@ -6013,12 +5998,12 @@
     "fields": {
       "name": "Bakshya",
       "slug": "bakshya",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4369,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 13
     }
   },
@@ -6028,13 +6013,13 @@
     "fields": {
       "name": "Gati",
       "slug": "gati",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 39,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 7,
       "category_type": "ODISSI"
     }
   },
@@ -6044,12 +6029,12 @@
     "fields": {
       "name": "Hamsi",
       "slug": "hamsi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6059,12 +6044,12 @@
     "fields": {
       "name": "Mayuri",
       "slug": "mayuri",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -6074,12 +6059,12 @@
     "fields": {
       "name": "Mrugi",
       "slug": "mrugi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -6089,12 +6074,12 @@
     "fields": {
       "name": "Gajalila",
       "slug": "gajalila",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -6104,12 +6089,12 @@
     "fields": {
       "name": "Turangini",
       "slug": "turangini",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -6119,12 +6104,12 @@
     "fields": {
       "name": "Singhi/simhi",
       "slug": "singhi-simhi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -6134,12 +6119,12 @@
     "fields": {
       "name": "Bhujangi",
       "slug": "bhujangi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -6149,12 +6134,12 @@
     "fields": {
       "name": "Manduki",
       "slug": "manduki",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 8
     }
   },
@@ -6164,12 +6149,12 @@
     "fields": {
       "name": "Manavi",
       "slug": "manavi",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4399,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 9
     }
   },
@@ -6179,13 +6164,13 @@
     "fields": {
       "name": "Movement Transformation",
       "slug": "movement-transformation",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
-      "sort": 40,
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
+      "sort": 8,
       "category_type": "ODISSI"
     }
   },
@@ -6195,12 +6180,12 @@
     "fields": {
       "name": "Karma",
       "slug": "karma",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4409,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6210,12 +6195,12 @@
     "fields": {
       "name": "Original 1",
       "slug": "original-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4410,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6225,12 +6210,12 @@
     "fields": {
       "name": "Transformed 1",
       "slug": "transformed-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4410,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -6240,12 +6225,12 @@
     "fields": {
       "name": "Original 2",
       "slug": "original-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4410,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -6255,12 +6240,12 @@
     "fields": {
       "name": "Transformed 2",
       "slug": "transformed-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4410,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -6270,12 +6255,12 @@
     "fields": {
       "name": "Danda",
       "slug": "danda",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4409,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -6285,12 +6270,12 @@
     "fields": {
       "name": "Original 1",
       "slug": "original-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4415,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6300,12 +6285,12 @@
     "fields": {
       "name": "Transformed 1",
       "slug": "transformed-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4415,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -6315,12 +6300,12 @@
     "fields": {
       "name": "Original 2",
       "slug": "original-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4415,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -6330,12 +6315,12 @@
     "fields": {
       "name": "Transformed 2A",
       "slug": "transformed-2a",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4415,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -6345,12 +6330,12 @@
     "fields": {
       "name": "Transformed 2B",
       "slug": "transformed-2b",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4415,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -6360,12 +6345,12 @@
     "fields": {
       "name": "Paika",
       "slug": "paika",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4409,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -6375,12 +6360,12 @@
     "fields": {
       "name": "Original 1",
       "slug": "original-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4421,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6390,12 +6375,12 @@
     "fields": {
       "name": "Transformed 1",
       "slug": "transformed-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4421,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -6405,12 +6390,12 @@
     "fields": {
       "name": "Original 2",
       "slug": "original-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4421,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -6420,12 +6405,12 @@
     "fields": {
       "name": "Transformed 2",
       "slug": "transformed-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4421,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -6435,12 +6420,12 @@
     "fields": {
       "name": "Chhau",
       "slug": "chhau",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4409,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -6450,12 +6435,12 @@
     "fields": {
       "name": "Original 1",
       "slug": "original-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4426,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6465,12 +6450,12 @@
     "fields": {
       "name": "Transformed 1",
       "slug": "transformed-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4426,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -6480,12 +6465,12 @@
     "fields": {
       "name": "Original 2",
       "slug": "original-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4426,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -6495,12 +6480,12 @@
     "fields": {
       "name": "Transformed 2",
       "slug": "transformed-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4426,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 4
     }
   },
@@ -6510,12 +6495,12 @@
     "fields": {
       "name": "Sambalpuri",
       "slug": "sambalpuri",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4409,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 5
     }
   },
@@ -6525,12 +6510,12 @@
     "fields": {
       "name": "Original & Transformed 1",
       "slug": "original-transformed-1",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4431,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6540,12 +6525,12 @@
     "fields": {
       "name": "Original & Transformed 2",
       "slug": "original-transformed-2",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4431,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -6555,12 +6540,12 @@
     "fields": {
       "name": "Original & Transformed 3",
       "slug": "original-transformed-3",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4431,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 3
     }
   },
@@ -6570,12 +6555,12 @@
     "fields": {
       "name": "Mahari",
       "slug": "mahari",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4409,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 6
     }
   },
@@ -6585,12 +6570,12 @@
     "fields": {
       "name": "Original",
       "slug": "original",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4435,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6600,12 +6585,12 @@
     "fields": {
       "name": "Transformed",
       "slug": "transformed",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4435,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   },
@@ -6615,12 +6600,12 @@
     "fields": {
       "name": "Gotipua",
       "slug": "gotipua",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4409,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 7
     }
   },
@@ -6630,12 +6615,12 @@
     "fields": {
       "name": "Original",
       "slug": "original",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4438,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 1
     }
   },
@@ -6645,12 +6630,12 @@
     "fields": {
       "name": "Transformed",
       "slug": "transformed",
-      "type": "SEQUENCE",
+      "type": "UNIT",
       "parent": 4438,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358",
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631",
       "sort": 2
     }
   }

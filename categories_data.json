@@ -3,22 +3,22 @@
     "model": "kalari.CategoriesData",
     "pk": 7000,
     "fields": {
-      "title": "Odissi",
+      "title": "nan",
       "category_id": 4001,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7002,
     "fields": {
-      "title": "Parampara",
+      "title": "nan",
       "category_id": 4002,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -28,8 +28,8 @@
       "title": "Introduction",
       "category_id": 4004,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -39,8 +39,8 @@
       "title": "Rupashree Mohapatra",
       "category_id": 4005,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -50,8 +50,8 @@
       "title": "Current practices",
       "category_id": 4006,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -61,8 +61,8 @@
       "title": "Traditional",
       "category_id": 4008,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -72,8 +72,8 @@
       "title": "Current",
       "category_id": 4009,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -83,8 +83,8 @@
       "title": "Introduction",
       "category_id": 4011,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -94,8 +94,8 @@
       "title": "Kelucharan Mohapatra",
       "category_id": 4012,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -105,8 +105,8 @@
       "title": "Gangadhar Pradhan",
       "category_id": 4013,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -116,52 +116,52 @@
       "title": "Sanjukta Panigrahi",
       "category_id": 4014,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7022,
     "fields": {
-      "title": "Oral Traditions & Texts",
+      "title": "nan",
       "category_id": 4016,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7024,
     "fields": {
-      "title": "Abhinaya Chandrika",
+      "title": "nan",
       "category_id": 4017,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7026,
     "fields": {
-      "title": "Geeta Gobinda",
+      "title": "nan",
       "category_id": 4018,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7028,
     "fields": {
-      "title": "Body care system",
+      "title": "nan",
       "category_id": 4020,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -171,8 +171,8 @@
       "title": "Warm-Up",
       "category_id": 4021,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -182,8 +182,8 @@
       "title": "Warm-up Demo",
       "category_id": 4022,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -193,8 +193,8 @@
       "title": "Warm-up Demo",
       "category_id": 4022,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -204,8 +204,8 @@
       "title": "Folk Cardio",
       "category_id": 4023,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -215,8 +215,8 @@
       "title": "Folk-cardio Demo",
       "category_id": 4024,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -226,8 +226,8 @@
       "title": "Folk-cardio Demo",
       "category_id": 4024,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -237,8 +237,8 @@
       "title": "Cool Down",
       "category_id": 4025,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -248,8 +248,8 @@
       "title": "Cool Down Demo",
       "category_id": 4026,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -259,107 +259,107 @@
       "title": "Cool Down Demo",
       "category_id": 4026,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7048,
     "fields": {
-      "title": "Enactment",
+      "title": "nan",
       "category_id": 4027,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7050,
     "fields": {
-      "title": "Auchityam",
+      "title": "nan",
       "category_id": 4028,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7052,
     "fields": {
-      "title": "Costume & Ornament",
+      "title": "nan",
       "category_id": 4029,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7054,
     "fields": {
-      "title": "Iconography",
+      "title": "nan",
       "category_id": 4030,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7056,
     "fields": {
-      "title": "Realms of embodiment",
+      "title": "nan",
       "category_id": 4031,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7058,
     "fields": {
-      "title": "Movement Articulations",
+      "title": "nan",
       "category_id": 4033,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7060,
     "fields": {
-      "title": "Circularity",
+      "title": "nan",
       "category_id": 4034,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7062,
     "fields": {
-      "title": "Movement Qualities",
+      "title": "nan",
       "category_id": 4035,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7064,
     "fields": {
-      "title": "Traditional",
+      "title": "nan",
       "category_id": 4037,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -369,8 +369,8 @@
       "title": "Approach",
       "category_id": 4039,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -380,8 +380,8 @@
       "title": "Anecdotes 1",
       "category_id": 4040,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -391,8 +391,8 @@
       "title": "Anecdotes 2",
       "category_id": 4041,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -402,8 +402,8 @@
       "title": "Approach",
       "category_id": 4043,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -413,8 +413,8 @@
       "title": "Anecdotes",
       "category_id": 4044,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -424,8 +424,8 @@
       "title": "Adult",
       "category_id": 4046,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -435,8 +435,8 @@
       "title": "Children",
       "category_id": 4047,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -446,8 +446,8 @@
       "title": "Counselling",
       "category_id": 4048,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -457,8 +457,8 @@
       "title": "Approach",
       "category_id": 4050,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -468,8 +468,8 @@
       "title": "Transmission",
       "category_id": 4051,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -479,8 +479,8 @@
       "title": "Artistic Journey",
       "category_id": 4054,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -490,8 +490,8 @@
       "title": "Thoughts On Dance",
       "category_id": 4055,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -501,8 +501,8 @@
       "title": "Artistic Journey",
       "category_id": 4057,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -512,8 +512,8 @@
       "title": "Thoughts On Dance",
       "category_id": 4058,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -523,8 +523,8 @@
       "title": "Artistic Journey",
       "category_id": 4060,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -534,8 +534,8 @@
       "title": "Thoughts On Dance",
       "category_id": 4061,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -545,8 +545,8 @@
       "title": "Artistic Journey",
       "category_id": 4063,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -556,52 +556,52 @@
       "title": "Thoughts On Dance",
       "category_id": 4064,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7102,
     "fields": {
-      "title": "Odissi Music",
+      "title": "nan",
       "category_id": 4066,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7104,
     "fields": {
-      "title": "Accompaniments",
+      "title": "nan",
       "category_id": 4067,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7106,
     "fields": {
-      "title": "Odissi Mrudanga",
+      "title": "nan",
       "category_id": 4068,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7108,
     "fields": {
-      "title": "Odissi Mrudanga",
+      "title": "nan",
       "category_id": 4068,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -611,8 +611,8 @@
       "title": "Introduction",
       "category_id": 4070,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -622,8 +622,8 @@
       "title": "Current practices",
       "category_id": 4071,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -633,8 +633,8 @@
       "title": "Dhaneshwar Swain",
       "category_id": 4072,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -644,8 +644,8 @@
       "title": "Overview",
       "category_id": 4074,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -655,8 +655,8 @@
       "title": "Adi tala in Arasa & Chakradhar",
       "category_id": 4075,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -666,8 +666,8 @@
       "title": "Sabda swara patha",
       "category_id": 4076,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -677,8 +677,8 @@
       "title": "Composition by Banamali Maharana",
       "category_id": 4077,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -688,8 +688,8 @@
       "title": "Bani",
       "category_id": 4078,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -699,8 +699,8 @@
       "title": "Theka",
       "category_id": 4079,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -710,8 +710,8 @@
       "title": "Tyahi",
       "category_id": 4080,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -721,8 +721,8 @@
       "title": "Tisra Gati",
       "category_id": 4081,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -732,8 +732,8 @@
       "title": "Battu by Kelucharan Mohapatra",
       "category_id": 4082,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -743,8 +743,8 @@
       "title": "Bani by Pankaj Charan Das",
       "category_id": 4083,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -754,8 +754,8 @@
       "title": "Ganesh Bandana",
       "category_id": 4084,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -765,8 +765,8 @@
       "title": "Dasavtara by Deba Prasad Das",
       "category_id": 4085,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -776,8 +776,8 @@
       "title": "Mrugi",
       "category_id": 4086,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -787,8 +787,8 @@
       "title": "Mayuri",
       "category_id": 4087,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -798,8 +798,8 @@
       "title": "Gajalila",
       "category_id": 4088,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -809,8 +809,8 @@
       "title": "Manduki",
       "category_id": 4089,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -820,8 +820,8 @@
       "title": "Turangini",
       "category_id": 4090,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -831,8 +831,8 @@
       "title": "Manavi",
       "category_id": 4091,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -842,8 +842,8 @@
       "title": "Dadra in tisra gati by Dhaneshwar Swain",
       "category_id": 4092,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -853,52 +853,52 @@
       "title": "Chhanda prakaran",
       "category_id": 4093,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7156,
     "fields": {
-      "title": "Rhythmic variations",
+      "title": "nan",
       "category_id": 4094,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7158,
     "fields": {
-      "title": "Introduction",
+      "title": "nan",
       "category_id": 4096,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7160,
     "fields": {
-      "title": "Attributes",
+      "title": "nan",
       "category_id": 4097,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7162,
     "fields": {
-      "title": "Terminologies",
+      "title": "nan",
       "category_id": 4098,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -908,8 +908,8 @@
       "title": "Overview",
       "category_id": 4100,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -919,8 +919,8 @@
       "title": "Ekatali",
       "category_id": 4101,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -930,8 +930,8 @@
       "title": "Khemta/Jhula",
       "category_id": 4102,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -941,8 +941,8 @@
       "title": "Rupak",
       "category_id": 4103,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -952,8 +952,8 @@
       "title": "Jhampa",
       "category_id": 4104,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -963,8 +963,8 @@
       "title": "Adi",
       "category_id": 4105,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -974,8 +974,8 @@
       "title": "Tripata",
       "category_id": 4106,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -985,8 +985,8 @@
       "title": "Jati",
       "category_id": 4107,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -996,8 +996,8 @@
       "title": "Adatali",
       "category_id": 4108,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1007,8 +1007,8 @@
       "title": "Matha",
       "category_id": 4109,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1018,8 +1018,8 @@
       "title": "Kuduk",
       "category_id": 4110,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1029,316 +1029,316 @@
       "title": "Sarimaan",
       "category_id": 4111,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7188,
     "fields": {
-      "title": "Arasa",
+      "title": "nan",
       "category_id": 4112,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7190,
     "fields": {
-      "title": "Mana",
+      "title": "nan",
       "category_id": 4113,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7192,
     "fields": {
-      "title": "Overview",
+      "title": "nan",
       "category_id": 4115,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7194,
     "fields": {
-      "title": "Sama",
+      "title": "nan",
       "category_id": 4116,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7196,
     "fields": {
-      "title": "Udvahita",
+      "title": "nan",
       "category_id": 4117,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7198,
     "fields": {
-      "title": "Adhomukha",
+      "title": "nan",
       "category_id": 4118,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7200,
     "fields": {
-      "title": "Alolita",
+      "title": "nan",
       "category_id": 4119,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7202,
     "fields": {
-      "title": "Dhuta",
+      "title": "nan",
       "category_id": 4120,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7204,
     "fields": {
-      "title": "Kampita",
+      "title": "nan",
       "category_id": 4121,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7206,
     "fields": {
-      "title": "Paravritta",
+      "title": "nan",
       "category_id": 4122,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7208,
     "fields": {
-      "title": "Utkhipta",
+      "title": "nan",
       "category_id": 4123,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7210,
     "fields": {
-      "title": "Paribahita",
+      "title": "nan",
       "category_id": 4124,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7212,
     "fields": {
-      "title": "Overview",
+      "title": "nan",
       "category_id": 4126,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7214,
     "fields": {
-      "title": "Sama",
+      "title": "nan",
       "category_id": 4127,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7216,
     "fields": {
-      "title": "Alokita",
+      "title": "nan",
       "category_id": 4128,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7218,
     "fields": {
-      "title": "Sachi",
+      "title": "nan",
       "category_id": 4129,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7220,
     "fields": {
-      "title": "Pralokita",
+      "title": "nan",
       "category_id": 4130,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7222,
     "fields": {
-      "title": "Nimilita",
+      "title": "nan",
       "category_id": 4131,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7224,
     "fields": {
-      "title": "Ullokita",
+      "title": "nan",
       "category_id": 4132,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7226,
     "fields": {
-      "title": "Anuvrutta",
+      "title": "nan",
       "category_id": 4133,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7228,
     "fields": {
-      "title": "Avalokita",
+      "title": "nan",
       "category_id": 4134,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7230,
     "fields": {
-      "title": "Overview",
+      "title": "nan",
       "category_id": 4136,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7232,
     "fields": {
-      "title": "Sundari",
+      "title": "nan",
       "category_id": 4137,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7234,
     "fields": {
-      "title": "Tiraschina",
+      "title": "nan",
       "category_id": 4138,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7236,
     "fields": {
-      "title": "Parivartita",
+      "title": "nan",
       "category_id": 4139,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7238,
     "fields": {
-      "title": "Prakampita",
+      "title": "nan",
       "category_id": 4140,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7240,
     "fields": {
-      "title": "Introduction",
+      "title": "nan",
       "category_id": 4142,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7242,
     "fields": {
-      "title": "Significance",
+      "title": "nan",
       "category_id": 4143,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1348,8 +1348,8 @@
       "title": "Overview",
       "category_id": 4145,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1359,8 +1359,8 @@
       "title": "Pataka",
       "category_id": 4146,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1370,8 +1370,8 @@
       "title": "Tripataka",
       "category_id": 4147,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1381,8 +1381,8 @@
       "title": "Ardhapataka",
       "category_id": 4148,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1392,8 +1392,8 @@
       "title": "Kartarimukha",
       "category_id": 4149,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1403,8 +1403,8 @@
       "title": "Mayura",
       "category_id": 4150,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1414,8 +1414,8 @@
       "title": "Ardha Chandra",
       "category_id": 4151,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1425,8 +1425,8 @@
       "title": "Arala",
       "category_id": 4152,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1436,8 +1436,8 @@
       "title": "Shukatunda",
       "category_id": 4153,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1447,8 +1447,8 @@
       "title": "Mushti",
       "category_id": 4154,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1458,8 +1458,8 @@
       "title": "Shikhara",
       "category_id": 4155,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1469,8 +1469,8 @@
       "title": "Kapitha",
       "category_id": 4156,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1480,8 +1480,8 @@
       "title": "Katakamukha",
       "category_id": 4157,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1491,8 +1491,8 @@
       "title": "Suchi",
       "category_id": 4158,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1502,8 +1502,8 @@
       "title": "Chandrakala",
       "category_id": 4159,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1513,8 +1513,8 @@
       "title": "Padmakosha",
       "category_id": 4160,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1524,8 +1524,8 @@
       "title": "Sarpaseersha",
       "category_id": 4161,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1535,8 +1535,8 @@
       "title": "Mrigasheersha",
       "category_id": 4162,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1546,8 +1546,8 @@
       "title": "Simhamukha",
       "category_id": 4163,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1557,8 +1557,8 @@
       "title": "Kangula",
       "category_id": 4164,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1568,8 +1568,8 @@
       "title": "Alapadma",
       "category_id": 4165,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1579,8 +1579,8 @@
       "title": "Chatura",
       "category_id": 4166,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1590,8 +1590,8 @@
       "title": "Bhramara",
       "category_id": 4167,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1601,8 +1601,8 @@
       "title": "Hamsasya",
       "category_id": 4168,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1612,8 +1612,8 @@
       "title": "Hamsapaksha",
       "category_id": 4169,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1623,8 +1623,8 @@
       "title": "Samdamsa",
       "category_id": 4170,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1634,8 +1634,8 @@
       "title": "Mukula",
       "category_id": 4171,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1645,8 +1645,8 @@
       "title": "Tamrachooda",
       "category_id": 4172,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1656,8 +1656,8 @@
       "title": "Trishula",
       "category_id": 4173,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1667,8 +1667,8 @@
       "title": "Overview",
       "category_id": 4175,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1678,8 +1678,8 @@
       "title": "Anjali",
       "category_id": 4176,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1689,8 +1689,8 @@
       "title": "Kapota",
       "category_id": 4177,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1700,8 +1700,8 @@
       "title": "Karkata",
       "category_id": 4178,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1711,8 +1711,8 @@
       "title": "Swastika",
       "category_id": 4179,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1722,8 +1722,8 @@
       "title": "Dola hasta",
       "category_id": 4180,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1733,8 +1733,8 @@
       "title": "Pushpaputa",
       "category_id": 4181,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1744,8 +1744,8 @@
       "title": "Utsanga",
       "category_id": 4182,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1755,8 +1755,8 @@
       "title": "Shivalinga",
       "category_id": 4183,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1766,8 +1766,8 @@
       "title": "Katakavardhana",
       "category_id": 4184,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1777,8 +1777,8 @@
       "title": "Kartariswastika",
       "category_id": 4185,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1788,8 +1788,8 @@
       "title": "Sakata",
       "category_id": 4186,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1799,8 +1799,8 @@
       "title": "Sankha",
       "category_id": 4187,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1810,8 +1810,8 @@
       "title": "Chakra",
       "category_id": 4188,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1821,8 +1821,8 @@
       "title": "Samputa",
       "category_id": 4189,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1832,8 +1832,8 @@
       "title": "Pasa",
       "category_id": 4190,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1843,8 +1843,8 @@
       "title": "Kilaka",
       "category_id": 4191,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1854,8 +1854,8 @@
       "title": "Matsya",
       "category_id": 4192,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1865,8 +1865,8 @@
       "title": "Koorma",
       "category_id": 4193,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1876,8 +1876,8 @@
       "title": "Varaha",
       "category_id": 4194,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1887,8 +1887,8 @@
       "title": "Garuda",
       "category_id": 4195,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1898,8 +1898,8 @@
       "title": "Nagabandha",
       "category_id": 4196,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1909,8 +1909,8 @@
       "title": "Khatwa",
       "category_id": 4197,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1920,8 +1920,8 @@
       "title": "Bherunda",
       "category_id": 4198,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1931,8 +1931,8 @@
       "title": "Overview",
       "category_id": 4200,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1942,8 +1942,8 @@
       "title": "Asamyukta Hasta",
       "category_id": 4201,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1953,19 +1953,19 @@
       "title": "Samyukta Hasta",
       "category_id": 4202,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7356,
     "fields": {
-      "title": "Art of Communication",
+      "title": "nan",
       "category_id": 4204,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1975,8 +1975,8 @@
       "title": "Overview",
       "category_id": 4206,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1986,8 +1986,8 @@
       "title": "Angika",
       "category_id": 4207,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -1997,8 +1997,8 @@
       "title": "Vachika",
       "category_id": 4208,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2008,8 +2008,8 @@
       "title": "Aharya",
       "category_id": 4209,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2019,41 +2019,41 @@
       "title": "Sattvika",
       "category_id": 4210,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7368,
     "fields": {
-      "title": "Sthayi & Sanchari Bhava",
+      "title": "nan",
       "category_id": 4211,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7370,
     "fields": {
-      "title": "Bhava & Rasa",
+      "title": "nan",
       "category_id": 4212,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7372,
     "fields": {
-      "title": "Role in Dance",
+      "title": "nan",
       "category_id": 4214,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2063,8 +2063,8 @@
       "title": "Emphasis",
       "category_id": 4216,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2074,8 +2074,8 @@
       "title": "Elocution",
       "category_id": 4217,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2085,173 +2085,173 @@
       "title": "Energy",
       "category_id": 4218,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7380,
     "fields": {
-      "title": "Footage 1",
+      "title": "nan",
       "category_id": 4220,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7382,
     "fields": {
-      "title": "Footage 2",
+      "title": "nan",
       "category_id": 4221,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7384,
     "fields": {
-      "title": "Footage 3",
+      "title": "nan",
       "category_id": 4222,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7386,
     "fields": {
-      "title": "Footage 4",
+      "title": "nan",
       "category_id": 4223,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7388,
     "fields": {
-      "title": "Footage 5",
+      "title": "nan",
       "category_id": 4224,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7390,
     "fields": {
-      "title": "Footage 6",
+      "title": "nan",
       "category_id": 4225,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7392,
     "fields": {
-      "title": "Footage 7",
+      "title": "nan",
       "category_id": 4226,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7394,
     "fields": {
-      "title": "Footage 8",
+      "title": "nan",
       "category_id": 4227,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7396,
     "fields": {
-      "title": "Footage 9",
+      "title": "nan",
       "category_id": 4228,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7398,
     "fields": {
-      "title": "Footage 10",
+      "title": "nan",
       "category_id": 4229,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7400,
     "fields": {
-      "title": "Footage 11",
+      "title": "nan",
       "category_id": 4230,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7402,
     "fields": {
-      "title": "Footage 12",
+      "title": "nan",
       "category_id": 4231,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7404,
     "fields": {
-      "title": "Footage 13",
+      "title": "nan",
       "category_id": 4232,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7406,
     "fields": {
-      "title": "Footage 14",
+      "title": "nan",
       "category_id": 4233,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7408,
     "fields": {
-      "title": "Footage 15",
+      "title": "nan",
       "category_id": 4234,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2261,8 +2261,8 @@
       "title": "Bhoomipranam",
       "category_id": 4236,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2272,8 +2272,8 @@
       "title": "Bhoomipranam",
       "category_id": 4236,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2283,8 +2283,8 @@
       "title": "Durga Stuti",
       "category_id": 4237,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2294,8 +2294,8 @@
       "title": "Durga Stuti",
       "category_id": 4237,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2305,8 +2305,8 @@
       "title": "Ganesh Bandana",
       "category_id": 4238,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2316,8 +2316,8 @@
       "title": "Ganesh Bandana",
       "category_id": 4238,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2327,8 +2327,8 @@
       "title": "Sabhapranam",
       "category_id": 4239,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2338,8 +2338,8 @@
       "title": "Sabhapranam",
       "category_id": 4239,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2349,8 +2349,8 @@
       "title": "Sthiti",
       "category_id": 4241,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2360,8 +2360,8 @@
       "title": "Sthiti",
       "category_id": 4241,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2371,8 +2371,8 @@
       "title": "Sthayi - Pankaj Charan Das",
       "category_id": 4242,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2382,8 +2382,8 @@
       "title": "Sthayi - Pankaj Charan Das",
       "category_id": 4242,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2393,8 +2393,8 @@
       "title": "Battu - Kelucharan Mohapatra",
       "category_id": 4243,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2404,8 +2404,8 @@
       "title": "Battu - Kelucharan Mohapatra",
       "category_id": 4243,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2415,8 +2415,8 @@
       "title": "Konark Kanti",
       "category_id": 4244,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2426,8 +2426,8 @@
       "title": "Konark Kanti",
       "category_id": 4244,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2437,8 +2437,8 @@
       "title": "Raga Rageshri",
       "category_id": 4246,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2448,8 +2448,8 @@
       "title": "Raga Rageshri",
       "category_id": 4246,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2459,8 +2459,8 @@
       "title": "Raga Hamsadhwani",
       "category_id": 4247,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2470,8 +2470,8 @@
       "title": "Raga Hamsadhwani",
       "category_id": 4247,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2481,8 +2481,8 @@
       "title": "Sakhi Hey",
       "category_id": 4248,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2492,8 +2492,8 @@
       "title": "Sakhi Hey",
       "category_id": 4248,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2503,8 +2503,8 @@
       "title": "Pratinayaka",
       "category_id": 4249,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2514,30 +2514,30 @@
       "title": "Pratinayaka",
       "category_id": 4249,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7458,
     "fields": {
-      "title": "Moksha",
+      "title": "nan",
       "category_id": 4250,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7460,
     "fields": {
-      "title": "Moksha",
+      "title": "nan",
       "category_id": 4250,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2547,8 +2547,8 @@
       "title": "1",
       "category_id": 4252,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2558,8 +2558,8 @@
       "title": "1",
       "category_id": 4252,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2569,8 +2569,8 @@
       "title": "2",
       "category_id": 4253,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2580,8 +2580,8 @@
       "title": "2",
       "category_id": 4253,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2591,8 +2591,8 @@
       "title": "3",
       "category_id": 4254,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2602,8 +2602,8 @@
       "title": "3",
       "category_id": 4254,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2613,8 +2613,8 @@
       "title": "4",
       "category_id": 4255,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2624,360 +2624,360 @@
       "title": "4",
       "category_id": 4255,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7478,
     "fields": {
-      "title": "Vilasini",
+      "title": "nan",
       "category_id": 4256,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7480,
     "fields": {
-      "title": "Vilasini",
+      "title": "nan",
       "category_id": 4256,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7482,
     "fields": {
-      "title": "Chalo Chalo",
+      "title": "nan",
       "category_id": 4257,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7484,
     "fields": {
-      "title": "Chalo Chalo",
+      "title": "nan",
       "category_id": 4257,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7486,
     "fields": {
-      "title": "Gatibilas (Simha)",
+      "title": "nan",
       "category_id": 4258,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7488,
     "fields": {
-      "title": "Gatibilas (Simha)",
+      "title": "nan",
       "category_id": 4258,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7490,
     "fields": {
-      "title": "Gatibilas (Hamsa)",
+      "title": "nan",
       "category_id": 4259,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7492,
     "fields": {
-      "title": "Gatibilas (Hamsa)",
+      "title": "nan",
       "category_id": 4259,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7494,
     "fields": {
-      "title": "Debi Bharani",
+      "title": "nan",
       "category_id": 4260,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7496,
     "fields": {
-      "title": "Debi Bharani",
+      "title": "nan",
       "category_id": 4260,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7498,
     "fields": {
-      "title": "Kundalika",
+      "title": "nan",
       "category_id": 4261,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7500,
     "fields": {
-      "title": "Kundalika",
+      "title": "nan",
       "category_id": 4261,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7502,
     "fields": {
-      "title": "Abahani",
+      "title": "nan",
       "category_id": 4262,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7504,
     "fields": {
-      "title": "Abahani",
+      "title": "nan",
       "category_id": 4262,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7506,
     "fields": {
-      "title": "Dashavatara",
+      "title": "nan",
       "category_id": 4263,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7508,
     "fields": {
-      "title": "Dashavatara",
+      "title": "nan",
       "category_id": 4263,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7510,
     "fields": {
-      "title": "Abartan Bibartan",
+      "title": "nan",
       "category_id": 4264,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7512,
     "fields": {
-      "title": "Murchhana",
+      "title": "nan",
       "category_id": 4265,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7514,
     "fields": {
-      "title": "Shiv Parvathi Sabda",
+      "title": "nan",
       "category_id": 4266,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7516,
     "fields": {
-      "title": "Shiv Parvathi Sabda",
+      "title": "nan",
       "category_id": 4266,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7518,
     "fields": {
-      "title": "Sthayi & Sanchari Bhava",
+      "title": "nan",
       "category_id": 4267,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7520,
     "fields": {
-      "title": "Sthayi & Sanchari Bhava",
+      "title": "nan",
       "category_id": 4267,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7522,
     "fields": {
-      "title": "Sama Bhanga",
+      "title": "nan",
       "category_id": 4269,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7524,
     "fields": {
-      "title": "Sama Bhanga",
+      "title": "nan",
       "category_id": 4269,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7526,
     "fields": {
-      "title": "Ardha Bhanga/Abhangi",
+      "title": "nan",
       "category_id": 4270,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7528,
     "fields": {
-      "title": "Ardha Bhanga/Abhangi",
+      "title": "nan",
       "category_id": 4270,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7530,
     "fields": {
-      "title": "Chauka",
+      "title": "nan",
       "category_id": 4271,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7532,
     "fields": {
-      "title": "Chauka",
+      "title": "nan",
       "category_id": 4271,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7534,
     "fields": {
-      "title": "Tribhangi",
+      "title": "nan",
       "category_id": 4272,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7536,
     "fields": {
-      "title": "Tribhangi",
+      "title": "nan",
       "category_id": 4272,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7538,
     "fields": {
-      "title": "Atibhanga",
+      "title": "nan",
       "category_id": 4273,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7540,
     "fields": {
-      "title": "Atibhanga",
+      "title": "nan",
       "category_id": 4273,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2987,8 +2987,8 @@
       "title": "Mardala",
       "category_id": 4276,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -2998,8 +2998,8 @@
       "title": "Mardala",
       "category_id": 4276,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3009,8 +3009,8 @@
       "title": "Beena",
       "category_id": 4277,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3020,8 +3020,8 @@
       "title": "Beena",
       "category_id": 4277,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3031,8 +3031,8 @@
       "title": "Manjeera",
       "category_id": 4278,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3042,8 +3042,8 @@
       "title": "Manjeera",
       "category_id": 4278,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3053,8 +3053,8 @@
       "title": "Bansi",
       "category_id": 4279,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3064,8 +3064,8 @@
       "title": "Bansi",
       "category_id": 4279,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3075,8 +3075,8 @@
       "title": "Alasa",
       "category_id": 4281,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3086,8 +3086,8 @@
       "title": "Alasa",
       "category_id": 4281,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3097,8 +3097,8 @@
       "title": "Darpana",
       "category_id": 4282,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3108,8 +3108,8 @@
       "title": "Darpana",
       "category_id": 4282,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3119,8 +3119,8 @@
       "title": "Salbhanjika",
       "category_id": 4283,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3130,8 +3130,8 @@
       "title": "Salbhanjika",
       "category_id": 4283,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3141,8 +3141,8 @@
       "title": "Abhiman",
       "category_id": 4284,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3152,8 +3152,8 @@
       "title": "Abhiman",
       "category_id": 4284,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3163,8 +3163,8 @@
       "title": "Rama",
       "category_id": 4286,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3174,8 +3174,8 @@
       "title": "Rama",
       "category_id": 4286,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3185,8 +3185,8 @@
       "title": "Ravana",
       "category_id": 4287,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3196,8 +3196,8 @@
       "title": "Ravana",
       "category_id": 4287,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3207,8 +3207,8 @@
       "title": "Surya",
       "category_id": 4288,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3218,8 +3218,8 @@
       "title": "Surya",
       "category_id": 4288,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3229,8 +3229,8 @@
       "title": "Vishnu",
       "category_id": 4289,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3240,8 +3240,8 @@
       "title": "Vishnu",
       "category_id": 4289,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3251,8 +3251,8 @@
       "title": "Shiva",
       "category_id": 4290,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3262,8 +3262,8 @@
       "title": "Shiva",
       "category_id": 4290,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3273,8 +3273,8 @@
       "title": "Durga",
       "category_id": 4291,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3284,8 +3284,8 @@
       "title": "Durga",
       "category_id": 4291,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3295,8 +3295,8 @@
       "title": "Adi",
       "category_id": 4294,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3306,8 +3306,8 @@
       "title": "Adi",
       "category_id": 4294,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3317,8 +3317,8 @@
       "title": "Rekha",
       "category_id": 4295,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3328,8 +3328,8 @@
       "title": "Rekha",
       "category_id": 4295,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3339,8 +3339,8 @@
       "title": "Sama",
       "category_id": 4296,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3350,8 +3350,8 @@
       "title": "Sama",
       "category_id": 4296,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3361,8 +3361,8 @@
       "title": "Viparitha/dwimukha",
       "category_id": 4297,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3372,8 +3372,8 @@
       "title": "Viparitha/dwimukha",
       "category_id": 4297,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3383,8 +3383,8 @@
       "title": "Ardhaswastika",
       "category_id": 4299,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3394,8 +3394,8 @@
       "title": "Ardhaswastika",
       "category_id": 4299,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3405,8 +3405,8 @@
       "title": "Swastika",
       "category_id": 4300,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3416,8 +3416,8 @@
       "title": "Swastika",
       "category_id": 4300,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3427,8 +3427,8 @@
       "title": "Kumbha",
       "category_id": 4301,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3438,8 +3438,8 @@
       "title": "Kumbha",
       "category_id": 4301,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3449,8 +3449,8 @@
       "title": "Ardha-chauka",
       "category_id": 4302,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3460,8 +3460,8 @@
       "title": "Ardha-chauka",
       "category_id": 4302,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3471,8 +3471,8 @@
       "title": "Chauka",
       "category_id": 4303,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3482,8 +3482,8 @@
       "title": "Chauka",
       "category_id": 4303,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3493,8 +3493,8 @@
       "title": "Mandala",
       "category_id": 4304,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3504,8 +3504,8 @@
       "title": "Mandala",
       "category_id": 4304,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3515,8 +3515,8 @@
       "title": "Trasya",
       "category_id": 4306,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3526,8 +3526,8 @@
       "title": "Trasya",
       "category_id": 4306,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3537,8 +3537,8 @@
       "title": "Dhanu",
       "category_id": 4307,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3548,8 +3548,8 @@
       "title": "Dhanu",
       "category_id": 4307,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3559,8 +3559,8 @@
       "title": "Prusthadhanu",
       "category_id": 4308,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3570,8 +3570,8 @@
       "title": "Prusthadhanu",
       "category_id": 4308,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3581,8 +3581,8 @@
       "title": "Suchi",
       "category_id": 4309,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3592,8 +3592,8 @@
       "title": "Suchi",
       "category_id": 4309,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3603,8 +3603,8 @@
       "title": "Kunchita",
       "category_id": 4310,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3614,8 +3614,8 @@
       "title": "Kunchita",
       "category_id": 4310,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3625,8 +3625,8 @@
       "title": "Vilagna Parshani",
       "category_id": 4311,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3636,8 +3636,8 @@
       "title": "Vilagna Parshani",
       "category_id": 4311,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3647,8 +3647,8 @@
       "title": "Anukunchita",
       "category_id": 4313,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3658,8 +3658,8 @@
       "title": "Anukunchita",
       "category_id": 4313,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3669,8 +3669,8 @@
       "title": "Gharshita",
       "category_id": 4314,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3680,8 +3680,8 @@
       "title": "Gharshita",
       "category_id": 4314,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3691,8 +3691,8 @@
       "title": "Utparshani",
       "category_id": 4315,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3702,8 +3702,8 @@
       "title": "Utparshani",
       "category_id": 4315,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3713,8 +3713,8 @@
       "title": "Ashrita",
       "category_id": 4317,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3724,8 +3724,8 @@
       "title": "Ashrita",
       "category_id": 4317,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3735,8 +3735,8 @@
       "title": "Meenapuchha",
       "category_id": 4318,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3746,8 +3746,8 @@
       "title": "Meenapuchha",
       "category_id": 4318,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3757,8 +3757,8 @@
       "title": "Lolita",
       "category_id": 4319,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3768,8 +3768,8 @@
       "title": "Lolita",
       "category_id": 4319,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3779,8 +3779,8 @@
       "title": "Uttolita",
       "category_id": 4320,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3790,8 +3790,8 @@
       "title": "Uttolita",
       "category_id": 4320,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3801,8 +3801,8 @@
       "title": "Ullolita",
       "category_id": 4321,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3812,8 +3812,8 @@
       "title": "Ullolita",
       "category_id": 4321,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3823,8 +3823,8 @@
       "title": "Januashrita",
       "category_id": 4322,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3834,8 +3834,8 @@
       "title": "Januashrita",
       "category_id": 4322,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3845,8 +3845,8 @@
       "title": "Nupura",
       "category_id": 4323,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3856,8 +3856,8 @@
       "title": "Nupura",
       "category_id": 4323,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3867,8 +3867,8 @@
       "title": "Alidha",
       "category_id": 4324,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3878,8 +3878,8 @@
       "title": "Alidha",
       "category_id": 4324,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3889,8 +3889,8 @@
       "title": "Pratyalidha",
       "category_id": 4325,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3900,8 +3900,8 @@
       "title": "Pratyalidha",
       "category_id": 4325,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3911,8 +3911,8 @@
       "title": "Bandhani",
       "category_id": 4326,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3922,8 +3922,8 @@
       "title": "Bandhani",
       "category_id": 4326,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3933,8 +3933,8 @@
       "title": "Ekapada",
       "category_id": 4327,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3944,8 +3944,8 @@
       "title": "Ekapada",
       "category_id": 4327,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3955,8 +3955,8 @@
       "title": "Janghashrita",
       "category_id": 4328,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3966,8 +3966,8 @@
       "title": "Janghashrita",
       "category_id": 4328,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3977,8 +3977,8 @@
       "title": "Mahapada",
       "category_id": 4329,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3988,8 +3988,8 @@
       "title": "Mahapada",
       "category_id": 4329,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -3999,8 +3999,8 @@
       "title": "Prushta Mahapada",
       "category_id": 4330,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4010,74 +4010,74 @@
       "title": "Prushta Mahapada",
       "category_id": 4330,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7730,
     "fields": {
-      "title": "Bamachala - Dakshyachala",
+      "title": "nan",
       "category_id": 4332,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7732,
     "fields": {
-      "title": "Bamachala - Dakshyachala",
+      "title": "nan",
       "category_id": 4332,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7734,
     "fields": {
-      "title": "Agrachala - Prushthachala",
+      "title": "nan",
       "category_id": 4333,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7736,
     "fields": {
-      "title": "Agrachala - Prushthachala",
+      "title": "nan",
       "category_id": 4333,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7738,
     "fields": {
-      "title": "Prachala",
+      "title": "nan",
       "category_id": 4334,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7740,
     "fields": {
-      "title": "Prachala",
+      "title": "nan",
       "category_id": 4334,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4087,8 +4087,8 @@
       "title": "1",
       "category_id": 4337,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4098,8 +4098,8 @@
       "title": "1",
       "category_id": 4337,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4109,8 +4109,8 @@
       "title": "2",
       "category_id": 4338,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4120,8 +4120,8 @@
       "title": "2",
       "category_id": 4338,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4131,8 +4131,8 @@
       "title": "3",
       "category_id": 4339,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4142,8 +4142,8 @@
       "title": "3",
       "category_id": 4339,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4153,8 +4153,8 @@
       "title": "4",
       "category_id": 4340,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4164,8 +4164,8 @@
       "title": "4",
       "category_id": 4340,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4175,8 +4175,8 @@
       "title": "5",
       "category_id": 4341,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4186,8 +4186,8 @@
       "title": "5",
       "category_id": 4341,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4197,8 +4197,8 @@
       "title": "6",
       "category_id": 4342,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4208,8 +4208,8 @@
       "title": "6",
       "category_id": 4342,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4219,8 +4219,8 @@
       "title": "7",
       "category_id": 4343,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4230,8 +4230,8 @@
       "title": "7",
       "category_id": 4343,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4241,8 +4241,8 @@
       "title": "8",
       "category_id": 4344,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4252,8 +4252,8 @@
       "title": "8",
       "category_id": 4344,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4263,8 +4263,8 @@
       "title": "9",
       "category_id": 4345,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4274,8 +4274,8 @@
       "title": "9",
       "category_id": 4345,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4285,8 +4285,8 @@
       "title": "10",
       "category_id": 4346,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4296,8 +4296,8 @@
       "title": "10",
       "category_id": 4346,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4307,8 +4307,8 @@
       "title": "1",
       "category_id": 4348,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4318,8 +4318,8 @@
       "title": "1",
       "category_id": 4348,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4329,8 +4329,8 @@
       "title": "2",
       "category_id": 4349,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4340,8 +4340,8 @@
       "title": "2",
       "category_id": 4349,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4351,8 +4351,8 @@
       "title": "3",
       "category_id": 4350,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4362,8 +4362,8 @@
       "title": "3",
       "category_id": 4350,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4373,8 +4373,8 @@
       "title": "4",
       "category_id": 4351,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4384,8 +4384,8 @@
       "title": "4",
       "category_id": 4351,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4395,8 +4395,8 @@
       "title": "5",
       "category_id": 4352,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4406,8 +4406,8 @@
       "title": "5",
       "category_id": 4352,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4417,8 +4417,8 @@
       "title": "6",
       "category_id": 4353,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4428,8 +4428,8 @@
       "title": "6",
       "category_id": 4353,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4439,8 +4439,8 @@
       "title": "7",
       "category_id": 4354,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4450,8 +4450,8 @@
       "title": "7",
       "category_id": 4354,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4461,8 +4461,8 @@
       "title": "8",
       "category_id": 4355,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4472,8 +4472,8 @@
       "title": "8",
       "category_id": 4355,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4483,8 +4483,8 @@
       "title": "9",
       "category_id": 4356,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4494,8 +4494,8 @@
       "title": "9",
       "category_id": 4356,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4505,8 +4505,8 @@
       "title": "10",
       "category_id": 4357,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4516,8 +4516,8 @@
       "title": "10",
       "category_id": 4357,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4527,8 +4527,8 @@
       "title": "1",
       "category_id": 4359,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4538,8 +4538,8 @@
       "title": "1",
       "category_id": 4359,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4549,8 +4549,8 @@
       "title": "2",
       "category_id": 4360,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4560,8 +4560,8 @@
       "title": "2",
       "category_id": 4360,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4571,8 +4571,8 @@
       "title": "3",
       "category_id": 4361,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4582,8 +4582,8 @@
       "title": "3",
       "category_id": 4361,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4593,8 +4593,8 @@
       "title": "4",
       "category_id": 4362,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4604,8 +4604,8 @@
       "title": "4",
       "category_id": 4362,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4615,8 +4615,8 @@
       "title": "5",
       "category_id": 4363,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4626,8 +4626,8 @@
       "title": "5",
       "category_id": 4363,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4637,8 +4637,8 @@
       "title": "6",
       "category_id": 4364,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4648,8 +4648,8 @@
       "title": "6",
       "category_id": 4364,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4659,8 +4659,8 @@
       "title": "7",
       "category_id": 4365,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4670,8 +4670,8 @@
       "title": "7",
       "category_id": 4365,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4681,8 +4681,8 @@
       "title": "8",
       "category_id": 4366,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4692,8 +4692,8 @@
       "title": "8",
       "category_id": 4366,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4703,8 +4703,8 @@
       "title": "9",
       "category_id": 4367,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4714,8 +4714,8 @@
       "title": "9",
       "category_id": 4367,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4725,8 +4725,8 @@
       "title": "10",
       "category_id": 4368,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4736,52 +4736,52 @@
       "title": "10",
       "category_id": 4368,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7862,
     "fields": {
-      "title": "Ardha",
+      "title": "nan",
       "category_id": 4370,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7864,
     "fields": {
-      "title": "Ardha",
+      "title": "nan",
       "category_id": 4370,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7866,
     "fields": {
-      "title": "Veshtita",
+      "title": "nan",
       "category_id": 4371,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7868,
     "fields": {
-      "title": "Veshtita",
+      "title": "nan",
       "category_id": 4371,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4791,8 +4791,8 @@
       "title": "Chauka",
       "category_id": 4373,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4802,8 +4802,8 @@
       "title": "Chauka",
       "category_id": 4373,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4813,8 +4813,8 @@
       "title": "Ullolita",
       "category_id": 4374,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4824,8 +4824,8 @@
       "title": "Ullolita",
       "category_id": 4374,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4835,8 +4835,8 @@
       "title": "Chauka",
       "category_id": 4376,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4846,8 +4846,8 @@
       "title": "Chauka",
       "category_id": 4376,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4857,8 +4857,8 @@
       "title": "Uthparshini",
       "category_id": 4377,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4868,8 +4868,8 @@
       "title": "Uthparshini",
       "category_id": 4377,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4879,8 +4879,8 @@
       "title": "Parshachira",
       "category_id": 4378,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4890,8 +4890,8 @@
       "title": "Parshachira",
       "category_id": 4378,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4901,8 +4901,8 @@
       "title": "Prushtadhanu",
       "category_id": 4380,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4912,8 +4912,8 @@
       "title": "Prushtadhanu",
       "category_id": 4380,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4923,8 +4923,8 @@
       "title": "Trasya",
       "category_id": 4381,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4934,8 +4934,8 @@
       "title": "Trasya",
       "category_id": 4381,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4945,8 +4945,8 @@
       "title": "Chauka",
       "category_id": 4383,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4956,8 +4956,8 @@
       "title": "Chauka",
       "category_id": 4383,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4967,8 +4967,8 @@
       "title": "Tribhangi",
       "category_id": 4384,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4978,8 +4978,8 @@
       "title": "Tribhangi",
       "category_id": 4384,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -4989,8 +4989,8 @@
       "title": "Chauka",
       "category_id": 4386,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5000,8 +5000,8 @@
       "title": "Chauka",
       "category_id": 4386,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5011,8 +5011,8 @@
       "title": "Purna",
       "category_id": 4387,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5022,8 +5022,8 @@
       "title": "Purna",
       "category_id": 4387,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5033,8 +5033,8 @@
       "title": "Thiya",
       "category_id": 4389,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5044,8 +5044,8 @@
       "title": "Thiya",
       "category_id": 4389,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5055,8 +5055,8 @@
       "title": "Bosa",
       "category_id": 4390,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5066,8 +5066,8 @@
       "title": "Bosa",
       "category_id": 4390,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5077,8 +5077,8 @@
       "title": "Chhanda",
       "category_id": 4392,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5088,8 +5088,8 @@
       "title": "Chhanda",
       "category_id": 4392,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5099,8 +5099,8 @@
       "title": "Viparita",
       "category_id": 4393,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5110,8 +5110,8 @@
       "title": "Viparita",
       "category_id": 4393,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5121,8 +5121,8 @@
       "title": "Chhapka",
       "category_id": 4394,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5132,294 +5132,294 @@
       "title": "Chhapka",
       "category_id": 4394,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7934,
     "fields": {
-      "title": "Akash",
+      "title": "nan",
       "category_id": 4395,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7936,
     "fields": {
-      "title": "Akash",
+      "title": "nan",
       "category_id": 4395,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7938,
     "fields": {
-      "title": "Prithvi",
+      "title": "nan",
       "category_id": 4396,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7940,
     "fields": {
-      "title": "Prithvi",
+      "title": "nan",
       "category_id": 4396,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7942,
     "fields": {
-      "title": "Anga",
+      "title": "nan",
       "category_id": 4397,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7944,
     "fields": {
-      "title": "Anga",
+      "title": "nan",
       "category_id": 4397,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7946,
     "fields": {
-      "title": "Bakshya",
+      "title": "nan",
       "category_id": 4398,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7948,
     "fields": {
-      "title": "Bakshya",
+      "title": "nan",
       "category_id": 4398,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7950,
     "fields": {
-      "title": "Hamsi",
+      "title": "nan",
       "category_id": 4400,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7952,
     "fields": {
-      "title": "Hamsi",
+      "title": "nan",
       "category_id": 4400,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7954,
     "fields": {
-      "title": "Mayuri",
+      "title": "nan",
       "category_id": 4401,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7956,
     "fields": {
-      "title": "Mayuri",
+      "title": "nan",
       "category_id": 4401,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7958,
     "fields": {
-      "title": "Mrugi",
+      "title": "nan",
       "category_id": 4402,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7960,
     "fields": {
-      "title": "Mrugi",
+      "title": "nan",
       "category_id": 4402,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7962,
     "fields": {
-      "title": "Gajalila",
+      "title": "nan",
       "category_id": 4403,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7964,
     "fields": {
-      "title": "Gajalila",
+      "title": "nan",
       "category_id": 4403,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7966,
     "fields": {
-      "title": "Turangini",
+      "title": "nan",
       "category_id": 4404,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7968,
     "fields": {
-      "title": "Turangini",
+      "title": "nan",
       "category_id": 4404,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7970,
     "fields": {
-      "title": "Singhi/simhi",
+      "title": "nan",
       "category_id": 4405,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7972,
     "fields": {
-      "title": "Singhi/simhi",
+      "title": "nan",
       "category_id": 4405,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7974,
     "fields": {
-      "title": "Bhujangi",
+      "title": "nan",
       "category_id": 4406,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7976,
     "fields": {
-      "title": "Bhujangi",
+      "title": "nan",
       "category_id": 4406,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7978,
     "fields": {
-      "title": "Manduki",
+      "title": "nan",
       "category_id": 4407,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7980,
     "fields": {
-      "title": "Manduki",
+      "title": "nan",
       "category_id": 4407,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7982,
     "fields": {
-      "title": "Manavi",
+      "title": "nan",
       "category_id": 4408,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
     "model": "kalari.CategoriesData",
     "pk": 7984,
     "fields": {
-      "title": "Manavi",
+      "title": "nan",
       "category_id": 4408,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5429,8 +5429,8 @@
       "title": "Original 1",
       "category_id": 4411,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5440,8 +5440,8 @@
       "title": "Original 1",
       "category_id": 4411,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5451,8 +5451,8 @@
       "title": "Transformed 1",
       "category_id": 4412,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5462,8 +5462,8 @@
       "title": "Transformed 1",
       "category_id": 4412,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5473,8 +5473,8 @@
       "title": "Original 2",
       "category_id": 4413,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5484,8 +5484,8 @@
       "title": "Original 2",
       "category_id": 4413,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5495,8 +5495,8 @@
       "title": "Transformed 2",
       "category_id": 4414,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5506,8 +5506,8 @@
       "title": "Transformed 2",
       "category_id": 4414,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5517,8 +5517,8 @@
       "title": "Original 1",
       "category_id": 4416,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5528,8 +5528,8 @@
       "title": "Original 1",
       "category_id": 4416,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5539,8 +5539,8 @@
       "title": "Transformed 1",
       "category_id": 4417,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5550,8 +5550,8 @@
       "title": "Transformed 1",
       "category_id": 4417,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5561,8 +5561,8 @@
       "title": "Original 2",
       "category_id": 4418,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5572,8 +5572,8 @@
       "title": "Original 2",
       "category_id": 4418,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5583,8 +5583,8 @@
       "title": "Transformed 2A",
       "category_id": 4419,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5594,8 +5594,8 @@
       "title": "Transformed 2A",
       "category_id": 4419,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5605,8 +5605,8 @@
       "title": "Transformed 2B",
       "category_id": 4420,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5616,8 +5616,8 @@
       "title": "Transformed 2B",
       "category_id": 4420,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5627,8 +5627,8 @@
       "title": "Original 1",
       "category_id": 4422,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5638,8 +5638,8 @@
       "title": "Original 1",
       "category_id": 4422,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5649,8 +5649,8 @@
       "title": "Transformed 1",
       "category_id": 4423,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5660,8 +5660,8 @@
       "title": "Transformed 1",
       "category_id": 4423,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5671,8 +5671,8 @@
       "title": "Original 2",
       "category_id": 4424,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5682,8 +5682,8 @@
       "title": "Original 2",
       "category_id": 4424,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5693,8 +5693,8 @@
       "title": "Transformed 2",
       "category_id": 4425,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5704,8 +5704,8 @@
       "title": "Transformed 2",
       "category_id": 4425,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5715,8 +5715,8 @@
       "title": "Original 1",
       "category_id": 4427,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5726,8 +5726,8 @@
       "title": "Original 1",
       "category_id": 4427,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5737,8 +5737,8 @@
       "title": "Transformed 1",
       "category_id": 4428,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5748,8 +5748,8 @@
       "title": "Transformed 1",
       "category_id": 4428,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5759,8 +5759,8 @@
       "title": "Original 2",
       "category_id": 4429,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5770,8 +5770,8 @@
       "title": "Original 2",
       "category_id": 4429,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5781,8 +5781,8 @@
       "title": "Transformed 2",
       "category_id": 4430,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5792,8 +5792,8 @@
       "title": "Transformed 2",
       "category_id": 4430,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5803,8 +5803,8 @@
       "title": "Original & Transformed 1",
       "category_id": 4432,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5814,8 +5814,8 @@
       "title": "Original & Transformed 1",
       "category_id": 4432,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5825,8 +5825,8 @@
       "title": "Original & Transformed 2",
       "category_id": 4433,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5836,8 +5836,8 @@
       "title": "Original & Transformed 2",
       "category_id": 4433,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5847,8 +5847,8 @@
       "title": "Original & Transformed 3",
       "category_id": 4434,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5858,8 +5858,8 @@
       "title": "Original & Transformed 3",
       "category_id": 4434,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5869,8 +5869,8 @@
       "title": "Original",
       "category_id": 4436,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5880,8 +5880,8 @@
       "title": "Transformed",
       "category_id": 4437,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5891,8 +5891,8 @@
       "title": "Transformed",
       "category_id": 4437,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5902,8 +5902,8 @@
       "title": "Original",
       "category_id": 4439,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5913,8 +5913,8 @@
       "title": "Original",
       "category_id": 4439,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5924,8 +5924,8 @@
       "title": "Transformed",
       "category_id": 4440,
       "direction": "front",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   },
   {
@@ -5935,8 +5935,8 @@
       "title": "Transformed",
       "category_id": 4440,
       "direction": "side",
-      "created_at": "2025-02-14T14:41:44.358",
-      "updated_at": "2025-02-14T14:41:44.358"
+      "created_at": "2025-02-14T15:16:19.631",
+      "updated_at": "2025-02-14T15:16:19.631"
     }
   }
 ]
