@@ -32,11 +32,13 @@ class CategoryConverter:
             slug_dict = {}
             for _, row in df_explanation.iterrows():
                 level_key = "|".join(str(row[col]) if pd.notna(row[col]) else "" for col in level_cols)  # Corrected here
-                slug_column = level_cols[-1] # Explanation name is last level
-                slug = row.get(slug_column, '')
-                if pd.notna(slug):
-                   slug_dict[level_key] = slugify(str(slug))
+                # Use the last level column as the slug source.
+                slug_column = level_cols[-1]
+                slug_value = row.get(slug_column)  # Get the value from the last level column
+                if pd.notna(slug_value):
+                   slug_dict[level_key] = slugify(str(slug_value))  # Use slug_value for slugification
             self.explanation_slug_map[file_type] = slug_dict
+
 
     def create_category(self, name: str, parent_pk: Optional[int] = None, sort: int = 1, has_data: int = 1, category_type: Optional[str] = None, type: str = "SEQUENCE") -> dict:
         """Create a category dictionary."""
@@ -203,11 +205,11 @@ class CategoryConverter:
                 related_slug_type = "sequence" if "sequence" in file_type else "unit"
              else:
                 related_slug_type = None
-
-            # Ensure start_time and end_time are properly handled
+             
              start_time = row.get('start_time')
              end_time = row.get('end_time')
-             categories_movements.append(self.create_category_movement(data_entry["pk"], movement_name, file_type, related_slug_name=explanation_slug, related_slug_type=related_slug_type, start_time=start_time, end_time=end_time))
+             movement = self.create_category_movement(data_entry["pk"], movement_name, file_type, related_slug_name=explanation_slug, related_slug_type=related_slug_type, start_time=start_time, end_time=end_time)
+             categories_movements.append(movement)
 
     def generate_categories_json(self, files_and_types: List[Tuple[str, str]], explanation_files: Dict[str, str]) -> Tuple[List[dict], List[dict], List[dict], List[dict]]:
         self.load_explanation_slugs(explanation_files)
