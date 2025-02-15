@@ -4861,902 +4861,902 @@
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7946,
+    "pk": 7911,
     "fields": {
       "path": "odissi/explanation/exu_001_introBhangi.mp4",
       "type": "video",
-      "category_data_id": 7945
+      "category_data_id": 7910
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7948,
+    "pk": 7913,
     "fields": {
       "path": "odissi/explanation/exu_101_samabhanga.mp4",
       "type": "video",
-      "category_data_id": 7947
+      "category_data_id": 7912
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7950,
+    "pk": 7915,
     "fields": {
       "path": "odissi/explanation/exu_102_ardhabhanga.mp4",
       "type": "video",
-      "category_data_id": 7949
+      "category_data_id": 7914
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7952,
+    "pk": 7917,
     "fields": {
       "path": "odissi/explanation/exu_103_chaukabhanga.mp4",
       "type": "video",
-      "category_data_id": 7951
+      "category_data_id": 7916
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7954,
+    "pk": 7919,
     "fields": {
       "path": "odissi/explanation/exu_104_tribhangi.mp4",
       "type": "video",
-      "category_data_id": 7953
+      "category_data_id": 7918
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7956,
+    "pk": 7921,
     "fields": {
       "path": "odissi/explanation/exu_105_atibhanga.mp4",
       "type": "video",
-      "category_data_id": 7955
+      "category_data_id": 7920
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7958,
+    "pk": 7923,
     "fields": {
       "path": "odissi/explanation/exu_200_intoshilpa.mp4",
       "type": "video",
-      "category_data_id": 7957
+      "category_data_id": 7922
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7960,
+    "pk": 7925,
     "fields": {
       "path": "odissi/explanation/exu_201_marda.mp4",
       "type": "video",
-      "category_data_id": 7959
+      "category_data_id": 7924
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7962,
+    "pk": 7927,
     "fields": {
       "path": "odissi/explanation/exu_202_beena.mp4",
       "type": "video",
-      "category_data_id": 7961
+      "category_data_id": 7926
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7964,
+    "pk": 7929,
     "fields": {
       "path": "odissi/explanation/exu_203_manj.mp4",
       "type": "video",
-      "category_data_id": 7963
+      "category_data_id": 7928
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7966,
+    "pk": 7931,
     "fields": {
       "path": "odissi/explanation/exu_204_bans.mp4",
       "type": "video",
-      "category_data_id": 7965
+      "category_data_id": 7930
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7968,
+    "pk": 7933,
     "fields": {
       "path": "odissi/explanation/exu_205_alas.mp4",
       "type": "video",
-      "category_data_id": 7967
+      "category_data_id": 7932
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7970,
+    "pk": 7935,
     "fields": {
       "path": "odissi/explanation/exu_206_darp.mp4",
       "type": "video",
-      "category_data_id": 7969
+      "category_data_id": 7934
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7972,
+    "pk": 7937,
     "fields": {
       "path": "odissi/explanation/exu_207_sala.mp4",
       "type": "video",
-      "category_data_id": 7971
+      "category_data_id": 7936
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7974,
+    "pk": 7939,
     "fields": {
       "path": "odissi/explanation/exu_208_abhi.mp4",
       "type": "video",
-      "category_data_id": 7973
+      "category_data_id": 7938
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7976,
+    "pk": 7941,
     "fields": {
       "path": "odissi/explanation/exu_209_rama.mp4",
       "type": "video",
-      "category_data_id": 7975
+      "category_data_id": 7940
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7978,
+    "pk": 7943,
     "fields": {
       "path": "odissi/explanation/exu_210_rava.mp4",
       "type": "video",
-      "category_data_id": 7977
+      "category_data_id": 7942
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7980,
+    "pk": 7945,
     "fields": {
       "path": "odissi/explanation/exu_211_sury.mp4",
       "type": "video",
-      "category_data_id": 7979
+      "category_data_id": 7944
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7982,
+    "pk": 7947,
     "fields": {
       "path": "odissi/explanation/exu_212_vish.mp4",
       "type": "video",
-      "category_data_id": 7981
+      "category_data_id": 7946
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7984,
+    "pk": 7949,
     "fields": {
       "path": "odissi/explanation/exu_213_shiv.mp4",
       "type": "video",
-      "category_data_id": 7983
+      "category_data_id": 7948
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7986,
+    "pk": 7951,
     "fields": {
       "path": "odissi/explanation/exu_214_durg.mp4",
       "type": "video",
-      "category_data_id": 7985
+      "category_data_id": 7950
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7988,
+    "pk": 7953,
     "fields": {
       "path": "odissi/explanation/exu_300_intropadabheda.mp4",
       "type": "video",
-      "category_data_id": 7987
+      "category_data_id": 7952
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7990,
+    "pk": 7955,
     "fields": {
       "path": "odissi/explanation/exu_301_0_oversama.mp4",
       "type": "video",
-      "category_data_id": 7989
+      "category_data_id": 7954
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7992,
+    "pk": 7957,
     "fields": {
       "path": "odissi/explanation/exu_301_adi.mp4",
       "type": "video",
-      "category_data_id": 7991
+      "category_data_id": 7956
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7994,
+    "pk": 7959,
     "fields": {
       "path": "odissi/explanation/exu_302_rekha.mp4",
       "type": "video",
-      "category_data_id": 7993
+      "category_data_id": 7958
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7996,
+    "pk": 7961,
     "fields": {
       "path": "odissi/explanation/exu_303_sama.mp4",
       "type": "video",
-      "category_data_id": 7995
+      "category_data_id": 7960
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 7998,
+    "pk": 7963,
     "fields": {
       "path": "odissi/explanation/exu_304_viparith.mp4",
       "type": "video",
-      "category_data_id": 7997
+      "category_data_id": 7962
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8000,
+    "pk": 7965,
     "fields": {
       "path": "odissi/explanation/exu_305_0_overchauk.mp4",
       "type": "video",
-      "category_data_id": 7999
+      "category_data_id": 7964
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8002,
+    "pk": 7967,
     "fields": {
       "path": "odissi/explanation/exu_305_arswastika.mp4",
       "type": "video",
-      "category_data_id": 8001
+      "category_data_id": 7966
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8004,
+    "pk": 7969,
     "fields": {
       "path": "odissi/explanation/exu_306_swastika.mp4",
       "type": "video",
-      "category_data_id": 8003
+      "category_data_id": 7968
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8006,
+    "pk": 7971,
     "fields": {
       "path": "odissi/explanation/exu_307_kumbha.mp4",
       "type": "video",
-      "category_data_id": 8005
+      "category_data_id": 7970
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8008,
+    "pk": 7973,
     "fields": {
       "path": "odissi/explanation/exu_308_archauka.mp4",
       "type": "video",
-      "category_data_id": 8007
+      "category_data_id": 7972
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8010,
+    "pk": 7975,
     "fields": {
       "path": "odissi/explanation/exu_309_chaukapada.mp4",
       "type": "video",
-      "category_data_id": 8009
+      "category_data_id": 7974
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8012,
+    "pk": 7977,
     "fields": {
       "path": "odissi/explanation/exu_310_mandala.mp4",
       "type": "video",
-      "category_data_id": 8011
+      "category_data_id": 7976
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8014,
+    "pk": 7979,
     "fields": {
       "path": "odissi/explanation/exu_311_0_overtri.mp4",
       "type": "video",
-      "category_data_id": 8013
+      "category_data_id": 7978
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8016,
+    "pk": 7981,
     "fields": {
       "path": "odissi/explanation/exu_311_trasya.mp4",
       "type": "video",
-      "category_data_id": 8015
+      "category_data_id": 7980
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8018,
+    "pk": 7983,
     "fields": {
       "path": "odissi/explanation/exu_312_dhanu.mp4",
       "type": "video",
-      "category_data_id": 8017
+      "category_data_id": 7982
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8020,
+    "pk": 7985,
     "fields": {
       "path": "odissi/explanation/exu_313_prushtha.mp4",
       "type": "video",
-      "category_data_id": 8019
+      "category_data_id": 7984
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8022,
+    "pk": 7987,
     "fields": {
       "path": "odissi/explanation/exu_314_suchi.mp4",
       "type": "video",
-      "category_data_id": 8021
+      "category_data_id": 7986
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8024,
+    "pk": 7989,
     "fields": {
       "path": "odissi/explanation/exu_315_kunchita.mp4",
       "type": "video",
-      "category_data_id": 8023
+      "category_data_id": 7988
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8026,
+    "pk": 7991,
     "fields": {
       "path": "odissi/explanation/exu_316_vilagna.mp4",
       "type": "video",
-      "category_data_id": 8025
+      "category_data_id": 7990
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8028,
+    "pk": 7993,
     "fields": {
       "path": "odissi/explanation/exu_317_0_overardh.mp4",
       "type": "video",
-      "category_data_id": 8027
+      "category_data_id": 7992
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8030,
+    "pk": 7995,
     "fields": {
       "path": "odissi/explanation/exu_317_anukun.mp4",
       "type": "video",
-      "category_data_id": 8029
+      "category_data_id": 7994
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8032,
+    "pk": 7997,
     "fields": {
       "path": "odissi/explanation/exu_318_gharsita.mp4",
       "type": "video",
-      "category_data_id": 8031
+      "category_data_id": 7996
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8034,
+    "pk": 7999,
     "fields": {
       "path": "odissi/explanation/exu_319_utparshini.mp4",
       "type": "video",
-      "category_data_id": 8033
+      "category_data_id": 7998
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8036,
+    "pk": 8001,
     "fields": {
       "path": "odissi/explanation/exu_320_0_overview.mp4",
       "type": "video",
-      "category_data_id": 8035
+      "category_data_id": 8000
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8038,
+    "pk": 8003,
     "fields": {
       "path": "odissi/explanation/exu_320_ashrita.mp4",
       "type": "video",
-      "category_data_id": 8037
+      "category_data_id": 8002
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8040,
+    "pk": 8005,
     "fields": {
       "path": "odissi/explanation/exu_321_meena.mp4",
       "type": "video",
-      "category_data_id": 8039
+      "category_data_id": 8004
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8042,
+    "pk": 8007,
     "fields": {
       "path": "odissi/explanation/exu_322_lalita.mp4",
       "type": "video",
-      "category_data_id": 8041
+      "category_data_id": 8006
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8044,
+    "pk": 8009,
     "fields": {
       "path": "odissi/explanation/exu_323_uttalita.mp4",
       "type": "video",
-      "category_data_id": 8043
+      "category_data_id": 8008
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8046,
+    "pk": 8011,
     "fields": {
       "path": "odissi/explanation/exu_324_ullolita.mp4",
       "type": "video",
-      "category_data_id": 8045
+      "category_data_id": 8010
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8048,
+    "pk": 8013,
     "fields": {
       "path": "odissi/explanation/exu_325_januash.mp4",
       "type": "video",
-      "category_data_id": 8047
+      "category_data_id": 8012
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8050,
+    "pk": 8015,
     "fields": {
       "path": "odissi/explanation/exu_326_nupura.mp4",
       "type": "video",
-      "category_data_id": 8049
+      "category_data_id": 8014
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8052,
+    "pk": 8017,
     "fields": {
       "path": "odissi/explanation/exu_327_alidha.mp4",
       "type": "video",
-      "category_data_id": 8051
+      "category_data_id": 8016
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8054,
+    "pk": 8019,
     "fields": {
       "path": "odissi/explanation/exu_328_pratya.mp4",
       "type": "video",
-      "category_data_id": 8053
+      "category_data_id": 8018
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8056,
+    "pk": 8021,
     "fields": {
       "path": "odissi/explanation/exu_329_bandha.mp4",
       "type": "video",
-      "category_data_id": 8055
+      "category_data_id": 8020
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8058,
+    "pk": 8023,
     "fields": {
       "path": "odissi/explanation/exu_330_ekapada.mp4",
       "type": "video",
-      "category_data_id": 8057
+      "category_data_id": 8022
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8060,
+    "pk": 8025,
     "fields": {
       "path": "odissi/explanation/exu_331_jangha.mp4",
       "type": "video",
-      "category_data_id": 8059
+      "category_data_id": 8024
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8062,
+    "pk": 8027,
     "fields": {
       "path": "odissi/explanation/exu_332_mahapada.mp4",
       "type": "video",
-      "category_data_id": 8061
+      "category_data_id": 8026
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8064,
+    "pk": 8029,
     "fields": {
       "path": "odissi/explanation/exu_333_prushta.mp4",
       "type": "video",
-      "category_data_id": 8063
+      "category_data_id": 8028
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8066,
+    "pk": 8031,
     "fields": {
       "path": "odissi/explanation/exu_500_introbaks.mp4",
       "type": "video",
-      "category_data_id": 8065
+      "category_data_id": 8030
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8068,
+    "pk": 8033,
     "fields": {
       "path": "odissi/explanation/exu_501_bamdaksh.mp4",
       "type": "video",
-      "category_data_id": 8067
+      "category_data_id": 8032
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8070,
+    "pk": 8035,
     "fields": {
       "path": "odissi/explanation/exu_502_agraprush.mp4",
       "type": "video",
-      "category_data_id": 8069
+      "category_data_id": 8034
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8072,
+    "pk": 8037,
     "fields": {
       "path": "odissi/explanation/exu_503_prachala.mp4",
       "type": "video",
-      "category_data_id": 8071
+      "category_data_id": 8036
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8074,
+    "pk": 8039,
     "fields": {
       "path": "odissi/explanation/exu_600_introcharisb.mp4",
       "type": "video",
-      "category_data_id": 8073
+      "category_data_id": 8038
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8076,
+    "pk": 8041,
     "fields": {
       "path": "odissi/explanation/exu_601_samardh.mp4",
       "type": "video",
-      "category_data_id": 8075
+      "category_data_id": 8040
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8078,
+    "pk": 8043,
     "fields": {
       "path": "odissi/explanation/exu_602_chaukk.mp4",
       "type": "video",
-      "category_data_id": 8077
+      "category_data_id": 8042
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8080,
+    "pk": 8045,
     "fields": {
       "path": "odissi/explanation/exu_603_tribh.mp4",
       "type": "video",
-      "category_data_id": 8079
+      "category_data_id": 8044
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8082,
+    "pk": 8047,
     "fields": {
       "path": "odissi/explanation/exu_800_01_introbhrasb.mp4",
       "type": "video",
-      "category_data_id": 8081
+      "category_data_id": 8046
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8084,
+    "pk": 8049,
     "fields": {
       "path": "odissi/explanation/exu_801_ardha.mp4",
       "type": "video",
-      "category_data_id": 8083
+      "category_data_id": 8048
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8086,
+    "pk": 8051,
     "fields": {
       "path": "odissi/explanation/exu_802_vesh.mp4",
       "type": "video",
-      "category_data_id": 8085
+      "category_data_id": 8050
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8088,
+    "pk": 8053,
     "fields": {
       "path": "odissi/explanation/exu_803_ekchauk.mp4",
       "type": "video",
-      "category_data_id": 8087
+      "category_data_id": 8052
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8090,
+    "pk": 8055,
     "fields": {
       "path": "odissi/explanation/exu_805_chakra.mp4",
       "type": "video",
-      "category_data_id": 8089
+      "category_data_id": 8054
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8092,
+    "pk": 8057,
     "fields": {
       "path": "odissi/explanation/exu_808_kunch.mp4",
       "type": "video",
-      "category_data_id": 8091
+      "category_data_id": 8056
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8094,
+    "pk": 8059,
     "fields": {
       "path": "odissi/explanation/exu_810_vipchau.mp4",
       "type": "video",
-      "category_data_id": 8093
+      "category_data_id": 8058
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8096,
+    "pk": 8061,
     "fields": {
       "path": "odissi/explanation/exu_812_utpl.mp4",
       "type": "video",
-      "category_data_id": 8095
+      "category_data_id": 8060
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8098,
+    "pk": 8063,
     "fields": {
       "path": "odissi/explanation/exu_814_garud.mp4",
       "type": "video",
-      "category_data_id": 8097
+      "category_data_id": 8062
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8100,
+    "pk": 8065,
     "fields": {
       "path": "odissi/explanation/exu_816_balai.mp4",
       "type": "video",
-      "category_data_id": 8099
+      "category_data_id": 8064
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8102,
+    "pk": 8067,
     "fields": {
       "path": "odissi/explanation/exu_819_akash.mp4",
       "type": "video",
-      "category_data_id": 8101
+      "category_data_id": 8066
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8104,
+    "pk": 8069,
     "fields": {
       "path": "odissi/explanation/exu_820_prithvi.mp4",
       "type": "video",
-      "category_data_id": 8103
+      "category_data_id": 8068
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8106,
+    "pk": 8071,
     "fields": {
       "path": "odissi/explanation/exu_821_anga.mp4",
       "type": "video",
-      "category_data_id": 8105
+      "category_data_id": 8070
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8108,
+    "pk": 8073,
     "fields": {
       "path": "odissi/explanation/exu_822_baksha.mp4",
       "type": "video",
-      "category_data_id": 8107
+      "category_data_id": 8072
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8110,
+    "pk": 8075,
     "fields": {
       "path": "odissi/explanation/exu_900_introgati.mp4",
       "type": "video",
-      "category_data_id": 8109
+      "category_data_id": 8074
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8112,
+    "pk": 8077,
     "fields": {
       "path": "odissi/explanation/exu_901_hams.mp4",
       "type": "video",
-      "category_data_id": 8111
+      "category_data_id": 8076
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8114,
+    "pk": 8079,
     "fields": {
       "path": "odissi/explanation/exu_902_mayuri.mp4",
       "type": "video",
-      "category_data_id": 8113
+      "category_data_id": 8078
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8116,
+    "pk": 8081,
     "fields": {
       "path": "odissi/explanation/exu_903_mrugi.mp4",
       "type": "video",
-      "category_data_id": 8115
+      "category_data_id": 8080
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8118,
+    "pk": 8083,
     "fields": {
       "path": "odissi/explanation/exu_904_gaja.mp4",
       "type": "video",
-      "category_data_id": 8117
+      "category_data_id": 8082
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8120,
+    "pk": 8085,
     "fields": {
       "path": "odissi/explanation/exu_905_turan.mp4",
       "type": "video",
-      "category_data_id": 8119
+      "category_data_id": 8084
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8122,
+    "pk": 8087,
     "fields": {
       "path": "odissi/explanation/exu_906_simhi.mp4",
       "type": "video",
-      "category_data_id": 8121
+      "category_data_id": 8086
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8124,
+    "pk": 8089,
     "fields": {
       "path": "odissi/explanation/exu_907_bhuj.mp4",
       "type": "video",
-      "category_data_id": 8123
+      "category_data_id": 8088
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8126,
+    "pk": 8091,
     "fields": {
       "path": "odissi/explanation/exu_908_mand.mp4",
       "type": "video",
-      "category_data_id": 8125
+      "category_data_id": 8090
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8128,
+    "pk": 8093,
     "fields": {
       "path": "odissi/explanation/exu_910_mana.mp4",
       "type": "video",
-      "category_data_id": 8127
+      "category_data_id": 8092
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8130,
+    "pk": 8095,
     "fields": {
       "path": "odissi/explanation/exu_1000_intromt.mp4",
       "type": "video",
-      "category_data_id": 8129
+      "category_data_id": 8094
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8132,
+    "pk": 8097,
     "fields": {
       "path": "odissi/explanation/exu_1001_kar.mp4",
       "type": "video",
-      "category_data_id": 8131
+      "category_data_id": 8096
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8134,
+    "pk": 8099,
     "fields": {
       "path": "odissi/explanation/exu_1002_dand.mp4",
       "type": "video",
-      "category_data_id": 8133
+      "category_data_id": 8098
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8136,
+    "pk": 8101,
     "fields": {
       "path": "odissi/explanation/exu_1003_paik.mp4",
       "type": "video",
-      "category_data_id": 8135
+      "category_data_id": 8100
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8138,
+    "pk": 8103,
     "fields": {
       "path": "odissi/explanation/exu_1004_chhau.mp4",
       "type": "video",
-      "category_data_id": 8137
+      "category_data_id": 8102
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8140,
+    "pk": 8105,
     "fields": {
       "path": "odissi/explanation/exu_1005_sambal.mp4",
       "type": "video",
-      "category_data_id": 8139
+      "category_data_id": 8104
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8142,
+    "pk": 8107,
     "fields": {
       "path": "odissi/explanation/exu_1006_mahari.mp4",
       "type": "video",
-      "category_data_id": 8141
+      "category_data_id": 8106
     }
   },
   {
     "model": "kalari.CategoriesDataUrls",
-    "pk": 8144,
+    "pk": 8109,
     "fields": {
       "path": "odissi/explanation/exu_1007_gotipua.mp4",
       "type": "video",
-      "category_data_id": 8143
+      "category_data_id": 8108
     }
   }
 ]

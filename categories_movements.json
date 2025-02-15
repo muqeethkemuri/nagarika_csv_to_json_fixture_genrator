@@ -3,7 +3,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3000,
     "fields": {
-      "name": "nan",
+      "name": "Odissi",
       "category_data_movements_id": 7000,
       "type": "CONTEXT",
       "is_related_only": false
@@ -13,7 +13,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3001,
     "fields": {
-      "name": "nan",
+      "name": "Parampara",
       "category_data_movements_id": 7002,
       "type": "CONTEXT",
       "is_related_only": false
@@ -113,7 +113,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3011,
     "fields": {
-      "name": "nan",
+      "name": "Oral Traditions & Texts",
       "category_data_movements_id": 7022,
       "type": "CONTEXT",
       "is_related_only": false
@@ -123,7 +123,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3012,
     "fields": {
-      "name": "nan",
+      "name": "Abhinaya Chandrika",
       "category_data_movements_id": 7024,
       "type": "CONTEXT",
       "is_related_only": false
@@ -133,7 +133,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3013,
     "fields": {
-      "name": "nan",
+      "name": "Geeta Gobinda",
       "category_data_movements_id": 7026,
       "type": "CONTEXT",
       "is_related_only": false
@@ -143,7 +143,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3014,
     "fields": {
-      "name": "nan",
+      "name": "Body care system",
       "category_data_movements_id": 7028,
       "type": "CONTEXT",
       "is_related_only": false
@@ -213,7 +213,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3021,
     "fields": {
-      "name": "nan",
+      "name": "Enactment",
       "category_data_movements_id": 7045,
       "type": "CONTEXT",
       "is_related_only": false
@@ -223,7 +223,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3022,
     "fields": {
-      "name": "nan",
+      "name": "Auchityam",
       "category_data_movements_id": 7047,
       "type": "CONTEXT",
       "is_related_only": false
@@ -233,7 +233,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3023,
     "fields": {
-      "name": "nan",
+      "name": "Costume & Ornament",
       "category_data_movements_id": 7049,
       "type": "CONTEXT",
       "is_related_only": false
@@ -243,7 +243,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3024,
     "fields": {
-      "name": "nan",
+      "name": "Iconography",
       "category_data_movements_id": 7051,
       "type": "CONTEXT",
       "is_related_only": false
@@ -253,7 +253,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3025,
     "fields": {
-      "name": "nan",
+      "name": "Realms of embodiment",
       "category_data_movements_id": 7053,
       "type": "CONTEXT",
       "is_related_only": false
@@ -263,7 +263,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3026,
     "fields": {
-      "name": "nan",
+      "name": "Movement Articulations",
       "category_data_movements_id": 7055,
       "type": "CONTEXT",
       "is_related_only": false
@@ -273,7 +273,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3027,
     "fields": {
-      "name": "nan",
+      "name": "Circularity",
       "category_data_movements_id": 7057,
       "type": "CONTEXT",
       "is_related_only": false
@@ -283,7 +283,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3028,
     "fields": {
-      "name": "nan",
+      "name": "Movement Qualities",
       "category_data_movements_id": 7059,
       "type": "CONTEXT",
       "is_related_only": false
@@ -293,7 +293,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3029,
     "fields": {
-      "name": "nan",
+      "name": "Traditional",
       "category_data_movements_id": 7061,
       "type": "CONTEXT",
       "is_related_only": false
@@ -483,7 +483,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3048,
     "fields": {
-      "name": "nan",
+      "name": "Odissi Music",
       "category_data_movements_id": 7099,
       "type": "CONTEXT",
       "is_related_only": false
@@ -493,7 +493,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3049,
     "fields": {
-      "name": "nan",
+      "name": "Accompaniments",
       "category_data_movements_id": 7101,
       "type": "CONTEXT",
       "is_related_only": false
@@ -503,7 +503,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3050,
     "fields": {
-      "name": "nan",
+      "name": "Odissi Mrudanga",
       "category_data_movements_id": 7103,
       "type": "CONTEXT",
       "is_related_only": false
@@ -743,7 +743,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3074,
     "fields": {
-      "name": "nan",
+      "name": "Rhythmic variations",
       "category_data_movements_id": 7152,
       "type": "CONTEXT",
       "is_related_only": false
@@ -753,7 +753,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3075,
     "fields": {
-      "name": "nan",
+      "name": "Introduction",
       "category_data_movements_id": 7154,
       "type": "CONTEXT",
       "is_related_only": false
@@ -763,7 +763,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3076,
     "fields": {
-      "name": "nan",
+      "name": "Attributes",
       "category_data_movements_id": 7156,
       "type": "CONTEXT",
       "is_related_only": false
@@ -773,7 +773,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3077,
     "fields": {
-      "name": "nan",
+      "name": "Terminologies",
       "category_data_movements_id": 7158,
       "type": "CONTEXT",
       "is_related_only": false
@@ -903,7 +903,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3090,
     "fields": {
-      "name": "nan",
+      "name": "Arasa",
       "category_data_movements_id": 7184,
       "type": "CONTEXT",
       "is_related_only": false
@@ -913,7 +913,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3091,
     "fields": {
-      "name": "nan",
+      "name": "Mana",
       "category_data_movements_id": 7186,
       "type": "CONTEXT",
       "is_related_only": false
@@ -923,7 +923,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3092,
     "fields": {
-      "name": "nan",
+      "name": "Overview",
       "category_data_movements_id": 7188,
       "type": "CONTEXT",
       "is_related_only": false
@@ -933,7 +933,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3093,
     "fields": {
-      "name": "nan",
+      "name": "Sama",
       "category_data_movements_id": 7190,
       "type": "CONTEXT",
       "is_related_only": false
@@ -943,7 +943,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3094,
     "fields": {
-      "name": "nan",
+      "name": "Udvahita",
       "category_data_movements_id": 7192,
       "type": "CONTEXT",
       "is_related_only": false
@@ -953,7 +953,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3095,
     "fields": {
-      "name": "nan",
+      "name": "Adhomukha",
       "category_data_movements_id": 7194,
       "type": "CONTEXT",
       "is_related_only": false
@@ -963,7 +963,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3096,
     "fields": {
-      "name": "nan",
+      "name": "Alolita",
       "category_data_movements_id": 7196,
       "type": "CONTEXT",
       "is_related_only": false
@@ -973,7 +973,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3097,
     "fields": {
-      "name": "nan",
+      "name": "Dhuta",
       "category_data_movements_id": 7198,
       "type": "CONTEXT",
       "is_related_only": false
@@ -983,7 +983,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3098,
     "fields": {
-      "name": "nan",
+      "name": "Kampita",
       "category_data_movements_id": 7200,
       "type": "CONTEXT",
       "is_related_only": false
@@ -993,7 +993,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3099,
     "fields": {
-      "name": "nan",
+      "name": "Paravritta",
       "category_data_movements_id": 7202,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1003,7 +1003,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3100,
     "fields": {
-      "name": "nan",
+      "name": "Utkhipta",
       "category_data_movements_id": 7204,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1013,7 +1013,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3101,
     "fields": {
-      "name": "nan",
+      "name": "Paribahita",
       "category_data_movements_id": 7206,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1023,7 +1023,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3102,
     "fields": {
-      "name": "nan",
+      "name": "Overview",
       "category_data_movements_id": 7208,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1033,7 +1033,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3103,
     "fields": {
-      "name": "nan",
+      "name": "Sama",
       "category_data_movements_id": 7210,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1043,7 +1043,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3104,
     "fields": {
-      "name": "nan",
+      "name": "Alokita",
       "category_data_movements_id": 7212,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1053,7 +1053,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3105,
     "fields": {
-      "name": "nan",
+      "name": "Sachi",
       "category_data_movements_id": 7214,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1063,7 +1063,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3106,
     "fields": {
-      "name": "nan",
+      "name": "Pralokita",
       "category_data_movements_id": 7216,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1073,7 +1073,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3107,
     "fields": {
-      "name": "nan",
+      "name": "Nimilita",
       "category_data_movements_id": 7218,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1083,7 +1083,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3108,
     "fields": {
-      "name": "nan",
+      "name": "Ullokita",
       "category_data_movements_id": 7220,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1093,7 +1093,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3109,
     "fields": {
-      "name": "nan",
+      "name": "Anuvrutta",
       "category_data_movements_id": 7222,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1103,7 +1103,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3110,
     "fields": {
-      "name": "nan",
+      "name": "Avalokita",
       "category_data_movements_id": 7224,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1113,7 +1113,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3111,
     "fields": {
-      "name": "nan",
+      "name": "Overview",
       "category_data_movements_id": 7226,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1123,7 +1123,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3112,
     "fields": {
-      "name": "nan",
+      "name": "Sundari",
       "category_data_movements_id": 7228,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1133,7 +1133,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3113,
     "fields": {
-      "name": "nan",
+      "name": "Tiraschina",
       "category_data_movements_id": 7230,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1143,7 +1143,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3114,
     "fields": {
-      "name": "nan",
+      "name": "Parivartita",
       "category_data_movements_id": 7232,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1153,7 +1153,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3115,
     "fields": {
-      "name": "nan",
+      "name": "Prakampita",
       "category_data_movements_id": 7234,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1163,7 +1163,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3116,
     "fields": {
-      "name": "nan",
+      "name": "Introduction",
       "category_data_movements_id": 7236,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1173,7 +1173,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3117,
     "fields": {
-      "name": "nan",
+      "name": "Significance",
       "category_data_movements_id": 7238,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1743,7 +1743,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3174,
     "fields": {
-      "name": "nan",
+      "name": "Art of Communication",
       "category_data_movements_id": 7352,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1803,7 +1803,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3180,
     "fields": {
-      "name": "nan",
+      "name": "Sthayi & Sanchari Bhava",
       "category_data_movements_id": 7364,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1813,7 +1813,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3181,
     "fields": {
-      "name": "nan",
+      "name": "Bhava & Rasa",
       "category_data_movements_id": 7366,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1823,7 +1823,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3182,
     "fields": {
-      "name": "nan",
+      "name": "Role in Dance",
       "category_data_movements_id": 7368,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1863,7 +1863,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3186,
     "fields": {
-      "name": "nan",
+      "name": "Footage 1",
       "category_data_movements_id": 7376,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1873,7 +1873,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3187,
     "fields": {
-      "name": "nan",
+      "name": "Footage 2",
       "category_data_movements_id": 7378,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1883,7 +1883,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3188,
     "fields": {
-      "name": "nan",
+      "name": "Footage 3",
       "category_data_movements_id": 7380,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1893,7 +1893,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3189,
     "fields": {
-      "name": "nan",
+      "name": "Footage 4",
       "category_data_movements_id": 7382,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1903,7 +1903,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3190,
     "fields": {
-      "name": "nan",
+      "name": "Footage 5",
       "category_data_movements_id": 7384,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1913,7 +1913,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3191,
     "fields": {
-      "name": "nan",
+      "name": "Footage 6",
       "category_data_movements_id": 7386,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1923,7 +1923,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3192,
     "fields": {
-      "name": "nan",
+      "name": "Footage 7",
       "category_data_movements_id": 7388,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1933,7 +1933,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3193,
     "fields": {
-      "name": "nan",
+      "name": "Footage 8",
       "category_data_movements_id": 7390,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1943,7 +1943,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3194,
     "fields": {
-      "name": "nan",
+      "name": "Footage 9",
       "category_data_movements_id": 7392,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1953,7 +1953,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3195,
     "fields": {
-      "name": "nan",
+      "name": "Footage 10",
       "category_data_movements_id": 7394,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1963,7 +1963,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3196,
     "fields": {
-      "name": "nan",
+      "name": "Footage 11",
       "category_data_movements_id": 7396,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1973,7 +1973,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3197,
     "fields": {
-      "name": "nan",
+      "name": "Footage 12",
       "category_data_movements_id": 7398,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1983,7 +1983,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3198,
     "fields": {
-      "name": "nan",
+      "name": "Footage 13",
       "category_data_movements_id": 7400,
       "type": "CONTEXT",
       "is_related_only": false
@@ -1993,7 +1993,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3199,
     "fields": {
-      "name": "nan",
+      "name": "Footage 14",
       "category_data_movements_id": 7402,
       "type": "CONTEXT",
       "is_related_only": false
@@ -2003,7 +2003,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3200,
     "fields": {
-      "name": "nan",
+      "name": "Footage 15",
       "category_data_movements_id": 7404,
       "type": "CONTEXT",
       "is_related_only": false
@@ -2133,7 +2133,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3213,
     "fields": {
-      "name": "nan",
+      "name": "Moksha",
       "category_data_movements_id": 7442,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2183,7 +2183,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3218,
     "fields": {
-      "name": "nan",
+      "name": "Vilasini",
       "category_data_movements_id": 7457,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2193,7 +2193,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3219,
     "fields": {
-      "name": "nan",
+      "name": "Chalo Chalo",
       "category_data_movements_id": 7460,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2203,7 +2203,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3220,
     "fields": {
-      "name": "nan",
+      "name": "Gatibilas (Simha)",
       "category_data_movements_id": 7463,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2213,7 +2213,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3221,
     "fields": {
-      "name": "nan",
+      "name": "Gatibilas (Hamsa)",
       "category_data_movements_id": 7466,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2223,7 +2223,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3222,
     "fields": {
-      "name": "nan",
+      "name": "Debi Bharani",
       "category_data_movements_id": 7469,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2233,7 +2233,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3223,
     "fields": {
-      "name": "nan",
+      "name": "Kundalika",
       "category_data_movements_id": 7472,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2243,7 +2243,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3224,
     "fields": {
-      "name": "nan",
+      "name": "Abahani",
       "category_data_movements_id": 7475,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2253,7 +2253,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3225,
     "fields": {
-      "name": "nan",
+      "name": "Dashavatara",
       "category_data_movements_id": 7478,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2263,7 +2263,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3226,
     "fields": {
-      "name": "nan",
+      "name": "Abartan Bibartan",
       "category_data_movements_id": 7481,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2273,7 +2273,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3227,
     "fields": {
-      "name": "nan",
+      "name": "Murchhana",
       "category_data_movements_id": 7483,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2283,7 +2283,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3228,
     "fields": {
-      "name": "nan",
+      "name": "Shiv Parvathi Sabda",
       "category_data_movements_id": 7485,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2293,7 +2293,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3229,
     "fields": {
-      "name": "nan",
+      "name": "Sthayi & Sanchari Bhava",
       "category_data_movements_id": 7488,
       "type": "SEQUENCE",
       "is_related_only": false
@@ -2303,7 +2303,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3230,
     "fields": {
-      "name": "nan",
+      "name": "Sama Bhanga",
       "category_data_movements_id": 7491,
       "type": "UNIT",
       "is_related_only": false
@@ -2313,7 +2313,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3231,
     "fields": {
-      "name": "nan",
+      "name": "Ardha Bhanga/Abhangi",
       "category_data_movements_id": 7494,
       "type": "UNIT",
       "is_related_only": false
@@ -2323,7 +2323,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3232,
     "fields": {
-      "name": "nan",
+      "name": "Chauka",
       "category_data_movements_id": 7497,
       "type": "UNIT",
       "is_related_only": false
@@ -2333,7 +2333,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3233,
     "fields": {
-      "name": "nan",
+      "name": "Tribhangi",
       "category_data_movements_id": 7500,
       "type": "UNIT",
       "is_related_only": false
@@ -2343,7 +2343,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3234,
     "fields": {
-      "name": "nan",
+      "name": "Atibhanga",
       "category_data_movements_id": 7503,
       "type": "UNIT",
       "is_related_only": false
@@ -2823,7 +2823,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3282,
     "fields": {
-      "name": "nan",
+      "name": "Bamachala - Dakshyachala",
       "category_data_movements_id": 7647,
       "type": "UNIT",
       "is_related_only": false
@@ -2833,7 +2833,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3283,
     "fields": {
-      "name": "nan",
+      "name": "Agrachala - Prushthachala",
       "category_data_movements_id": 7650,
       "type": "UNIT",
       "is_related_only": false
@@ -2843,7 +2843,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3284,
     "fields": {
-      "name": "nan",
+      "name": "Prachala",
       "category_data_movements_id": 7653,
       "type": "UNIT",
       "is_related_only": false
@@ -3153,7 +3153,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3315,
     "fields": {
-      "name": "nan",
+      "name": "Ardha",
       "category_data_movements_id": 7746,
       "type": "UNIT",
       "is_related_only": false
@@ -3163,7 +3163,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3316,
     "fields": {
-      "name": "nan",
+      "name": "Veshtita",
       "category_data_movements_id": 7749,
       "type": "UNIT",
       "is_related_only": false
@@ -3333,7 +3333,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3333,
     "fields": {
-      "name": "nan",
+      "name": "Akash",
       "category_data_movements_id": 7800,
       "type": "UNIT",
       "is_related_only": false
@@ -3343,7 +3343,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3334,
     "fields": {
-      "name": "nan",
+      "name": "Prithvi",
       "category_data_movements_id": 7803,
       "type": "UNIT",
       "is_related_only": false
@@ -3353,7 +3353,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3335,
     "fields": {
-      "name": "nan",
+      "name": "Anga",
       "category_data_movements_id": 7806,
       "type": "UNIT",
       "is_related_only": false
@@ -3363,7 +3363,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3336,
     "fields": {
-      "name": "nan",
+      "name": "Bakshya",
       "category_data_movements_id": 7809,
       "type": "UNIT",
       "is_related_only": false
@@ -3373,7 +3373,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3337,
     "fields": {
-      "name": "nan",
+      "name": "Hamsi",
       "category_data_movements_id": 7812,
       "type": "UNIT",
       "is_related_only": false
@@ -3383,7 +3383,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3338,
     "fields": {
-      "name": "nan",
+      "name": "Mayuri",
       "category_data_movements_id": 7815,
       "type": "UNIT",
       "is_related_only": false
@@ -3393,7 +3393,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3339,
     "fields": {
-      "name": "nan",
+      "name": "Mrugi",
       "category_data_movements_id": 7818,
       "type": "UNIT",
       "is_related_only": false
@@ -3403,7 +3403,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3340,
     "fields": {
-      "name": "nan",
+      "name": "Gajalila",
       "category_data_movements_id": 7821,
       "type": "UNIT",
       "is_related_only": false
@@ -3413,7 +3413,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3341,
     "fields": {
-      "name": "nan",
+      "name": "Turangini",
       "category_data_movements_id": 7824,
       "type": "UNIT",
       "is_related_only": false
@@ -3423,7 +3423,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3342,
     "fields": {
-      "name": "nan",
+      "name": "Singhi/simhi",
       "category_data_movements_id": 7827,
       "type": "UNIT",
       "is_related_only": false
@@ -3433,7 +3433,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3343,
     "fields": {
-      "name": "nan",
+      "name": "Bhujangi",
       "category_data_movements_id": 7830,
       "type": "UNIT",
       "is_related_only": false
@@ -3443,7 +3443,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3344,
     "fields": {
-      "name": "nan",
+      "name": "Manduki",
       "category_data_movements_id": 7833,
       "type": "UNIT",
       "is_related_only": false
@@ -3453,7 +3453,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3345,
     "fields": {
-      "name": "nan",
+      "name": "Manavi",
       "category_data_movements_id": 7836,
       "type": "UNIT",
       "is_related_only": false
@@ -3703,7 +3703,7 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3370,
     "fields": {
-      "name": "Mangalacharan Overview",
+      "name": "Bhangi Overview",
       "category_data_movements_id": 7910,
       "type": "EXPLANATION",
       "is_related_only": false
@@ -3713,8 +3713,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3371,
     "fields": {
-      "name": "Bhoomipranam",
-      "category_data_movements_id": 7911,
+      "name": "Sama Bhanga",
+      "category_data_movements_id": 7912,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3723,8 +3723,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3372,
     "fields": {
-      "name": "Durga Stuti",
-      "category_data_movements_id": 7912,
+      "name": "Ardha Bhanga/Abhangi",
+      "category_data_movements_id": 7914,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3733,8 +3733,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3373,
     "fields": {
-      "name": "Ganesh Bandana",
-      "category_data_movements_id": 7913,
+      "name": "Chauka",
+      "category_data_movements_id": 7916,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3743,8 +3743,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3374,
     "fields": {
-      "name": "Sabhapranam",
-      "category_data_movements_id": 7914,
+      "name": "Tribhangi",
+      "category_data_movements_id": 7918,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3753,8 +3753,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3375,
     "fields": {
-      "name": "Sthayi Overview",
-      "category_data_movements_id": 7915,
+      "name": "Atibhanga",
+      "category_data_movements_id": 7920,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3763,8 +3763,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3376,
     "fields": {
-      "name": "Sthiti",
-      "category_data_movements_id": 7916,
+      "name": "Shilpa Bhangima Overview",
+      "category_data_movements_id": 7922,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3773,8 +3773,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3377,
     "fields": {
-      "name": "Sthayi - Pankaj Charan Das",
-      "category_data_movements_id": 7917,
+      "name": "Mardala",
+      "category_data_movements_id": 7924,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3783,8 +3783,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3378,
     "fields": {
-      "name": "Battu - Kelucharan Mohapatra",
-      "category_data_movements_id": 7918,
+      "name": "Beena",
+      "category_data_movements_id": 7926,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3793,8 +3793,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3379,
     "fields": {
-      "name": "Konark Kanti",
-      "category_data_movements_id": 7919,
+      "name": "Manjeera",
+      "category_data_movements_id": 7928,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3803,8 +3803,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3380,
     "fields": {
-      "name": "Pallavi Overview",
-      "category_data_movements_id": 7920,
+      "name": "Bansi",
+      "category_data_movements_id": 7930,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3813,8 +3813,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3381,
     "fields": {
-      "name": "Raga Rageshri",
-      "category_data_movements_id": 7921,
+      "name": "Alasa",
+      "category_data_movements_id": 7932,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3823,8 +3823,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3382,
     "fields": {
-      "name": "Raga Hamsadhwani",
-      "category_data_movements_id": 7922,
+      "name": "Darpana",
+      "category_data_movements_id": 7934,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3833,8 +3833,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3383,
     "fields": {
-      "name": "Abhinaya Overview",
-      "category_data_movements_id": 7923,
+      "name": "Salabhanjika",
+      "category_data_movements_id": 7936,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3843,8 +3843,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3384,
     "fields": {
-      "name": "Sakhi Hey",
-      "category_data_movements_id": 7924,
+      "name": "Abhiman",
+      "category_data_movements_id": 7938,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3853,8 +3853,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3385,
     "fields": {
-      "name": "Pratinayaka",
-      "category_data_movements_id": 7925,
+      "name": "Rama",
+      "category_data_movements_id": 7940,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3863,8 +3863,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3386,
     "fields": {
-      "name": "Moksha Overview",
-      "category_data_movements_id": 7926,
+      "name": "Ravana",
+      "category_data_movements_id": 7942,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3873,8 +3873,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3387,
     "fields": {
-      "name": "Moksha",
-      "category_data_movements_id": 7927,
+      "name": "Surya",
+      "category_data_movements_id": 7944,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3883,8 +3883,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3388,
     "fields": {
-      "name": "Pada Chalana Overview",
-      "category_data_movements_id": 7928,
+      "name": "Vishnu",
+      "category_data_movements_id": 7946,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3893,8 +3893,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3389,
     "fields": {
-      "name": "1",
-      "category_data_movements_id": 7929,
+      "name": "Shiva",
+      "category_data_movements_id": 7948,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3903,8 +3903,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3390,
     "fields": {
-      "name": "2",
-      "category_data_movements_id": 7930,
+      "name": "Durga",
+      "category_data_movements_id": 7950,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3913,8 +3913,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3391,
     "fields": {
-      "name": "3",
-      "category_data_movements_id": 7931,
+      "name": "Padabheda Overview",
+      "category_data_movements_id": 7952,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3923,8 +3923,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3392,
     "fields": {
-      "name": "4",
-      "category_data_movements_id": 7932,
+      "name": "Sama Overview",
+      "category_data_movements_id": 7954,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3933,8 +3933,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3393,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7933,
+      "name": "Adi",
+      "category_data_movements_id": 7956,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3943,8 +3943,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3394,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7934,
+      "name": "Rekha",
+      "category_data_movements_id": 7958,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3953,8 +3953,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3395,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7935,
+      "name": "Sama",
+      "category_data_movements_id": 7960,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3963,8 +3963,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3396,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7936,
+      "name": "Viparitha/dwimukha",
+      "category_data_movements_id": 7962,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3973,8 +3973,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3397,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7937,
+      "name": "Chauka Overview",
+      "category_data_movements_id": 7964,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3983,8 +3983,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3398,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7938,
+      "name": "Ardhaswastika",
+      "category_data_movements_id": 7966,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -3993,8 +3993,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3399,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7939,
+      "name": "Swastika",
+      "category_data_movements_id": 7968,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4003,8 +4003,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3400,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7940,
+      "name": "Kumbha",
+      "category_data_movements_id": 7970,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4013,8 +4013,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3401,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7941,
+      "name": "Ardha-chauka",
+      "category_data_movements_id": 7972,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4023,8 +4023,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3402,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7942,
+      "name": "Chauka",
+      "category_data_movements_id": 7974,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4033,8 +4033,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3403,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7943,
+      "name": "Mandala",
+      "category_data_movements_id": 7976,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4043,8 +4043,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3404,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7944,
+      "name": "Tribhangi Overview",
+      "category_data_movements_id": 7978,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4053,8 +4053,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3405,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7945,
+      "name": "Trasya",
+      "category_data_movements_id": 7980,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4063,8 +4063,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3406,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7947,
+      "name": "Dhanu",
+      "category_data_movements_id": 7982,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4073,8 +4073,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3407,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7949,
+      "name": "Prusthadhanu",
+      "category_data_movements_id": 7984,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4083,8 +4083,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3408,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7951,
+      "name": "Suchi",
+      "category_data_movements_id": 7986,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4093,8 +4093,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3409,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7953,
+      "name": "Kunchita",
+      "category_data_movements_id": 7988,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4103,8 +4103,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3410,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7955,
+      "name": "Vilagna parshani",
+      "category_data_movements_id": 7990,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4113,8 +4113,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3411,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7957,
+      "name": "Ardha Bhanga Overview",
+      "category_data_movements_id": 7992,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4123,8 +4123,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3412,
     "fields": {
-      "name": "Mardala",
-      "category_data_movements_id": 7959,
+      "name": "Anukunchita",
+      "category_data_movements_id": 7994,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4133,8 +4133,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3413,
     "fields": {
-      "name": "Beena",
-      "category_data_movements_id": 7961,
+      "name": "Gharshita",
+      "category_data_movements_id": 7996,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4143,8 +4143,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3414,
     "fields": {
-      "name": "Manjeera",
-      "category_data_movements_id": 7963,
+      "name": "Utparshani",
+      "category_data_movements_id": 7998,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4153,8 +4153,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3415,
     "fields": {
-      "name": "Bansi",
-      "category_data_movements_id": 7965,
+      "name": "Others Overview",
+      "category_data_movements_id": 8000,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4163,8 +4163,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3416,
     "fields": {
-      "name": "Alasa",
-      "category_data_movements_id": 7967,
+      "name": "Ashrita",
+      "category_data_movements_id": 8002,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4173,8 +4173,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3417,
     "fields": {
-      "name": "Darpana",
-      "category_data_movements_id": 7969,
+      "name": "Meenapuchha",
+      "category_data_movements_id": 8004,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4183,8 +4183,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3418,
     "fields": {
-      "name": "Salabhanjika",
-      "category_data_movements_id": 7971,
+      "name": "Lolita",
+      "category_data_movements_id": 8006,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4193,8 +4193,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3419,
     "fields": {
-      "name": "Abhiman",
-      "category_data_movements_id": 7973,
+      "name": "Uttolita",
+      "category_data_movements_id": 8008,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4203,8 +4203,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3420,
     "fields": {
-      "name": "Rama",
-      "category_data_movements_id": 7975,
+      "name": "Ullolita",
+      "category_data_movements_id": 8010,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4213,8 +4213,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3421,
     "fields": {
-      "name": "Ravana",
-      "category_data_movements_id": 7977,
+      "name": "Januashrita",
+      "category_data_movements_id": 8012,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4223,8 +4223,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3422,
     "fields": {
-      "name": "Surya",
-      "category_data_movements_id": 7979,
+      "name": "Nupura",
+      "category_data_movements_id": 8014,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4233,8 +4233,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3423,
     "fields": {
-      "name": "Vishnu",
-      "category_data_movements_id": 7981,
+      "name": "Alidha",
+      "category_data_movements_id": 8016,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4243,8 +4243,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3424,
     "fields": {
-      "name": "Shiva",
-      "category_data_movements_id": 7983,
+      "name": "Pratyalidha",
+      "category_data_movements_id": 8018,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4253,8 +4253,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3425,
     "fields": {
-      "name": "Durga",
-      "category_data_movements_id": 7985,
+      "name": "Bandhani",
+      "category_data_movements_id": 8020,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4263,8 +4263,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3426,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 7987,
+      "name": "Ekapada",
+      "category_data_movements_id": 8022,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4273,8 +4273,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3427,
     "fields": {
-      "name": "Sama Overview",
-      "category_data_movements_id": 7989,
+      "name": "Janghashrita",
+      "category_data_movements_id": 8024,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4283,8 +4283,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3428,
     "fields": {
-      "name": "Adi",
-      "category_data_movements_id": 7991,
+      "name": "Mahapada",
+      "category_data_movements_id": 8026,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4293,8 +4293,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3429,
     "fields": {
-      "name": "Rekha",
-      "category_data_movements_id": 7993,
+      "name": "Prushta Mahapada",
+      "category_data_movements_id": 8028,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4303,8 +4303,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3430,
     "fields": {
-      "name": "Sama",
-      "category_data_movements_id": 7995,
+      "name": "Bakshyachalana Overview",
+      "category_data_movements_id": 8030,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4313,8 +4313,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3431,
     "fields": {
-      "name": "Viparitha/dwimukha",
-      "category_data_movements_id": 7997,
+      "name": "Bamachala - Dakshyachala",
+      "category_data_movements_id": 8032,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4323,8 +4323,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3432,
     "fields": {
-      "name": "Chauka Overview",
-      "category_data_movements_id": 7999,
+      "name": "Agrachala - Prushthachala",
+      "category_data_movements_id": 8034,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4333,8 +4333,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3433,
     "fields": {
-      "name": "Ardhaswastika",
-      "category_data_movements_id": 8001,
+      "name": "Prachala",
+      "category_data_movements_id": 8036,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4343,8 +4343,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3434,
     "fields": {
-      "name": "Swastika",
-      "category_data_movements_id": 8003,
+      "name": "Basic steps Overview",
+      "category_data_movements_id": 8038,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4353,8 +4353,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3435,
     "fields": {
-      "name": "Kumbha",
-      "category_data_movements_id": 8005,
+      "name": "Sama-Ardha",
+      "category_data_movements_id": 8040,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4363,8 +4363,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3436,
     "fields": {
-      "name": "Ardha-chauka",
-      "category_data_movements_id": 8007,
+      "name": "Chauka",
+      "category_data_movements_id": 8042,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4373,8 +4373,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3437,
     "fields": {
-      "name": "Chauka",
-      "category_data_movements_id": 8009,
+      "name": "Tribhangi",
+      "category_data_movements_id": 8044,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4383,8 +4383,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3438,
     "fields": {
-      "name": "Mandala",
-      "category_data_movements_id": 8011,
+      "name": "Bhramari Overview",
+      "category_data_movements_id": 8046,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4393,8 +4393,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3439,
     "fields": {
-      "name": "Tribhangi Overview",
-      "category_data_movements_id": 8013,
+      "name": "Ardha",
+      "category_data_movements_id": 8048,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4403,8 +4403,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3440,
     "fields": {
-      "name": "Trasya",
-      "category_data_movements_id": 8015,
+      "name": "Veshtita",
+      "category_data_movements_id": 8050,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4413,8 +4413,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3441,
     "fields": {
-      "name": "Dhanu",
-      "category_data_movements_id": 8017,
+      "name": "Ekapada",
+      "category_data_movements_id": 8052,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4423,8 +4423,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3442,
     "fields": {
-      "name": "Prusthadhanu",
-      "category_data_movements_id": 8019,
+      "name": "Chakra",
+      "category_data_movements_id": 8054,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4433,8 +4433,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3443,
     "fields": {
-      "name": "Suchi",
-      "category_data_movements_id": 8021,
+      "name": "Kunchita",
+      "category_data_movements_id": 8056,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4443,8 +4443,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3444,
     "fields": {
-      "name": "Kunchita",
-      "category_data_movements_id": 8023,
+      "name": "Viparita",
+      "category_data_movements_id": 8058,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4453,8 +4453,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3445,
     "fields": {
-      "name": "Vilagna parshani",
-      "category_data_movements_id": 8025,
+      "name": "Utpluta",
+      "category_data_movements_id": 8060,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4463,8 +4463,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3446,
     "fields": {
-      "name": "Ardha Bhanga Overview",
-      "category_data_movements_id": 8027,
+      "name": "Garuda",
+      "category_data_movements_id": 8062,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4473,8 +4473,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3447,
     "fields": {
-      "name": "Anukunchita",
-      "category_data_movements_id": 8029,
+      "name": "Balaita",
+      "category_data_movements_id": 8064,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4483,8 +4483,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3448,
     "fields": {
-      "name": "Gharshita",
-      "category_data_movements_id": 8031,
+      "name": "Akash",
+      "category_data_movements_id": 8066,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4493,8 +4493,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3449,
     "fields": {
-      "name": "Utparshani",
-      "category_data_movements_id": 8033,
+      "name": "Prithvi",
+      "category_data_movements_id": 8068,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4503,8 +4503,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3450,
     "fields": {
-      "name": "Others Overview",
-      "category_data_movements_id": 8035,
+      "name": "Anga",
+      "category_data_movements_id": 8070,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4513,8 +4513,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3451,
     "fields": {
-      "name": "Ashrita",
-      "category_data_movements_id": 8037,
+      "name": "Bakshya",
+      "category_data_movements_id": 8072,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4523,8 +4523,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3452,
     "fields": {
-      "name": "Meenapuchha",
-      "category_data_movements_id": 8039,
+      "name": "Gati Overview",
+      "category_data_movements_id": 8074,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4533,8 +4533,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3453,
     "fields": {
-      "name": "Lolita",
-      "category_data_movements_id": 8041,
+      "name": "Hamsi",
+      "category_data_movements_id": 8076,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4543,8 +4543,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3454,
     "fields": {
-      "name": "Uttolita",
-      "category_data_movements_id": 8043,
+      "name": "Mayuri",
+      "category_data_movements_id": 8078,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4553,8 +4553,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3455,
     "fields": {
-      "name": "Ullolita",
-      "category_data_movements_id": 8045,
+      "name": "Mrugi",
+      "category_data_movements_id": 8080,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4563,8 +4563,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3456,
     "fields": {
-      "name": "Januashrita",
-      "category_data_movements_id": 8047,
+      "name": "Gajalila",
+      "category_data_movements_id": 8082,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4573,8 +4573,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3457,
     "fields": {
-      "name": "Nupura",
-      "category_data_movements_id": 8049,
+      "name": "Turangini",
+      "category_data_movements_id": 8084,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4583,8 +4583,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3458,
     "fields": {
-      "name": "Alidha",
-      "category_data_movements_id": 8051,
+      "name": "Singhi/simhi",
+      "category_data_movements_id": 8086,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4593,8 +4593,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3459,
     "fields": {
-      "name": "Pratyalidha",
-      "category_data_movements_id": 8053,
+      "name": "Bhujangi",
+      "category_data_movements_id": 8088,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4603,8 +4603,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3460,
     "fields": {
-      "name": "Bandhani",
-      "category_data_movements_id": 8055,
+      "name": "Manduki",
+      "category_data_movements_id": 8090,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4613,8 +4613,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3461,
     "fields": {
-      "name": "Ekapada",
-      "category_data_movements_id": 8057,
+      "name": "Manavi",
+      "category_data_movements_id": 8092,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4623,8 +4623,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3462,
     "fields": {
-      "name": "Janghashrita",
-      "category_data_movements_id": 8059,
+      "name": "Movement Transformation Overview",
+      "category_data_movements_id": 8094,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4633,8 +4633,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3463,
     "fields": {
-      "name": "Mahapada",
-      "category_data_movements_id": 8061,
+      "name": "Karma",
+      "category_data_movements_id": 8096,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4643,8 +4643,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3464,
     "fields": {
-      "name": "Prushta Mahapada",
-      "category_data_movements_id": 8063,
+      "name": "Danda",
+      "category_data_movements_id": 8098,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4653,8 +4653,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3465,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8065,
+      "name": "Paika",
+      "category_data_movements_id": 8100,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4663,8 +4663,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3466,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8067,
+      "name": "Chhau",
+      "category_data_movements_id": 8102,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4673,8 +4673,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3467,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8069,
+      "name": "Sambalpuri",
+      "category_data_movements_id": 8104,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4683,8 +4683,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3468,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8071,
+      "name": "Mahari",
+      "category_data_movements_id": 8106,
       "type": "EXPLANATION",
       "is_related_only": false
     }
@@ -4693,358 +4693,8 @@
     "model": "kalari.CategoriesMovements",
     "pk": 3469,
     "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8073,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3470,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8075,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3471,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8077,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3472,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8079,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3473,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8081,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3474,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8083,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3475,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8085,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3476,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8087,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3477,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8089,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3478,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8091,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3479,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8093,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3480,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8095,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3481,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8097,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3482,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8099,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3483,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8101,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3484,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8103,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3485,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8105,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3486,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8107,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3487,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8109,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3488,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8111,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3489,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8113,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3490,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8115,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3491,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8117,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3492,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8119,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3493,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8121,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3494,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8123,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3495,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8125,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3496,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8127,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3497,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8129,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3498,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8131,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3499,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8133,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3500,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8135,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3501,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8137,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3502,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8139,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3503,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8141,
-      "type": "EXPLANATION",
-      "is_related_only": false
-    }
-  },
-  {
-    "model": "kalari.CategoriesMovements",
-    "pk": 3504,
-    "fields": {
-      "name": "nan",
-      "category_data_movements_id": 8143,
+      "name": "Gotipua",
+      "category_data_movements_id": 8108,
       "type": "EXPLANATION",
       "is_related_only": false
     }

@@ -9,8 +9,8 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -25,8 +25,8 @@
       "parent": 4000,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -41,9 +41,9 @@
       "parent": 4000,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -57,9 +57,9 @@
       "parent": 4000,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -71,10 +71,10 @@
       "slug": "introduction",
       "type": "CONTEXT",
       "parent": 4003,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -87,11 +87,11 @@
       "slug": "rupashree-mohapatra",
       "type": "CONTEXT",
       "parent": 4003,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -103,11 +103,11 @@
       "slug": "current-practices",
       "type": "CONTEXT",
       "parent": 4003,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -121,9 +121,9 @@
       "parent": 4000,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -135,10 +135,10 @@
       "slug": "traditional",
       "type": "CONTEXT",
       "parent": 4007,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -151,11 +151,11 @@
       "slug": "current",
       "type": "CONTEXT",
       "parent": 4007,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -169,9 +169,9 @@
       "parent": 4000,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -183,10 +183,10 @@
       "slug": "introduction",
       "type": "CONTEXT",
       "parent": 4010,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -199,11 +199,11 @@
       "slug": "kelucharan-mohapatra",
       "type": "CONTEXT",
       "parent": 4010,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -215,11 +215,11 @@
       "slug": "gangadhar-pradhan",
       "type": "CONTEXT",
       "parent": 4010,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -231,11 +231,11 @@
       "slug": "sanjukta-panigrahi",
       "type": "CONTEXT",
       "parent": 4010,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -249,9 +249,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -265,8 +265,8 @@
       "parent": 4015,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -281,9 +281,9 @@
       "parent": 4015,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -297,9 +297,9 @@
       "parent": 4015,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -313,9 +313,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -329,8 +329,8 @@
       "parent": 4019,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -343,10 +343,10 @@
       "slug": "warm-up",
       "type": "CONTEXT",
       "parent": 4020,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -359,11 +359,11 @@
       "slug": "warm-up-demo",
       "type": "CONTEXT",
       "parent": 4020,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -375,11 +375,11 @@
       "slug": "folk-cardio",
       "type": "CONTEXT",
       "parent": 4020,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -391,11 +391,11 @@
       "slug": "folk-cardio-demo",
       "type": "CONTEXT",
       "parent": 4020,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -407,11 +407,11 @@
       "slug": "cool-down",
       "type": "CONTEXT",
       "parent": 4020,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -423,11 +423,11 @@
       "slug": "cool-down-demo",
       "type": "CONTEXT",
       "parent": 4020,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -441,9 +441,9 @@
       "parent": 4019,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -457,9 +457,9 @@
       "parent": 4019,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -473,9 +473,9 @@
       "parent": 4019,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -489,9 +489,9 @@
       "parent": 4019,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -505,9 +505,9 @@
       "parent": 4019,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -521,9 +521,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -537,8 +537,8 @@
       "parent": 4032,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -553,9 +553,9 @@
       "parent": 4032,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -569,9 +569,9 @@
       "parent": 4032,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -585,9 +585,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -601,8 +601,8 @@
       "parent": 4036,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -617,9 +617,9 @@
       "parent": 4036,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -631,10 +631,10 @@
       "slug": "approach",
       "type": "CONTEXT",
       "parent": 4038,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -647,11 +647,11 @@
       "slug": "anecdotes-1",
       "type": "CONTEXT",
       "parent": 4038,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -663,11 +663,11 @@
       "slug": "anecdotes-2",
       "type": "CONTEXT",
       "parent": 4038,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -681,9 +681,9 @@
       "parent": 4036,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -695,10 +695,10 @@
       "slug": "approach",
       "type": "CONTEXT",
       "parent": 4042,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -711,11 +711,11 @@
       "slug": "anecdotes",
       "type": "CONTEXT",
       "parent": 4042,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -729,9 +729,9 @@
       "parent": 4036,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -743,10 +743,10 @@
       "slug": "adult",
       "type": "CONTEXT",
       "parent": 4045,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -759,11 +759,11 @@
       "slug": "children",
       "type": "CONTEXT",
       "parent": 4045,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -775,11 +775,11 @@
       "slug": "counselling",
       "type": "CONTEXT",
       "parent": 4045,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -793,9 +793,9 @@
       "parent": 4036,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -807,10 +807,10 @@
       "slug": "approach",
       "type": "CONTEXT",
       "parent": 4049,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -823,11 +823,11 @@
       "slug": "transmission",
       "type": "CONTEXT",
       "parent": 4049,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -841,9 +841,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -857,8 +857,8 @@
       "parent": 4052,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -871,10 +871,10 @@
       "slug": "artistic-journey",
       "type": "CONTEXT",
       "parent": 4053,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -887,11 +887,11 @@
       "slug": "thoughts-on-dance",
       "type": "CONTEXT",
       "parent": 4053,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -905,9 +905,9 @@
       "parent": 4052,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -919,10 +919,10 @@
       "slug": "artistic-journey",
       "type": "CONTEXT",
       "parent": 4056,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -935,11 +935,11 @@
       "slug": "thoughts-on-dance",
       "type": "CONTEXT",
       "parent": 4056,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -953,9 +953,9 @@
       "parent": 4052,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -967,10 +967,10 @@
       "slug": "artistic-journey",
       "type": "CONTEXT",
       "parent": 4059,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -983,11 +983,11 @@
       "slug": "thoughts-on-dance",
       "type": "CONTEXT",
       "parent": 4059,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1001,9 +1001,9 @@
       "parent": 4052,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1015,10 +1015,10 @@
       "slug": "artistic-journey",
       "type": "CONTEXT",
       "parent": 4062,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -1031,11 +1031,11 @@
       "slug": "thoughts-on-dance",
       "type": "CONTEXT",
       "parent": 4062,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1049,9 +1049,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1065,8 +1065,8 @@
       "parent": 4065,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -1081,9 +1081,9 @@
       "parent": 4065,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1097,9 +1097,9 @@
       "parent": 4065,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1113,9 +1113,9 @@
       "parent": 4065,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1127,10 +1127,10 @@
       "slug": "introduction",
       "type": "CONTEXT",
       "parent": 4069,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -1143,11 +1143,11 @@
       "slug": "current-practices",
       "type": "CONTEXT",
       "parent": 4069,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1159,11 +1159,11 @@
       "slug": "dhaneshwar-swain",
       "type": "CONTEXT",
       "parent": 4069,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1177,9 +1177,9 @@
       "parent": 4065,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1191,10 +1191,10 @@
       "slug": "overview",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -1207,11 +1207,11 @@
       "slug": "adi-tala-in-arasa-chakradhar",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1223,11 +1223,11 @@
       "slug": "sabda-swara-patha",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1239,11 +1239,11 @@
       "slug": "composition-by-banamali-maharana",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1255,11 +1255,11 @@
       "slug": "bani",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1271,11 +1271,11 @@
       "slug": "theka",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1287,11 +1287,11 @@
       "slug": "tyahi",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1303,11 +1303,11 @@
       "slug": "tisra-gati",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1319,11 +1319,11 @@
       "slug": "battu-by-kelucharan-mohapatra",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1335,11 +1335,11 @@
       "slug": "bani-by-pankaj-charan-das",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1351,11 +1351,11 @@
       "slug": "ganesh-bandana",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1367,11 +1367,11 @@
       "slug": "dasavtara-by-deba-prasad-das",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1383,11 +1383,11 @@
       "slug": "mrugi",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 13,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1399,11 +1399,11 @@
       "slug": "mayuri",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 14,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1415,11 +1415,11 @@
       "slug": "gajalila",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 15,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1431,11 +1431,11 @@
       "slug": "manduki",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 16,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1447,11 +1447,11 @@
       "slug": "turangini",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 17,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1463,11 +1463,11 @@
       "slug": "manavi",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 18,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1479,11 +1479,11 @@
       "slug": "dadra-in-tisra-gati-by-dhaneshwar-swain",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 19,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1495,11 +1495,11 @@
       "slug": "chhanda-prakaran",
       "type": "CONTEXT",
       "parent": 4073,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 20,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1513,9 +1513,9 @@
       "parent": 4065,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1529,9 +1529,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1545,8 +1545,8 @@
       "parent": 4095,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -1561,9 +1561,9 @@
       "parent": 4095,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1577,9 +1577,9 @@
       "parent": 4095,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1593,9 +1593,9 @@
       "parent": 4095,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1607,10 +1607,10 @@
       "slug": "overview",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -1623,11 +1623,11 @@
       "slug": "ekatali",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1639,11 +1639,11 @@
       "slug": "khemta-jhula",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1655,11 +1655,11 @@
       "slug": "rupak",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1671,11 +1671,11 @@
       "slug": "jhampa",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1687,11 +1687,11 @@
       "slug": "adi",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1703,11 +1703,11 @@
       "slug": "tripata",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1719,11 +1719,11 @@
       "slug": "jati",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1735,11 +1735,11 @@
       "slug": "adatali",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1751,11 +1751,11 @@
       "slug": "matha",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1767,11 +1767,11 @@
       "slug": "kuduk",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1783,11 +1783,11 @@
       "slug": "sarimaan",
       "type": "CONTEXT",
       "parent": 4099,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1801,9 +1801,9 @@
       "parent": 4095,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1817,9 +1817,9 @@
       "parent": 4095,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1833,9 +1833,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1849,8 +1849,8 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -1865,9 +1865,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1881,9 +1881,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1897,9 +1897,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1913,9 +1913,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1929,9 +1929,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1945,9 +1945,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1961,9 +1961,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1977,9 +1977,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -1993,9 +1993,9 @@
       "parent": 4114,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2009,9 +2009,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2025,8 +2025,8 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -2041,9 +2041,9 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2057,9 +2057,9 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2073,9 +2073,9 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2089,9 +2089,9 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2105,9 +2105,9 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2121,9 +2121,9 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2137,9 +2137,9 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2153,9 +2153,9 @@
       "parent": 4125,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2169,9 +2169,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2185,8 +2185,8 @@
       "parent": 4135,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -2201,9 +2201,9 @@
       "parent": 4135,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2217,9 +2217,9 @@
       "parent": 4135,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2233,9 +2233,9 @@
       "parent": 4135,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2249,9 +2249,9 @@
       "parent": 4135,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2265,9 +2265,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2281,8 +2281,8 @@
       "parent": 4141,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -2297,9 +2297,9 @@
       "parent": 4141,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2313,9 +2313,9 @@
       "parent": 4141,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2327,10 +2327,10 @@
       "slug": "overview",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -2343,11 +2343,11 @@
       "slug": "pataka",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2359,11 +2359,11 @@
       "slug": "tripataka",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2375,11 +2375,11 @@
       "slug": "ardhapataka",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2391,11 +2391,11 @@
       "slug": "kartarimukha",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2407,11 +2407,11 @@
       "slug": "mayura",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2423,11 +2423,11 @@
       "slug": "ardha-chandra",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2439,11 +2439,11 @@
       "slug": "arala",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2455,11 +2455,11 @@
       "slug": "shukatunda",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2471,11 +2471,11 @@
       "slug": "mushti",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2487,11 +2487,11 @@
       "slug": "shikhara",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2503,11 +2503,11 @@
       "slug": "kapitha",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2519,11 +2519,11 @@
       "slug": "katakamukha",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 13,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2535,11 +2535,11 @@
       "slug": "suchi",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 14,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2551,11 +2551,11 @@
       "slug": "chandrakala",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 15,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2567,11 +2567,11 @@
       "slug": "padmakosha",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 16,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2583,11 +2583,11 @@
       "slug": "sarpaseersha",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 17,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2599,11 +2599,11 @@
       "slug": "mrigasheersha",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 18,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2615,11 +2615,11 @@
       "slug": "simhamukha",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 19,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2631,11 +2631,11 @@
       "slug": "kangula",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 20,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2647,11 +2647,11 @@
       "slug": "alapadma",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 21,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2663,11 +2663,11 @@
       "slug": "chatura",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 22,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2679,11 +2679,11 @@
       "slug": "bhramara",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 23,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2695,11 +2695,11 @@
       "slug": "hamsasya",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 24,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2711,11 +2711,11 @@
       "slug": "hamsapaksha",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 25,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2727,11 +2727,11 @@
       "slug": "samdamsa",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 26,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2743,11 +2743,11 @@
       "slug": "mukula",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 27,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2759,11 +2759,11 @@
       "slug": "tamrachooda",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 28,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2775,11 +2775,11 @@
       "slug": "trishula",
       "type": "CONTEXT",
       "parent": 4144,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 29,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2793,9 +2793,9 @@
       "parent": 4141,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2807,10 +2807,10 @@
       "slug": "overview",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -2823,11 +2823,11 @@
       "slug": "anjali",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2839,11 +2839,11 @@
       "slug": "kapota",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2855,11 +2855,11 @@
       "slug": "karkata",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2871,11 +2871,11 @@
       "slug": "swastika",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2887,11 +2887,11 @@
       "slug": "dola-hasta",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2903,11 +2903,11 @@
       "slug": "pushpaputa",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2919,11 +2919,11 @@
       "slug": "utsanga",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2935,11 +2935,11 @@
       "slug": "shivalinga",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2951,11 +2951,11 @@
       "slug": "katakavardhana",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2967,11 +2967,11 @@
       "slug": "kartariswastika",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2983,11 +2983,11 @@
       "slug": "sakata",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -2999,11 +2999,11 @@
       "slug": "sankha",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 13,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3015,11 +3015,11 @@
       "slug": "chakra",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 14,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3031,11 +3031,11 @@
       "slug": "samputa",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 15,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3047,11 +3047,11 @@
       "slug": "pasa",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 16,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3063,11 +3063,11 @@
       "slug": "kilaka",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 17,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3079,11 +3079,11 @@
       "slug": "matsya",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 18,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3095,11 +3095,11 @@
       "slug": "koorma",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 19,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3111,11 +3111,11 @@
       "slug": "varaha",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 20,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3127,11 +3127,11 @@
       "slug": "garuda",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 21,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3143,11 +3143,11 @@
       "slug": "nagabandha",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 22,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3159,11 +3159,11 @@
       "slug": "khatwa",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 23,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3175,11 +3175,11 @@
       "slug": "bherunda",
       "type": "CONTEXT",
       "parent": 4174,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 24,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3193,9 +3193,9 @@
       "parent": 4141,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3207,10 +3207,10 @@
       "slug": "overview",
       "type": "CONTEXT",
       "parent": 4199,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3223,11 +3223,11 @@
       "slug": "asamyukta-hasta",
       "type": "CONTEXT",
       "parent": 4199,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3239,11 +3239,11 @@
       "slug": "samyukta-hasta",
       "type": "CONTEXT",
       "parent": 4199,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3257,9 +3257,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 13,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3273,8 +3273,8 @@
       "parent": 4203,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3289,9 +3289,9 @@
       "parent": 4203,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3303,10 +3303,10 @@
       "slug": "overview",
       "type": "CONTEXT",
       "parent": 4205,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3319,11 +3319,11 @@
       "slug": "angika",
       "type": "CONTEXT",
       "parent": 4205,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3335,11 +3335,11 @@
       "slug": "vachika",
       "type": "CONTEXT",
       "parent": 4205,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3351,11 +3351,11 @@
       "slug": "aharya",
       "type": "CONTEXT",
       "parent": 4205,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3367,11 +3367,11 @@
       "slug": "sattvika",
       "type": "CONTEXT",
       "parent": 4205,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3385,9 +3385,9 @@
       "parent": 4203,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3401,9 +3401,9 @@
       "parent": 4203,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3417,9 +3417,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 14,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3433,8 +3433,8 @@
       "parent": 4213,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3449,9 +3449,9 @@
       "parent": 4213,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3463,10 +3463,10 @@
       "slug": "emphasis",
       "type": "CONTEXT",
       "parent": 4215,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3479,11 +3479,11 @@
       "slug": "elocution",
       "type": "CONTEXT",
       "parent": 4215,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3495,11 +3495,11 @@
       "slug": "energy",
       "type": "CONTEXT",
       "parent": 4215,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3513,9 +3513,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 15,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3529,8 +3529,8 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3545,9 +3545,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3561,9 +3561,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3577,9 +3577,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3593,9 +3593,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3609,9 +3609,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3625,9 +3625,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3641,9 +3641,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3657,9 +3657,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3673,9 +3673,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3689,9 +3689,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3705,9 +3705,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3721,9 +3721,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 13,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3737,9 +3737,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 14,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3753,9 +3753,9 @@
       "parent": 4219,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 15,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3769,8 +3769,8 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3783,10 +3783,10 @@
       "slug": "bhoomipranam",
       "type": "SEQUENCE",
       "parent": 4235,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3799,11 +3799,11 @@
       "slug": "durga-stuti",
       "type": "SEQUENCE",
       "parent": 4235,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3815,11 +3815,11 @@
       "slug": "ganesh-bandana",
       "type": "SEQUENCE",
       "parent": 4235,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3831,11 +3831,11 @@
       "slug": "sabhapranam",
       "type": "SEQUENCE",
       "parent": 4235,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3849,9 +3849,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3863,10 +3863,10 @@
       "slug": "sthiti",
       "type": "SEQUENCE",
       "parent": 4240,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3879,11 +3879,11 @@
       "slug": "sthayi-pankaj-charan-das",
       "type": "SEQUENCE",
       "parent": 4240,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3895,11 +3895,11 @@
       "slug": "battu-kelucharan-mohapatra",
       "type": "SEQUENCE",
       "parent": 4240,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3911,11 +3911,11 @@
       "slug": "konark-kanti",
       "type": "SEQUENCE",
       "parent": 4240,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3929,9 +3929,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3943,10 +3943,10 @@
       "slug": "raga-rageshri",
       "type": "SEQUENCE",
       "parent": 4245,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3959,11 +3959,11 @@
       "slug": "raga-hamsadhwani",
       "type": "SEQUENCE",
       "parent": 4245,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -3975,10 +3975,10 @@
       "slug": "sakhi-hey",
       "type": "SEQUENCE",
       "parent": 4203,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -3991,11 +3991,11 @@
       "slug": "pratinayaka",
       "type": "SEQUENCE",
       "parent": 4203,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4009,9 +4009,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4025,9 +4025,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4039,10 +4039,10 @@
       "slug": "1",
       "type": "SEQUENCE",
       "parent": 4251,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4055,11 +4055,11 @@
       "slug": "2",
       "type": "SEQUENCE",
       "parent": 4251,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4071,11 +4071,11 @@
       "slug": "3",
       "type": "SEQUENCE",
       "parent": 4251,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4087,11 +4087,11 @@
       "slug": "4",
       "type": "SEQUENCE",
       "parent": 4251,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4105,9 +4105,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4121,9 +4121,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4137,9 +4137,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4153,9 +4153,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4169,9 +4169,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4185,9 +4185,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4201,9 +4201,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4217,9 +4217,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 13,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4233,9 +4233,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 14,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4249,9 +4249,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 15,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4265,9 +4265,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 16,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4281,9 +4281,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 17,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4297,8 +4297,8 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4313,8 +4313,8 @@
       "parent": 4268,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4329,9 +4329,9 @@
       "parent": 4268,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4345,9 +4345,9 @@
       "parent": 4268,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4361,9 +4361,9 @@
       "parent": 4268,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4377,9 +4377,9 @@
       "parent": 4268,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4393,9 +4393,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4409,8 +4409,8 @@
       "parent": 4274,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4423,10 +4423,10 @@
       "slug": "mardala",
       "type": "UNIT",
       "parent": 4275,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4439,11 +4439,11 @@
       "slug": "beena",
       "type": "UNIT",
       "parent": 4275,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4455,11 +4455,11 @@
       "slug": "manjeera",
       "type": "UNIT",
       "parent": 4275,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4471,11 +4471,11 @@
       "slug": "bansi",
       "type": "UNIT",
       "parent": 4275,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4489,9 +4489,9 @@
       "parent": 4274,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4503,10 +4503,10 @@
       "slug": "alasa",
       "type": "UNIT",
       "parent": 4280,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4519,11 +4519,11 @@
       "slug": "darpana",
       "type": "UNIT",
       "parent": 4280,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4535,11 +4535,11 @@
       "slug": "salbhanjika",
       "type": "UNIT",
       "parent": 4280,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4551,11 +4551,11 @@
       "slug": "abhiman",
       "type": "UNIT",
       "parent": 4280,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4569,9 +4569,9 @@
       "parent": 4274,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4583,10 +4583,10 @@
       "slug": "rama",
       "type": "UNIT",
       "parent": 4285,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4599,11 +4599,11 @@
       "slug": "ravana",
       "type": "UNIT",
       "parent": 4285,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4615,11 +4615,11 @@
       "slug": "surya",
       "type": "UNIT",
       "parent": 4285,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4631,11 +4631,11 @@
       "slug": "vishnu",
       "type": "UNIT",
       "parent": 4285,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4647,11 +4647,11 @@
       "slug": "shiva",
       "type": "UNIT",
       "parent": 4285,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4663,11 +4663,11 @@
       "slug": "durga",
       "type": "UNIT",
       "parent": 4285,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4681,9 +4681,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4697,8 +4697,8 @@
       "parent": 4292,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4711,10 +4711,10 @@
       "slug": "adi",
       "type": "UNIT",
       "parent": 4293,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4727,11 +4727,11 @@
       "slug": "rekha",
       "type": "UNIT",
       "parent": 4293,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4743,11 +4743,11 @@
       "slug": "sama",
       "type": "UNIT",
       "parent": 4293,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4759,11 +4759,11 @@
       "slug": "viparitha-dwimukha",
       "type": "UNIT",
       "parent": 4293,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4777,9 +4777,9 @@
       "parent": 4292,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4791,10 +4791,10 @@
       "slug": "ardhaswastika",
       "type": "UNIT",
       "parent": 4298,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4807,11 +4807,11 @@
       "slug": "swastika",
       "type": "UNIT",
       "parent": 4298,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4823,11 +4823,11 @@
       "slug": "kumbha",
       "type": "UNIT",
       "parent": 4298,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4839,11 +4839,11 @@
       "slug": "ardha-chauka",
       "type": "UNIT",
       "parent": 4298,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4855,11 +4855,11 @@
       "slug": "chauka",
       "type": "UNIT",
       "parent": 4298,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4871,11 +4871,11 @@
       "slug": "mandala",
       "type": "UNIT",
       "parent": 4298,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4889,9 +4889,9 @@
       "parent": 4292,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4903,10 +4903,10 @@
       "slug": "trasya",
       "type": "UNIT",
       "parent": 4305,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -4919,11 +4919,11 @@
       "slug": "dhanu",
       "type": "UNIT",
       "parent": 4305,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4935,11 +4935,11 @@
       "slug": "prusthadhanu",
       "type": "UNIT",
       "parent": 4305,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4951,11 +4951,11 @@
       "slug": "suchi",
       "type": "UNIT",
       "parent": 4305,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4967,11 +4967,11 @@
       "slug": "kunchita",
       "type": "UNIT",
       "parent": 4305,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -4983,11 +4983,11 @@
       "slug": "vilagna-parshani",
       "type": "UNIT",
       "parent": 4305,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5001,9 +5001,9 @@
       "parent": 4292,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5015,10 +5015,10 @@
       "slug": "anukunchita",
       "type": "UNIT",
       "parent": 4312,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5031,11 +5031,11 @@
       "slug": "gharshita",
       "type": "UNIT",
       "parent": 4312,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5047,11 +5047,11 @@
       "slug": "utparshani",
       "type": "UNIT",
       "parent": 4312,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5065,9 +5065,9 @@
       "parent": 4292,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5079,10 +5079,10 @@
       "slug": "ashrita",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5095,11 +5095,11 @@
       "slug": "meenapuchha",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5111,11 +5111,11 @@
       "slug": "lolita",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5127,11 +5127,11 @@
       "slug": "uttolita",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5143,11 +5143,11 @@
       "slug": "ullolita",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5159,11 +5159,11 @@
       "slug": "januashrita",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5175,11 +5175,11 @@
       "slug": "nupura",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5191,11 +5191,11 @@
       "slug": "alidha",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5207,11 +5207,11 @@
       "slug": "pratyalidha",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5223,11 +5223,11 @@
       "slug": "bandhani",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5239,11 +5239,11 @@
       "slug": "ekapada",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5255,11 +5255,11 @@
       "slug": "janghashrita",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5271,11 +5271,11 @@
       "slug": "mahapada",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 13,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5287,11 +5287,11 @@
       "slug": "prushta-mahapada",
       "type": "UNIT",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 14,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5305,9 +5305,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5321,8 +5321,8 @@
       "parent": 4331,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5337,9 +5337,9 @@
       "parent": 4331,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5353,9 +5353,9 @@
       "parent": 4331,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5369,9 +5369,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5385,8 +5385,8 @@
       "parent": 4335,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5399,10 +5399,10 @@
       "slug": "1",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5415,11 +5415,11 @@
       "slug": "2",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5431,11 +5431,11 @@
       "slug": "3",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5447,11 +5447,11 @@
       "slug": "4",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5463,11 +5463,11 @@
       "slug": "5",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5479,11 +5479,11 @@
       "slug": "6",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5495,11 +5495,11 @@
       "slug": "7",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5511,11 +5511,11 @@
       "slug": "8",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5527,11 +5527,11 @@
       "slug": "9",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5543,11 +5543,11 @@
       "slug": "10",
       "type": "UNIT",
       "parent": 4336,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5561,9 +5561,9 @@
       "parent": 4335,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5575,10 +5575,10 @@
       "slug": "1",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5591,11 +5591,11 @@
       "slug": "2",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5607,11 +5607,11 @@
       "slug": "3",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5623,11 +5623,11 @@
       "slug": "4",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5639,11 +5639,11 @@
       "slug": "5",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5655,11 +5655,11 @@
       "slug": "6",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5671,11 +5671,11 @@
       "slug": "7",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5687,11 +5687,11 @@
       "slug": "8",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5703,11 +5703,11 @@
       "slug": "9",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5719,11 +5719,11 @@
       "slug": "10",
       "type": "UNIT",
       "parent": 4347,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5737,9 +5737,9 @@
       "parent": 4335,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5751,10 +5751,10 @@
       "slug": "1",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5767,11 +5767,11 @@
       "slug": "2",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5783,11 +5783,11 @@
       "slug": "3",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5799,11 +5799,11 @@
       "slug": "4",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5815,11 +5815,11 @@
       "slug": "5",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5831,11 +5831,11 @@
       "slug": "6",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5847,11 +5847,11 @@
       "slug": "7",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5863,11 +5863,11 @@
       "slug": "8",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5879,11 +5879,11 @@
       "slug": "9",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5895,11 +5895,11 @@
       "slug": "10",
       "type": "UNIT",
       "parent": 4358,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5913,9 +5913,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5929,8 +5929,8 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5945,9 +5945,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5961,9 +5961,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -5975,10 +5975,10 @@
       "slug": "chauka",
       "type": "UNIT",
       "parent": 4372,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -5991,11 +5991,11 @@
       "slug": "ullolita",
       "type": "UNIT",
       "parent": 4372,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6009,9 +6009,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6023,10 +6023,10 @@
       "slug": "chauka",
       "type": "UNIT",
       "parent": 4375,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6039,11 +6039,11 @@
       "slug": "uthparshini",
       "type": "UNIT",
       "parent": 4375,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6055,11 +6055,11 @@
       "slug": "parshachira",
       "type": "UNIT",
       "parent": 4375,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6073,9 +6073,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6087,10 +6087,10 @@
       "slug": "prushtadhanu",
       "type": "UNIT",
       "parent": 4379,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6103,11 +6103,11 @@
       "slug": "trasya",
       "type": "UNIT",
       "parent": 4379,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6121,9 +6121,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6135,10 +6135,10 @@
       "slug": "chauka",
       "type": "UNIT",
       "parent": 4382,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6151,11 +6151,11 @@
       "slug": "tribhangi",
       "type": "UNIT",
       "parent": 4382,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6169,9 +6169,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6183,10 +6183,10 @@
       "slug": "chauka",
       "type": "UNIT",
       "parent": 4385,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6199,11 +6199,11 @@
       "slug": "purna",
       "type": "UNIT",
       "parent": 4385,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6217,9 +6217,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6231,10 +6231,10 @@
       "slug": "thiya",
       "type": "UNIT",
       "parent": 4388,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6247,11 +6247,11 @@
       "slug": "bosa",
       "type": "UNIT",
       "parent": 4388,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6265,9 +6265,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6279,10 +6279,10 @@
       "slug": "chhanda",
       "type": "UNIT",
       "parent": 4391,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6295,11 +6295,11 @@
       "slug": "viparita",
       "type": "UNIT",
       "parent": 4391,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6311,11 +6311,11 @@
       "slug": "chhapka",
       "type": "UNIT",
       "parent": 4391,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6329,9 +6329,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 10,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6345,9 +6345,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 11,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6361,9 +6361,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 12,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6377,9 +6377,9 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 13,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6393,9 +6393,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6409,8 +6409,8 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6425,9 +6425,9 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6441,9 +6441,9 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6457,9 +6457,9 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6473,9 +6473,9 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6489,9 +6489,9 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6505,9 +6505,9 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6521,9 +6521,9 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6537,9 +6537,9 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 9,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6553,9 +6553,9 @@
       "parent": null,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 8,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6569,8 +6569,8 @@
       "parent": 4409,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6583,10 +6583,10 @@
       "slug": "original-1",
       "type": "UNIT",
       "parent": 4410,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6599,11 +6599,11 @@
       "slug": "transformed-1",
       "type": "UNIT",
       "parent": 4410,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6615,11 +6615,11 @@
       "slug": "original-2",
       "type": "UNIT",
       "parent": 4410,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6631,11 +6631,11 @@
       "slug": "transformed-2",
       "type": "UNIT",
       "parent": 4410,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6649,9 +6649,9 @@
       "parent": 4409,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6663,10 +6663,10 @@
       "slug": "original-1",
       "type": "UNIT",
       "parent": 4415,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6679,11 +6679,11 @@
       "slug": "transformed-1",
       "type": "UNIT",
       "parent": 4415,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6695,11 +6695,11 @@
       "slug": "original-2",
       "type": "UNIT",
       "parent": 4415,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6711,11 +6711,11 @@
       "slug": "transformed-2a",
       "type": "UNIT",
       "parent": 4415,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6727,11 +6727,11 @@
       "slug": "transformed-2b",
       "type": "UNIT",
       "parent": 4415,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6745,9 +6745,9 @@
       "parent": 4409,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6759,10 +6759,10 @@
       "slug": "original-1",
       "type": "UNIT",
       "parent": 4421,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6775,11 +6775,11 @@
       "slug": "transformed-1",
       "type": "UNIT",
       "parent": 4421,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6791,11 +6791,11 @@
       "slug": "original-2",
       "type": "UNIT",
       "parent": 4421,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6807,11 +6807,11 @@
       "slug": "transformed-2",
       "type": "UNIT",
       "parent": 4421,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6825,9 +6825,9 @@
       "parent": 4409,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6839,10 +6839,10 @@
       "slug": "original-1",
       "type": "UNIT",
       "parent": 4426,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6855,11 +6855,11 @@
       "slug": "transformed-1",
       "type": "UNIT",
       "parent": 4426,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6871,11 +6871,11 @@
       "slug": "original-2",
       "type": "UNIT",
       "parent": 4426,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6887,11 +6887,11 @@
       "slug": "transformed-2",
       "type": "UNIT",
       "parent": 4426,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 4,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6905,9 +6905,9 @@
       "parent": 4409,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 5,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6919,10 +6919,10 @@
       "slug": "original-transformed-1",
       "type": "UNIT",
       "parent": 4431,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6935,11 +6935,11 @@
       "slug": "original-transformed-2",
       "type": "UNIT",
       "parent": 4431,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6951,11 +6951,11 @@
       "slug": "original-transformed-3",
       "type": "UNIT",
       "parent": 4431,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 3,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6969,9 +6969,9 @@
       "parent": 4409,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 6,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -6983,10 +6983,10 @@
       "slug": "original",
       "type": "UNIT",
       "parent": 4435,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -6999,11 +6999,11 @@
       "slug": "transformed",
       "type": "UNIT",
       "parent": 4435,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -7017,9 +7017,9 @@
       "parent": 4409,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 7,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -7031,10 +7031,10 @@
       "slug": "original",
       "type": "UNIT",
       "parent": 4438,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7047,11 +7047,11 @@
       "slug": "transformed",
       "type": "UNIT",
       "parent": 4438,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -7065,8 +7065,8 @@
       "parent": 4235,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7081,8 +7081,8 @@
       "parent": 4240,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7097,8 +7097,8 @@
       "parent": 4245,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7113,8 +7113,8 @@
       "parent": 4203,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7129,8 +7129,8 @@
       "parent": 4250,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7145,9 +7145,9 @@
       "parent": 4250,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -7161,8 +7161,8 @@
       "parent": 4251,
       "has_data": 1,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7177,8 +7177,8 @@
       "parent": 4268,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7193,8 +7193,8 @@
       "parent": 4274,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7207,10 +7207,10 @@
       "slug": "salabhanjika",
       "type": "EXPLANATION",
       "parent": 4280,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7225,8 +7225,8 @@
       "parent": 4292,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7239,10 +7239,10 @@
       "slug": "sama-overview",
       "type": "EXPLANATION",
       "parent": 4293,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7255,10 +7255,10 @@
       "slug": "chauka-overview",
       "type": "EXPLANATION",
       "parent": 4298,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7271,10 +7271,10 @@
       "slug": "tribhangi-overview",
       "type": "EXPLANATION",
       "parent": 4305,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7287,11 +7287,11 @@
       "slug": "vilagna-parshani",
       "type": "EXPLANATION",
       "parent": 4305,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
-      "sort": 2,
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
+      "sort": 1,
       "category_type": "ODISSI"
     }
   },
@@ -7303,10 +7303,10 @@
       "slug": "ardha-bhanga-overview",
       "type": "EXPLANATION",
       "parent": 4312,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7319,10 +7319,10 @@
       "slug": "others-overview",
       "type": "EXPLANATION",
       "parent": 4316,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7337,8 +7337,8 @@
       "parent": 4331,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7353,8 +7353,8 @@
       "parent": 4335,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7369,8 +7369,8 @@
       "parent": 4369,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7385,8 +7385,8 @@
       "parent": 4399,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
@@ -7401,8 +7401,8 @@
       "parent": 4409,
       "has_data": 0,
       "is_active": 1,
-      "created_at": "2025-02-14T20:58:22.910",
-      "updated_at": "2025-02-14T20:58:22.910",
+      "created_at": "2025-02-15T18:43:59.253",
+      "updated_at": "2025-02-15T18:43:59.253",
       "sort": 1,
       "category_type": "ODISSI"
     }
