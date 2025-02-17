@@ -108,29 +108,30 @@ class CategoryConverter:
         return data_url
 
     def create_category_movement(self, category_data_id: int, title: str, file_type:str, related_slug_name: Optional[str] = None, related_slug_type: Optional[str] = None, start_time: Optional[int] = None, end_time: Optional[int] = None) -> dict:
-      file_type_no_suffix = file_type.split('_')[0]
-      movement_type = file_type_no_suffix.upper()
-        # If explanation file, create a related explanation movement
-      movement = {
+        file_type_no_suffix = file_type.split('_')[0]
+        # Determine movement_type directly from file_type_no_suffix
+        movement_type = file_type_no_suffix.upper()
+
+        movement = {
             "model": "kalari.CategoriesMovements",
             "pk": self.pk_counter_movements,
             "fields": {
                 "name": title,
                 "category_data_movements_id": category_data_id,
-                "type": movement_type,
+                "type": movement_type, # Use derived movement_type
                 "is_related_only": False
             }
         }
 
-      if related_slug_name and related_slug_type:
+        if related_slug_name and related_slug_type:
             movement["fields"]["is_related_only"] = True
             movement["fields"][f"related_{related_slug_type.lower()}_slug"] = related_slug_name
             if start_time:
               movement["fields"]["start_time"] = int(start_time)
             if end_time:
              movement["fields"]["end_time"] = int(end_time)
-      self.pk_counter_movements += 1
-      return movement
+        self.pk_counter_movements += 1
+        return movement
 
     def get_level_columns(self, df: pd.DataFrame) -> List[str]:
         """Get all level columns from the DataFrame."""
@@ -154,13 +155,13 @@ class CategoryConverter:
                 if full_path not in self.pk_map:
                     parent_path = "|".join(filter(None, current_path[:i]))
                     parent_pk = self.pk_map.get(parent_path) # This handles the top level
-                    sort_key = "|".join(filter(None, current_path[:i + 1]))  # Include current level
+                    sort_key = "|".join(filter(None, current_path[:i + 1]))
                     if sort_key not in sort_counters:
                         sort_counters[sort_key] = 1
 
 
                     has_data = 0 if any(col in row and pd.notna(row[col]) for col in ['front', 'side', 'movie file name','FileName']) else 0 if any(pd.notna(row[level_columns[j]]) for j in range(i + 1, len(level_columns))) else 1
-                   
+
 
                     category_type = "CONTEXT" if file_type == "context_menu" else "EXPLANATION" if "explanation" in file_type else "UNIT" if "unit_menu" in file_type else "SEQUENCE"
                     category = self.create_category(
@@ -175,6 +176,49 @@ class CategoryConverter:
                     sort_counters[sort_key] += 1
 
                 last_category_id = self.pk_map[full_path]
+
+
+        if last_category_id and ('front' in row or 'side' in row or 'movie file name' in row or 'FileName' in row):
+            title = current_path[-1]  # Title is the last non-empty level
+            front_file = row.get('front') or row.get('movie file name') or row.get('FileName')
+            side_file = row.get('side')
+            direction = row.get('direction','')
+
+
+            data_entry = self.create_category_data(title, last_category_id, direction)
+            categories_data.append(data_entry)
+
+            if front_file and pd.notna(front_file):
+                categories_data_urls.append(self.create_category_data_url(data_entry["pk"], str(front_file).strip(), file_type))
+
+            if side_file and pd.notna(side_file):
+                categories_data_urls.append(self.create_category_data_url(data_entry["pk"], str(side_file).strip(), file_type))
+
+
+            explanation_key = "|".join(filter(None, current_path))
+            explanation_slug = self.explanation_slug_map.get(file_type.split('_')[0], {}).get(explanation_key)
+
+
+            if "explanation" in file_type:
+                related_slug_type = "explanation"
+                related_slug_name = explanation_slug
+            elif "sequence" in file_type:
+                related_slug_type = "sequence"
+                related_slug_name = slugify(str(row[level_columns[-1]])) if pd.notna(row[level_columns[-1]]) else None
+            elif "unit_menu" in file_type: # Corrected condition for unit_menu
+                related_slug_type = "unit"
+                related_slug_name = slugify(str(row[level_columns[-1]])) if pd.notna(row[level_columns[-1]]) else None
+            else: # For context_menu and others, no related slug
+                related_slug_type = None
+                related_slug_name = None  # No related unit for context or general data
+
+
+            start_time = row.get('start_time')
+            end_time = row.get('end_time')
+            # Pass file_type for movement_type determination, and related_slug_type/name as before
+            movement = self.create_category_movement(data_entry["pk"], title, file_type, related_slug_name, related_slug_type, start_time, end_time)
+
+            categories_movements.append(movement)
 
 
 
