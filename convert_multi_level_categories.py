@@ -285,10 +285,10 @@ def main():
 
     converter = CategoryConverter()
     cats, cats_data, cats_data_urls, cats_movs = converter.generate_categories_json(files_and_types, explanation_files)
-    save_json(cats, "odissi_categories.json")
-    save_json(cats_data, "odissi_categories_data.json")
-    save_json(cats_data_urls, "odissi_categories_data_urls.json")
-    save_json(cats_movs, "odissi_categories_movements.json")
+    save_json(cats, "categories.json")
+    save_json(cats_data, "categories_data.json")
+    save_json(cats_data_urls, "categories_data_urls.json")
+    save_json(cats_movs, "categories_movements.json")
     print(f"Generated {len(cats)} categories, {len(cats_data)} data entries, {len(cats_data_urls)} data URLs, and {len(cats_movs)} movements.")
 
 if __name__ == "__main__":
