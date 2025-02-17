@@ -1,0 +1,5762 @@
+[
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7000,
+    "fields": {
+      "path": "odissi/context/ct_101_genesis.mp4",
+      "type": "video",
+      "category_data_id": 7000
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7001,
+    "fields": {
+      "path": "odissi/context/ct_102_param.mp4",
+      "type": "video",
+      "category_data_id": 7001
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7002,
+    "fields": {
+      "path": "odissi/context/ct_103_mahari.mp4",
+      "type": "video",
+      "category_data_id": 7002
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7003,
+    "fields": {
+      "path": "odissi/context/ct_104_01_mahari.mp4",
+      "type": "video",
+      "category_data_id": 7003
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7004,
+    "fields": {
+      "path": "odissi/context/ct_104_02_mahari.mp4",
+      "type": "video",
+      "category_data_id": 7004
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7005,
+    "fields": {
+      "path": "odissi/context/ct_105_gotipua.mp4",
+      "type": "video",
+      "category_data_id": 7005
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7006,
+    "fields": {
+      "path": "odissi/context/ct_106_goticurr.mp4",
+      "type": "video",
+      "category_data_id": 7006
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7007,
+    "fields": {
+      "path": "odissi/context/ct_107_gurus.mp4",
+      "type": "video",
+      "category_data_id": 7007
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7008,
+    "fields": {
+      "path": "odissi/context/ct_108_kelu.mp4",
+      "type": "video",
+      "category_data_id": 7008
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7009,
+    "fields": {
+      "path": "odissi/context/ct_109_gp.mp4",
+      "type": "video",
+      "category_data_id": 7009
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7010,
+    "fields": {
+      "path": "odissi/context/ct_110_sp.mp4",
+      "type": "video",
+      "category_data_id": 7010
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7011,
+    "fields": {
+      "path": "odissi/context/ct_201_text.mp4",
+      "type": "video",
+      "category_data_id": 7011
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7012,
+    "fields": {
+      "path": "odissi/context/ct_202_abchan.mp4",
+      "type": "video",
+      "category_data_id": 7012
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7013,
+    "fields": {
+      "path": "odissi/context/ct_203_geeta.mp4",
+      "type": "video",
+      "category_data_id": 7013
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7014,
+    "fields": {
+      "path": "odissi/context/ct_301_bodycaresystem_ex.mp4",
+      "type": "video",
+      "category_data_id": 7014
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7015,
+    "fields": {
+      "path": "odissi/context/ct_302_warmup_ex.mp4",
+      "type": "video",
+      "category_data_id": 7015
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7016,
+    "fields": {
+      "path": "odissi/context/ct_302_warmup_f.mp4",
+      "type": "video",
+      "category_data_id": 7016
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7017,
+    "fields": {
+      "path": "odissi/context/ct_302_warmup_s.mp4",
+      "type": "video",
+      "category_data_id": 7016
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7018,
+    "fields": {
+      "path": "odissi/context/ct_303_folkcardio_ex.mp4",
+      "type": "video",
+      "category_data_id": 7017
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7019,
+    "fields": {
+      "path": "odissi/context/ct_303_folkcardio_f.mp4",
+      "type": "video",
+      "category_data_id": 7018
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7020,
+    "fields": {
+      "path": "odissi/context/ct_303_folkcardio_s.mp4",
+      "type": "video",
+      "category_data_id": 7018
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7021,
+    "fields": {
+      "path": "odissi/context/ct_304_cooldown_ex.mp4",
+      "type": "video",
+      "category_data_id": 7019
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7022,
+    "fields": {
+      "path": "odissi/context/ct_304_cooldown_f.mp4",
+      "type": "video",
+      "category_data_id": 7020
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7023,
+    "fields": {
+      "path": "odissi/context/ct_304_cooldown_s.mp4",
+      "type": "video",
+      "category_data_id": 7020
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7024,
+    "fields": {
+      "path": "odissi/context/ct_305_enact_ex.mp4",
+      "type": "video",
+      "category_data_id": 7021
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7025,
+    "fields": {
+      "path": "odissi/context/ct_306_avchit_ex.mp4",
+      "type": "video",
+      "category_data_id": 7022
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7026,
+    "fields": {
+      "path": "odissi/context/ct_307_costu_ex.mp4",
+      "type": "video",
+      "category_data_id": 7023
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7027,
+    "fields": {
+      "path": "odissi/context/ct_308_iconography_ex.mp4",
+      "type": "video",
+      "category_data_id": 7024
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7028,
+    "fields": {
+      "path": "odissi/context/ct_310_embodiment_ex.mp4",
+      "type": "video",
+      "category_data_id": 7025
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7029,
+    "fields": {
+      "path": "odissi/context/ct_400_articula_ex.mp4",
+      "type": "video",
+      "category_data_id": 7026
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7030,
+    "fields": {
+      "path": "odissi/context/ct_401_circula_ex.mp4",
+      "type": "video",
+      "category_data_id": 7027
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7031,
+    "fields": {
+      "path": "odissi/context/ct_402_quality_ex.mp4",
+      "type": "video",
+      "category_data_id": 7028
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7032,
+    "fields": {
+      "path": "odissi/context/ct_501_pedagogy.mp4",
+      "type": "video",
+      "category_data_id": 7029
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7033,
+    "fields": {
+      "path": "odissi/context/ct_502_kmapp.mp4",
+      "type": "video",
+      "category_data_id": 7030
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7034,
+    "fields": {
+      "path": "odissi/context/ct_503_anecdotes.mp4",
+      "type": "video",
+      "category_data_id": 7031
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7035,
+    "fields": {
+      "path": "odissi/context/ct_503_01_anecdotes.mp4",
+      "type": "video",
+      "category_data_id": 7032
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7036,
+    "fields": {
+      "path": "odissi/context/ct_504_gpap.mp4",
+      "type": "video",
+      "category_data_id": 7033
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7037,
+    "fields": {
+      "path": "odissi/context/ct_504_01_gpan.mp4",
+      "type": "video",
+      "category_data_id": 7034
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7038,
+    "fields": {
+      "path": "odissi/context/ct_505_sharad.mp4",
+      "type": "video",
+      "category_data_id": 7035
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7039,
+    "fields": {
+      "path": "odissi/context/ct_506_child.mp4",
+      "type": "video",
+      "category_data_id": 7036
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7040,
+    "fields": {
+      "path": "odissi/context/ct_507_coun.mp4",
+      "type": "video",
+      "category_data_id": 7037
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7041,
+    "fields": {
+      "path": "odissi/context/ct_508_aruapp.mp4",
+      "type": "video",
+      "category_data_id": 7038
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7042,
+    "fields": {
+      "path": "odissi/context/ct_509_knwtrn.mp4",
+      "type": "video",
+      "category_data_id": 7039
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7043,
+    "fields": {
+      "path": "odissi/context/ct_601_keluar.mp4",
+      "type": "video",
+      "category_data_id": 7040
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7044,
+    "fields": {
+      "path": "odissi/context/ct_602_keludan.mp4",
+      "type": "video",
+      "category_data_id": 7041
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7045,
+    "fields": {
+      "path": "odissi/context/ct_603_gpart.mp4",
+      "type": "video",
+      "category_data_id": 7042
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7046,
+    "fields": {
+      "path": "odissi/context/ct.604_gpdan.mp4",
+      "type": "video",
+      "category_data_id": 7043
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7047,
+    "fields": {
+      "path": "odissi/context/ct_605_journsb.mp4",
+      "type": "video",
+      "category_data_id": 7044
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7048,
+    "fields": {
+      "path": "odissi/context/ct_606_thoughtsbysm.mp4",
+      "type": "video",
+      "category_data_id": 7045
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7049,
+    "fields": {
+      "path": "odissi/context/ct_607_journam.mp4",
+      "type": "video",
+      "category_data_id": 7046
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7050,
+    "fields": {
+      "path": "odissi/context/ct_608_thoughtsam.mp4",
+      "type": "video",
+      "category_data_id": 7047
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7051,
+    "fields": {
+      "path": "odissi/context/ct_701_odmus.mp4",
+      "type": "video",
+      "category_data_id": 7048
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7052,
+    "fields": {
+      "path": "odissi/context/ct_702_musicacc.mp4",
+      "type": "video",
+      "category_data_id": 7049
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7053,
+    "fields": {
+      "path": "odissi/context/ct_703_percussion.mp4",
+      "type": "video",
+      "category_data_id": 7050
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7054,
+    "fields": {
+      "path": "odissi/context/Link to Murchhana in sequence",
+      "type": "video",
+      "category_data_id": 7050
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7055,
+    "fields": {
+      "path": "odissi/context/ct_704_mardala.mp4",
+      "type": "video",
+      "category_data_id": 7051
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7056,
+    "fields": {
+      "path": "odissi/context/ct_705_mardcurr.mp4",
+      "type": "video",
+      "category_data_id": 7052
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7057,
+    "fields": {
+      "path": "odissi/context/ct_706_dhanswa.mp4",
+      "type": "video",
+      "category_data_id": 7053
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7058,
+    "fields": {
+      "path": "odissi/context/ct_707_excerpt.mp4",
+      "type": "video",
+      "category_data_id": 7054
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7059,
+    "fields": {
+      "path": "odissi/context/ct_708_adital.mp4",
+      "type": "video",
+      "category_data_id": 7055
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7060,
+    "fields": {
+      "path": "odissi/context/ct_709_ssp.mp4",
+      "type": "video",
+      "category_data_id": 7056
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7061,
+    "fields": {
+      "path": "odissi/context/ct_710_bana.mp4",
+      "type": "video",
+      "category_data_id": 7057
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7062,
+    "fields": {
+      "path": "odissi/context/ct_711_bani.mp4",
+      "type": "video",
+      "category_data_id": 7058
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7063,
+    "fields": {
+      "path": "odissi/context/ct_712_theka.mp4",
+      "type": "video",
+      "category_data_id": 7059
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7064,
+    "fields": {
+      "path": "odissi/context/ct_713_tiyahi.mp4",
+      "type": "video",
+      "category_data_id": 7060
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7065,
+    "fields": {
+      "path": "odissi/context/ct_714_tisra.mp4",
+      "type": "video",
+      "category_data_id": 7061
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7066,
+    "fields": {
+      "path": "odissi/context/ct_715_battu.mp4",
+      "type": "video",
+      "category_data_id": 7062
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7067,
+    "fields": {
+      "path": "odissi/context/ct_716_banipcd.mp4",
+      "type": "video",
+      "category_data_id": 7063
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7068,
+    "fields": {
+      "path": "odissi/context/ct_717_ganeshband.mp4",
+      "type": "video",
+      "category_data_id": 7064
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7069,
+    "fields": {
+      "path": "odissi/context/ct_718_dpddasa.mp4",
+      "type": "video",
+      "category_data_id": 7065
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7070,
+    "fields": {
+      "path": "odissi/context/ct_719_mrugig.mp4",
+      "type": "video",
+      "category_data_id": 7066
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7071,
+    "fields": {
+      "path": "odissi/context/ct_720_mayurig.mp4",
+      "type": "video",
+      "category_data_id": 7067
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7072,
+    "fields": {
+      "path": "odissi/context/ct_721_gaja.mp4",
+      "type": "video",
+      "category_data_id": 7068
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7073,
+    "fields": {
+      "path": "odissi/context/ct_722_mandu.mp4",
+      "type": "video",
+      "category_data_id": 7069
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7074,
+    "fields": {
+      "path": "odissi/context/ct_723_turang.mp4",
+      "type": "video",
+      "category_data_id": 7070
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7075,
+    "fields": {
+      "path": "odissi/context/ct_724_manavi.mp4",
+      "type": "video",
+      "category_data_id": 7071
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7076,
+    "fields": {
+      "path": "odissi/context/ct_725_dadra.mp4",
+      "type": "video",
+      "category_data_id": 7072
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7077,
+    "fields": {
+      "path": "odissi/context/ct_726_chhpraka.mp4",
+      "type": "video",
+      "category_data_id": 7073
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7078,
+    "fields": {
+      "path": "odissi/context/ct_727_rhythv.mp4",
+      "type": "video",
+      "category_data_id": 7074
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7079,
+    "fields": {
+      "path": "odissi/context/ct_801_taalintro.mp4",
+      "type": "video",
+      "category_data_id": 7075
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7080,
+    "fields": {
+      "path": "odissi/context/ct_802_taalatt_.mp4",
+      "type": "video",
+      "category_data_id": 7076
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7081,
+    "fields": {
+      "path": "odissi/context/ct_803_taalterm_ex.mp4",
+      "type": "video",
+      "category_data_id": 7077
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7082,
+    "fields": {
+      "path": "odissi/context/ct_804_01_overtaal.mp4",
+      "type": "video",
+      "category_data_id": 7078
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7083,
+    "fields": {
+      "path": "odissi/context/ct_804_eka.mp4",
+      "type": "video",
+      "category_data_id": 7079
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7084,
+    "fields": {
+      "path": "odissi/context/ct_805_khem.mp4",
+      "type": "video",
+      "category_data_id": 7080
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7085,
+    "fields": {
+      "path": "odissi/context/ct_806_rupak.mp4",
+      "type": "video",
+      "category_data_id": 7081
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7086,
+    "fields": {
+      "path": "odissi/context/ct_807_jham.mp4",
+      "type": "video",
+      "category_data_id": 7082
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7087,
+    "fields": {
+      "path": "odissi/context/ct_808_adi.mp4",
+      "type": "video",
+      "category_data_id": 7083
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7088,
+    "fields": {
+      "path": "odissi/context/ct_809_trip.mp4",
+      "type": "video",
+      "category_data_id": 7084
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7089,
+    "fields": {
+      "path": "odissi/context/ct_810_jati.mp4",
+      "type": "video",
+      "category_data_id": 7085
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7090,
+    "fields": {
+      "path": "odissi/context/ct_811_ada.mp4",
+      "type": "video",
+      "category_data_id": 7086
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7091,
+    "fields": {
+      "path": "odissi/context/ct_812_matha.mp4",
+      "type": "video",
+      "category_data_id": 7087
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7092,
+    "fields": {
+      "path": "odissi/context/ct_813_kuduk.mp4",
+      "type": "video",
+      "category_data_id": 7088
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7093,
+    "fields": {
+      "path": "odissi/context/ct_814_shari.mp4",
+      "type": "video",
+      "category_data_id": 7089
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7094,
+    "fields": {
+      "path": "odissi/context/ct_813_arasa_f.mp4",
+      "type": "video",
+      "category_data_id": 7090
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7095,
+    "fields": {
+      "path": "odissi/context/ct_814_mana_ex.mp4",
+      "type": "video",
+      "category_data_id": 7091
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7096,
+    "fields": {
+      "path": "odissi/context/ct_900_Shiro_ex.mp4",
+      "type": "video",
+      "category_data_id": 7092
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7097,
+    "fields": {
+      "path": "odissi/context/ct_901_sama_ex.mp4",
+      "type": "video",
+      "category_data_id": 7093
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7098,
+    "fields": {
+      "path": "odissi/context/ct_902_udh_ex.mp4",
+      "type": "video",
+      "category_data_id": 7094
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7099,
+    "fields": {
+      "path": "odissi/context/ct_903_adho_ex.mp4",
+      "type": "video",
+      "category_data_id": 7095
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7100,
+    "fields": {
+      "path": "odissi/context/ct_904_alol_ex.mp4",
+      "type": "video",
+      "category_data_id": 7096
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7101,
+    "fields": {
+      "path": "odissi/context/ct_905_dhu_ex.mp4",
+      "type": "video",
+      "category_data_id": 7097
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7102,
+    "fields": {
+      "path": "odissi/context/ct_906_kamp_ex.mp4",
+      "type": "video",
+      "category_data_id": 7098
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7103,
+    "fields": {
+      "path": "odissi/context/ct_907_para_ex.mp4",
+      "type": "video",
+      "category_data_id": 7099
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7104,
+    "fields": {
+      "path": "odissi/context/ct_908_utkh_ex.mp4",
+      "type": "video",
+      "category_data_id": 7100
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7105,
+    "fields": {
+      "path": "odissi/context/ct_909_paribah_ex.mp4",
+      "type": "video",
+      "category_data_id": 7101
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7106,
+    "fields": {
+      "path": "odissi/context/ct_1000_drishti_ex.mp4",
+      "type": "video",
+      "category_data_id": 7102
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7107,
+    "fields": {
+      "path": "odissi/context/ct_1001_sama_ex.mp4",
+      "type": "video",
+      "category_data_id": 7103
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7108,
+    "fields": {
+      "path": "odissi/context/ct_1002_alok_ex.mp4",
+      "type": "video",
+      "category_data_id": 7104
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7109,
+    "fields": {
+      "path": "odissi/context/ct_1003_sach_ex.mp4",
+      "type": "video",
+      "category_data_id": 7105
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7110,
+    "fields": {
+      "path": "odissi/context/ct_1004_pral_ex.mp4",
+      "type": "video",
+      "category_data_id": 7106
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7111,
+    "fields": {
+      "path": "odissi/context/ct_1005_nimil_ex.mp4",
+      "type": "video",
+      "category_data_id": 7107
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7112,
+    "fields": {
+      "path": "odissi/context/ct_1006_ullo_ex.mp4",
+      "type": "video",
+      "category_data_id": 7108
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7113,
+    "fields": {
+      "path": "odissi/context/ct_1007_anuv_ex.mp4",
+      "type": "video",
+      "category_data_id": 7109
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7114,
+    "fields": {
+      "path": "odissi/context/ct_1008_aval_ex.mp4",
+      "type": "video",
+      "category_data_id": 7110
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7115,
+    "fields": {
+      "path": "odissi/context/ct_1100_greeva_ex.mp4",
+      "type": "video",
+      "category_data_id": 7111
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7116,
+    "fields": {
+      "path": "odissi/context/ct_1101_sund_ex.mp4",
+      "type": "video",
+      "category_data_id": 7112
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7117,
+    "fields": {
+      "path": "odissi/context/ct_1102_tirs_ex.mp4",
+      "type": "video",
+      "category_data_id": 7113
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7118,
+    "fields": {
+      "path": "odissi/context/ct_1103_pariv_ex.mp4",
+      "type": "video",
+      "category_data_id": 7114
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7119,
+    "fields": {
+      "path": "odissi/context/ct_1104_prakam_ex.mp4",
+      "type": "video",
+      "category_data_id": 7115
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7120,
+    "fields": {
+      "path": "odissi/context/ct_1200_hasta_ex.mp4",
+      "type": "video",
+      "category_data_id": 7116
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7121,
+    "fields": {
+      "path": "odissi/context/ct_1201_import_ex.mp4",
+      "type": "video",
+      "category_data_id": 7117
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7122,
+    "fields": {
+      "path": "odissi/context/ct_1300_overasam_ex.mp4",
+      "type": "video",
+      "category_data_id": 7118
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7123,
+    "fields": {
+      "path": "odissi/context/ct_1301_pataka_ex.mp4",
+      "type": "video",
+      "category_data_id": 7119
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7124,
+    "fields": {
+      "path": "odissi/context/ct_1302_tripat_ex.mp4",
+      "type": "video",
+      "category_data_id": 7120
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7125,
+    "fields": {
+      "path": "odissi/context/ct_1303_ardhapa_ex.mp4",
+      "type": "video",
+      "category_data_id": 7121
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7126,
+    "fields": {
+      "path": "odissi/context/ct_1304_kartari_ex.mp4",
+      "type": "video",
+      "category_data_id": 7122
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7127,
+    "fields": {
+      "path": "odissi/context/ct_1305_mayur_ex.mp4",
+      "type": "video",
+      "category_data_id": 7123
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7128,
+    "fields": {
+      "path": "odissi/context/ct_1306_ardhach_ex.mp4",
+      "type": "video",
+      "category_data_id": 7124
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7129,
+    "fields": {
+      "path": "odissi/context/ct_1307_aral_ex.mp4",
+      "type": "video",
+      "category_data_id": 7125
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7130,
+    "fields": {
+      "path": "odissi/context/ct_1308_shuka_ex.mp4",
+      "type": "video",
+      "category_data_id": 7126
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7131,
+    "fields": {
+      "path": "odissi/context/ct_1309_mush_ex.mp4",
+      "type": "video",
+      "category_data_id": 7127
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7132,
+    "fields": {
+      "path": "odissi/context/ct_1310_shik_ex.mp4",
+      "type": "video",
+      "category_data_id": 7128
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7133,
+    "fields": {
+      "path": "odissi/context/ct_1311_kapit_ex.mp4",
+      "type": "video",
+      "category_data_id": 7129
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7134,
+    "fields": {
+      "path": "odissi/context/ct_1312_kataka_ex.mp4",
+      "type": "video",
+      "category_data_id": 7130
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7135,
+    "fields": {
+      "path": "odissi/context/ct_1313_such_ex.mp4",
+      "type": "video",
+      "category_data_id": 7131
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7136,
+    "fields": {
+      "path": "odissi/context/ct_1314_chandr_ex.mp4",
+      "type": "video",
+      "category_data_id": 7132
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7137,
+    "fields": {
+      "path": "odissi/context/ct_1315_padm_ex.mp4",
+      "type": "video",
+      "category_data_id": 7133
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7138,
+    "fields": {
+      "path": "odissi/context/ct_1316_sarp_ex.mp4",
+      "type": "video",
+      "category_data_id": 7134
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7139,
+    "fields": {
+      "path": "odissi/context/ct_1317_mrig_ex.mp4",
+      "type": "video",
+      "category_data_id": 7135
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7140,
+    "fields": {
+      "path": "odissi/context/ct_1318_simh_ex.mp4",
+      "type": "video",
+      "category_data_id": 7136
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7141,
+    "fields": {
+      "path": "odissi/context/ct_1319_kang_ex.mp4",
+      "type": "video",
+      "category_data_id": 7137
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7142,
+    "fields": {
+      "path": "odissi/context/ct_1320_alapad_ex.mp4",
+      "type": "video",
+      "category_data_id": 7138
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7143,
+    "fields": {
+      "path": "odissi/context/ct_1321_chatur_ex.mp4",
+      "type": "video",
+      "category_data_id": 7139
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7144,
+    "fields": {
+      "path": "odissi/context/ct_1322_bhram_ex.mp4",
+      "type": "video",
+      "category_data_id": 7140
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7145,
+    "fields": {
+      "path": "odissi/context/ct_1323_hams_ex.mp4",
+      "type": "video",
+      "category_data_id": 7141
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7146,
+    "fields": {
+      "path": "odissi/context/ct_1324_hamsap_ex.mp4",
+      "type": "video",
+      "category_data_id": 7142
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7147,
+    "fields": {
+      "path": "odissi/context/ct_1325_samd_ex.mp4",
+      "type": "video",
+      "category_data_id": 7143
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7148,
+    "fields": {
+      "path": "odissi/context/ct_1326_muku_ex.mp4",
+      "type": "video",
+      "category_data_id": 7144
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7149,
+    "fields": {
+      "path": "odissi/context/ct_1327_tamra_ex.mp4",
+      "type": "video",
+      "category_data_id": 7145
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7150,
+    "fields": {
+      "path": "odissi/context/ct_1328_tris_ex.mp4",
+      "type": "video",
+      "category_data_id": 7146
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7151,
+    "fields": {
+      "path": "odissi/context/ct_1400_oversam_ex.mp4",
+      "type": "video",
+      "category_data_id": 7147
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7152,
+    "fields": {
+      "path": "odissi/context/ct_1401_anj_ex.mp4",
+      "type": "video",
+      "category_data_id": 7148
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7153,
+    "fields": {
+      "path": "odissi/context/ct_1402_kap_ex.mp4",
+      "type": "video",
+      "category_data_id": 7149
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7154,
+    "fields": {
+      "path": "odissi/context/ct_1403_kark_ex.mp4",
+      "type": "video",
+      "category_data_id": 7150
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7155,
+    "fields": {
+      "path": "odissi/context/ct_1404_swast_ex.mp4",
+      "type": "video",
+      "category_data_id": 7151
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7156,
+    "fields": {
+      "path": "odissi/context/ct_1405_dola_ex.mp4",
+      "type": "video",
+      "category_data_id": 7152
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7157,
+    "fields": {
+      "path": "odissi/context/ct_1406_pushp_ex.mp4",
+      "type": "video",
+      "category_data_id": 7153
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7158,
+    "fields": {
+      "path": "odissi/context/ct_1407_utsa_ex.mp4",
+      "type": "video",
+      "category_data_id": 7154
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7159,
+    "fields": {
+      "path": "odissi/context/ct_1408_shival_ex.mp4",
+      "type": "video",
+      "category_data_id": 7155
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7160,
+    "fields": {
+      "path": "odissi/context/ct_1409_kataka_ex.mp4",
+      "type": "video",
+      "category_data_id": 7156
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7161,
+    "fields": {
+      "path": "odissi/context/ct_1410_kartari_ex.mp4",
+      "type": "video",
+      "category_data_id": 7157
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7162,
+    "fields": {
+      "path": "odissi/context/ct_1411_sakat_ex.mp4",
+      "type": "video",
+      "category_data_id": 7158
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7163,
+    "fields": {
+      "path": "odissi/context/ct_1412_sank_ex.mp4",
+      "type": "video",
+      "category_data_id": 7159
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7164,
+    "fields": {
+      "path": "odissi/context/ct_1413_chak_ex.mp4",
+      "type": "video",
+      "category_data_id": 7160
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7165,
+    "fields": {
+      "path": "odissi/context/ct_1414_samp_ex.mp4",
+      "type": "video",
+      "category_data_id": 7161
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7166,
+    "fields": {
+      "path": "odissi/context/ct_1415_pasa_ex.mp4",
+      "type": "video",
+      "category_data_id": 7162
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7167,
+    "fields": {
+      "path": "odissi/context/ct_1416_kila_ex.mp4",
+      "type": "video",
+      "category_data_id": 7163
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7168,
+    "fields": {
+      "path": "odissi/context/ct_1417_mats_ex.mp4",
+      "type": "video",
+      "category_data_id": 7164
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7169,
+    "fields": {
+      "path": "odissi/context/ct_1418_koorm_ex.mp4",
+      "type": "video",
+      "category_data_id": 7165
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7170,
+    "fields": {
+      "path": "odissi/context/ct_1419_vara_ex.mp4",
+      "type": "video",
+      "category_data_id": 7166
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7171,
+    "fields": {
+      "path": "odissi/context/ct_1420_gard_ex.mp4",
+      "type": "video",
+      "category_data_id": 7167
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7172,
+    "fields": {
+      "path": "odissi/context/ct_1421_nagab_ex.mp4",
+      "type": "video",
+      "category_data_id": 7168
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7173,
+    "fields": {
+      "path": "odissi/context/ct_1422_khat_ex.mp4",
+      "type": "video",
+      "category_data_id": 7169
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7174,
+    "fields": {
+      "path": "odissi/context/ct_1423_bher_ex.mp4",
+      "type": "video",
+      "category_data_id": 7170
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7175,
+    "fields": {
+      "path": "odissi/context/ct_1500_odhas_ex.mp4",
+      "type": "video",
+      "category_data_id": 7171
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7176,
+    "fields": {
+      "path": "odissi/context/ct_1600_asamchn_ex.mp4",
+      "type": "video",
+      "category_data_id": 7172
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7177,
+    "fields": {
+      "path": "odissi/context/ct_1601_samchn_ex.mp4",
+      "type": "video",
+      "category_data_id": 7173
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7178,
+    "fields": {
+      "path": "odissi/context/ct_1800_abhi_ex.mp4",
+      "type": "video",
+      "category_data_id": 7174
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7179,
+    "fields": {
+      "path": "odissi/context/ct_1801_class_ex.mp4",
+      "type": "video",
+      "category_data_id": 7175
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7180,
+    "fields": {
+      "path": "odissi/context/ct_1802_angik_ex.mp4",
+      "type": "video",
+      "category_data_id": 7176
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7181,
+    "fields": {
+      "path": "odissi/context/ct_1803_vachik_ex.mp4",
+      "type": "video",
+      "category_data_id": 7177
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7182,
+    "fields": {
+      "path": "odissi/context/ct_1804_aharya_ex.mp4",
+      "type": "video",
+      "category_data_id": 7178
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7183,
+    "fields": {
+      "path": "odissi/context/ct_1805_sattv_ex.mp4",
+      "type": "video",
+      "category_data_id": 7179
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7184,
+    "fields": {
+      "path": "odissi/context/ct_1806_bhav_ex.mp4",
+      "type": "video",
+      "category_data_id": 7180
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7185,
+    "fields": {
+      "path": "odissi/context/ct_1807_rasa_ex.mp4",
+      "type": "video",
+      "category_data_id": 7181
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7186,
+    "fields": {
+      "path": "odissi/context/ct_1900_contemp_ex.mp4",
+      "type": "video",
+      "category_data_id": 7182
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7187,
+    "fields": {
+      "path": "odissi/context/ct_1901_emphasis_ex.mp4",
+      "type": "video",
+      "category_data_id": 7183
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7188,
+    "fields": {
+      "path": "odissi/context/ct_1902_eloc_ex.mp4",
+      "type": "video",
+      "category_data_id": 7184
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7189,
+    "fields": {
+      "path": "odissi/context/ct_1903_ener_ex.mp4",
+      "type": "video",
+      "category_data_id": 7185
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7190,
+    "fields": {
+      "path": "odissi/context/ct_1904_af1_ex.mp4",
+      "type": "video",
+      "category_data_id": 7186
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7191,
+    "fields": {
+      "path": "odissi/context/ct_1905_af2_ex.mp4",
+      "type": "video",
+      "category_data_id": 7187
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7192,
+    "fields": {
+      "path": "odissi/context/ct_1906_af3_ex.mp4",
+      "type": "video",
+      "category_data_id": 7188
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7193,
+    "fields": {
+      "path": "odissi/context/ct_1907_af4_ex.mp4",
+      "type": "video",
+      "category_data_id": 7189
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7194,
+    "fields": {
+      "path": "odissi/context/ct_1908_af5_ex.mp4",
+      "type": "video",
+      "category_data_id": 7190
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7195,
+    "fields": {
+      "path": "odissi/context/ct_1909_af6_ex.mp4",
+      "type": "video",
+      "category_data_id": 7191
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7196,
+    "fields": {
+      "path": "odissi/context/ct_1910_af7_ex.mp4",
+      "type": "video",
+      "category_data_id": 7192
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7197,
+    "fields": {
+      "path": "odissi/context/ct_1911_af8_ex.mp4",
+      "type": "video",
+      "category_data_id": 7193
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7198,
+    "fields": {
+      "path": "odissi/context/ct_1912_af9_ex.mp4",
+      "type": "video",
+      "category_data_id": 7194
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7199,
+    "fields": {
+      "path": "odissi/context/ct_1913_af10_ex.mp4",
+      "type": "video",
+      "category_data_id": 7195
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7200,
+    "fields": {
+      "path": "odissi/context/ct_1914_af11_ex.mp4",
+      "type": "video",
+      "category_data_id": 7196
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7201,
+    "fields": {
+      "path": "odissi/context/ct_1915_af12_ex.mp4",
+      "type": "video",
+      "category_data_id": 7197
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7202,
+    "fields": {
+      "path": "odissi/context/ct_1916_af13_ex.mp4",
+      "type": "video",
+      "category_data_id": 7198
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7203,
+    "fields": {
+      "path": "odissi/context/ct_1917_af14_ex.mp4",
+      "type": "video",
+      "category_data_id": 7199
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7204,
+    "fields": {
+      "path": "odissi/context/ct_1918_af15_ex.mp4",
+      "type": "video",
+      "category_data_id": 7200
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7205,
+    "fields": {
+      "path": "odissi/sequence/sq_001_bhoomi_f.mp4",
+      "type": "video",
+      "category_data_id": 7201
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7206,
+    "fields": {
+      "path": "odissi/sequence/sq_001_bhoomi_s.mp4",
+      "type": "video",
+      "category_data_id": 7201
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7207,
+    "fields": {
+      "path": "odissi/sequence/sq_101_mangalacharan1_f.mp4",
+      "type": "video",
+      "category_data_id": 7202
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7208,
+    "fields": {
+      "path": "odissi/sequence/sq_101_mangalacharan1_s.mp4",
+      "type": "video",
+      "category_data_id": 7202
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7209,
+    "fields": {
+      "path": "odissi/sequence/sq_102_mangalacharan2_f.mp4",
+      "type": "video",
+      "category_data_id": 7203
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7210,
+    "fields": {
+      "path": "odissi/sequence/sq_102_mangalacharan2_s.mp4",
+      "type": "video",
+      "category_data_id": 7203
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7211,
+    "fields": {
+      "path": "odissi/sequence/sq_103_mangalacharan3_f.mp4",
+      "type": "video",
+      "category_data_id": 7204
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7212,
+    "fields": {
+      "path": "odissi/sequence/sq_103_mangalacharan3_s.mp4",
+      "type": "video",
+      "category_data_id": 7204
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7213,
+    "fields": {
+      "path": "odissi/sequence/sq_201_sthiti_f.mp4",
+      "type": "video",
+      "category_data_id": 7205
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7214,
+    "fields": {
+      "path": "odissi/sequence/sq_201_sthiti_s.mp4",
+      "type": "video",
+      "category_data_id": 7205
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7215,
+    "fields": {
+      "path": "odissi/sequence/sq_202_GPDsthayi_f.mp4",
+      "type": "video",
+      "category_data_id": 7206
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7216,
+    "fields": {
+      "path": "odissi/sequence/sq_202_GPDsthayi_s.mp4",
+      "type": "video",
+      "category_data_id": 7206
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7217,
+    "fields": {
+      "path": "odissi/sequence/sq_203_battu_f.mp4",
+      "type": "video",
+      "category_data_id": 7207
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7218,
+    "fields": {
+      "path": "odissi/sequence/sq_203_battu_s.mp4",
+      "type": "video",
+      "category_data_id": 7207
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7219,
+    "fields": {
+      "path": "odissi/sequence/sq_204_konark_f.mp4",
+      "type": "video",
+      "category_data_id": 7208
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7220,
+    "fields": {
+      "path": "odissi/sequence/sq_204_konark_s.mp4",
+      "type": "video",
+      "category_data_id": 7208
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7221,
+    "fields": {
+      "path": "odissi/sequence/sq_301_pallavi_f.mp4",
+      "type": "video",
+      "category_data_id": 7209
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7222,
+    "fields": {
+      "path": "odissi/sequence/sq_301_pallavi_s.mp4",
+      "type": "video",
+      "category_data_id": 7209
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7223,
+    "fields": {
+      "path": "odissi/sequence/sq_302_pallavi2_f.mp4",
+      "type": "video",
+      "category_data_id": 7210
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7224,
+    "fields": {
+      "path": "odissi/sequence/sq_302_pallavi2_s.mp4",
+      "type": "video",
+      "category_data_id": 7210
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7225,
+    "fields": {
+      "path": "odissi/sequence/sq_401_abhinaya1_f.mp4",
+      "type": "video",
+      "category_data_id": 7211
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7226,
+    "fields": {
+      "path": "odissi/sequence/sq_401_abhinaya1_s.mp4",
+      "type": "video",
+      "category_data_id": 7211
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7227,
+    "fields": {
+      "path": "odissi/sequence/sq_402_abhinaya2_f.mp4",
+      "type": "video",
+      "category_data_id": 7212
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7228,
+    "fields": {
+      "path": "odissi/sequence/sq_402_abhinaya2_s.mp4",
+      "type": "video",
+      "category_data_id": 7212
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7229,
+    "fields": {
+      "path": "odissi/sequence/sq_501_moksha_f.mp4",
+      "type": "video",
+      "category_data_id": 7213
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7230,
+    "fields": {
+      "path": "odissi/sequence/sq_501_moksha_s.mp4",
+      "type": "video",
+      "category_data_id": 7213
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7231,
+    "fields": {
+      "path": "odissi/sequence/sq_601_pc1_f.mp4",
+      "type": "video",
+      "category_data_id": 7214
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7232,
+    "fields": {
+      "path": "odissi/sequence/sq_601_pc1_s.mp4",
+      "type": "video",
+      "category_data_id": 7214
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7233,
+    "fields": {
+      "path": "odissi/sequence/sq_602_pc2_f.mp4",
+      "type": "video",
+      "category_data_id": 7215
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7234,
+    "fields": {
+      "path": "odissi/sequence/sq_602_pc2_s.mp4",
+      "type": "video",
+      "category_data_id": 7215
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7235,
+    "fields": {
+      "path": "odissi/sequence/sq_603_pc3_f.mp4",
+      "type": "video",
+      "category_data_id": 7216
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7236,
+    "fields": {
+      "path": "odissi/sequence/sq_603_pc3_s.mp4",
+      "type": "video",
+      "category_data_id": 7216
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7237,
+    "fields": {
+      "path": "odissi/sequence/sq_604_pc4_f.mp4",
+      "type": "video",
+      "category_data_id": 7217
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7238,
+    "fields": {
+      "path": "odissi/sequence/sq_604_pc4_s.mp4",
+      "type": "video",
+      "category_data_id": 7217
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7239,
+    "fields": {
+      "path": "odissi/sequence/sq_501_vilasini_f.mp4",
+      "type": "video",
+      "category_data_id": 7218
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7240,
+    "fields": {
+      "path": "odissi/sequence/sq_501_vilasini_s.mp4",
+      "type": "video",
+      "category_data_id": 7218
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7241,
+    "fields": {
+      "path": "odissi/sequence/sq_502_chalo_f.mp4",
+      "type": "video",
+      "category_data_id": 7219
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7242,
+    "fields": {
+      "path": "odissi/sequence/sq_502_chalo_s.mp4",
+      "type": "video",
+      "category_data_id": 7219
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7243,
+    "fields": {
+      "path": "odissi/sequence/sq_503_gatibilasl_f.mp4",
+      "type": "video",
+      "category_data_id": 7220
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7244,
+    "fields": {
+      "path": "odissi/sequence/sq_503_gatibilasl_s.mp4",
+      "type": "video",
+      "category_data_id": 7220
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7245,
+    "fields": {
+      "path": "odissi/sequence/sq_504_gatibilash_f.mp4",
+      "type": "video",
+      "category_data_id": 7221
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7246,
+    "fields": {
+      "path": "odissi/sequence/sq_504_gatibilash_s.mp4",
+      "type": "video",
+      "category_data_id": 7221
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7247,
+    "fields": {
+      "path": "odissi/sequence/sq_505_debi_f.mp4",
+      "type": "video",
+      "category_data_id": 7222
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7248,
+    "fields": {
+      "path": "odissi/sequence/sq_505_debi_s.mp4",
+      "type": "video",
+      "category_data_id": 7222
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7249,
+    "fields": {
+      "path": "odissi/sequence/sq_506_kundalika_f.mp4",
+      "type": "video",
+      "category_data_id": 7223
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7250,
+    "fields": {
+      "path": "odissi/sequence/sq_506_kundalika_s.mp4",
+      "type": "video",
+      "category_data_id": 7223
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7251,
+    "fields": {
+      "path": "odissi/sequence/sq_507_abahani_f.mp4",
+      "type": "video",
+      "category_data_id": 7224
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7252,
+    "fields": {
+      "path": "odissi/sequence/sq_507_abahani_s.mp4",
+      "type": "video",
+      "category_data_id": 7224
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7253,
+    "fields": {
+      "path": "odissi/sequence/sq_508_dasa_f.mp4",
+      "type": "video",
+      "category_data_id": 7225
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7254,
+    "fields": {
+      "path": "odissi/sequence/sq_508_dasa_s.mp4",
+      "type": "video",
+      "category_data_id": 7225
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7255,
+    "fields": {
+      "path": "odissi/sequence/sq_509_ABBB_f.mp4",
+      "type": "video",
+      "category_data_id": 7226
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7256,
+    "fields": {
+      "path": "odissi/sequence/sq_510_murch_f.mp4",
+      "type": "video",
+      "category_data_id": 7227
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7257,
+    "fields": {
+      "path": "odissi/sequence/sq_511_sabda_f.mp4",
+      "type": "video",
+      "category_data_id": 7228
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7258,
+    "fields": {
+      "path": "odissi/sequence/sq_511_sabda_s.mp4",
+      "type": "video",
+      "category_data_id": 7228
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7259,
+    "fields": {
+      "path": "odissi/sequence/sq_512_sthsan_f.mp4",
+      "type": "video",
+      "category_data_id": 7229
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7260,
+    "fields": {
+      "path": "odissi/sequence/sq_512_sthsan_s.mp4",
+      "type": "video",
+      "category_data_id": 7229
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7261,
+    "fields": {
+      "path": "odissi/unit/ut_101_sama_f.mp4",
+      "type": "video",
+      "category_data_id": 7230
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7262,
+    "fields": {
+      "path": "odissi/unit/ut_101_sama_s.mp4",
+      "type": "video",
+      "category_data_id": 7230
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7263,
+    "fields": {
+      "path": "odissi/unit/ut_102_ardha_f.mp4",
+      "type": "video",
+      "category_data_id": 7231
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7264,
+    "fields": {
+      "path": "odissi/unit/ut_102_ardha_s.mp4",
+      "type": "video",
+      "category_data_id": 7231
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7265,
+    "fields": {
+      "path": "odissi/unit/ut_103_chauka_f.mp4",
+      "type": "video",
+      "category_data_id": 7232
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7266,
+    "fields": {
+      "path": "odissi/unit/ut_103_chauka_s.mp4",
+      "type": "video",
+      "category_data_id": 7232
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7267,
+    "fields": {
+      "path": "odissi/unit/ut_104_tribhangi_f.mp4",
+      "type": "video",
+      "category_data_id": 7233
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7268,
+    "fields": {
+      "path": "odissi/unit/ut_104_tribhangi_s.mp4",
+      "type": "video",
+      "category_data_id": 7233
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7269,
+    "fields": {
+      "path": "odissi/unit/ut_105_atibhanga_f.mp4",
+      "type": "video",
+      "category_data_id": 7234
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7270,
+    "fields": {
+      "path": "odissi/unit/ut_105_atibhanga_s.mp4",
+      "type": "video",
+      "category_data_id": 7234
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7271,
+    "fields": {
+      "path": "odissi/unit/ut_201_mardala_f.mp4",
+      "type": "video",
+      "category_data_id": 7235
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7272,
+    "fields": {
+      "path": "odissi/unit/ut_201_mardala_s.mp4",
+      "type": "video",
+      "category_data_id": 7235
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7273,
+    "fields": {
+      "path": "odissi/unit/ut_202_beena_f.mp4",
+      "type": "video",
+      "category_data_id": 7236
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7274,
+    "fields": {
+      "path": "odissi/unit/ut_202_beena_s.mp4",
+      "type": "video",
+      "category_data_id": 7236
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7275,
+    "fields": {
+      "path": "odissi/unit/ut_203_manj_f.mp4",
+      "type": "video",
+      "category_data_id": 7237
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7276,
+    "fields": {
+      "path": "odissi/unit/ut_203_manj_s.mp4",
+      "type": "video",
+      "category_data_id": 7237
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7277,
+    "fields": {
+      "path": "odissi/unit/ut_204_bans_f.mp4",
+      "type": "video",
+      "category_data_id": 7238
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7278,
+    "fields": {
+      "path": "odissi/unit/ut_204_bans_s.mp4",
+      "type": "video",
+      "category_data_id": 7238
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7279,
+    "fields": {
+      "path": "odissi/unit/ut_205_alas_f.mp4",
+      "type": "video",
+      "category_data_id": 7239
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7280,
+    "fields": {
+      "path": "odissi/unit/ut_205_alas_s.mp4",
+      "type": "video",
+      "category_data_id": 7239
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7281,
+    "fields": {
+      "path": "odissi/unit/ut_206_darp_f.mp4",
+      "type": "video",
+      "category_data_id": 7240
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7282,
+    "fields": {
+      "path": "odissi/unit/ut_206_darp_s.mp4",
+      "type": "video",
+      "category_data_id": 7240
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7283,
+    "fields": {
+      "path": "odissi/unit/ut_207_sal_f.mp4",
+      "type": "video",
+      "category_data_id": 7241
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7284,
+    "fields": {
+      "path": "odissi/unit/ut_207_sal_s.mp4",
+      "type": "video",
+      "category_data_id": 7241
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7285,
+    "fields": {
+      "path": "odissi/unit/ut_208_abh_f.mp4",
+      "type": "video",
+      "category_data_id": 7242
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7286,
+    "fields": {
+      "path": "odissi/unit/ut_208_abh_s.mp4",
+      "type": "video",
+      "category_data_id": 7242
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7287,
+    "fields": {
+      "path": "odissi/unit/ut_209_ram_f.mp4",
+      "type": "video",
+      "category_data_id": 7243
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7288,
+    "fields": {
+      "path": "odissi/unit/ut_209_ram_s.mp4",
+      "type": "video",
+      "category_data_id": 7243
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7289,
+    "fields": {
+      "path": "odissi/unit/ut_210_rav_f.mp4",
+      "type": "video",
+      "category_data_id": 7244
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7290,
+    "fields": {
+      "path": "odissi/unit/ut_210_rav_s.mp4",
+      "type": "video",
+      "category_data_id": 7244
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7291,
+    "fields": {
+      "path": "odissi/unit/ut_211_sur_f.mp4",
+      "type": "video",
+      "category_data_id": 7245
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7292,
+    "fields": {
+      "path": "odissi/unit/ut_211_sur_s.mp4",
+      "type": "video",
+      "category_data_id": 7245
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7293,
+    "fields": {
+      "path": "odissi/unit/ut_212_vish_f.mp4",
+      "type": "video",
+      "category_data_id": 7246
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7294,
+    "fields": {
+      "path": "odissi/unit/ut_212_vish_s.mp4",
+      "type": "video",
+      "category_data_id": 7246
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7295,
+    "fields": {
+      "path": "odissi/unit/ut_213_shiv_f.mp4",
+      "type": "video",
+      "category_data_id": 7247
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7296,
+    "fields": {
+      "path": "odissi/unit/ut_213_shiv_s.mp4",
+      "type": "video",
+      "category_data_id": 7247
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7297,
+    "fields": {
+      "path": "odissi/unit/ut_214_dur_f.mp4",
+      "type": "video",
+      "category_data_id": 7248
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7298,
+    "fields": {
+      "path": "odissi/unit/ut_214_dur_s.mp4",
+      "type": "video",
+      "category_data_id": 7248
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7299,
+    "fields": {
+      "path": "odissi/unit/ut_301_adi_f.mp4",
+      "type": "video",
+      "category_data_id": 7249
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7300,
+    "fields": {
+      "path": "odissi/unit/ut_301_adi_s.mp4",
+      "type": "video",
+      "category_data_id": 7249
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7301,
+    "fields": {
+      "path": "odissi/unit/ut_302_rekha_f.mp4",
+      "type": "video",
+      "category_data_id": 7250
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7302,
+    "fields": {
+      "path": "odissi/unit/ut_302_rekha_s.mp4",
+      "type": "video",
+      "category_data_id": 7250
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7303,
+    "fields": {
+      "path": "odissi/unit/ut_303_samapada_f.mp4",
+      "type": "video",
+      "category_data_id": 7251
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7304,
+    "fields": {
+      "path": "odissi/unit/ut_303_samapada_s.mp4",
+      "type": "video",
+      "category_data_id": 7251
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7305,
+    "fields": {
+      "path": "odissi/unit/ut_304_viparit_f.mp4",
+      "type": "video",
+      "category_data_id": 7252
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7306,
+    "fields": {
+      "path": "odissi/unit/ut_304_viparit_s.mp4",
+      "type": "video",
+      "category_data_id": 7252
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7307,
+    "fields": {
+      "path": "odissi/unit/ut_305_arswastik_f.mp4",
+      "type": "video",
+      "category_data_id": 7253
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7308,
+    "fields": {
+      "path": "odissi/unit/ut_305_arswastik_s.mp4",
+      "type": "video",
+      "category_data_id": 7253
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7309,
+    "fields": {
+      "path": "odissi/unit/ut_306_swastik_f.mp4",
+      "type": "video",
+      "category_data_id": 7254
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7310,
+    "fields": {
+      "path": "odissi/unit/ut_306_swastik_s.mp4",
+      "type": "video",
+      "category_data_id": 7254
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7311,
+    "fields": {
+      "path": "odissi/unit/ut_307_kumbha_f.mp4",
+      "type": "video",
+      "category_data_id": 7255
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7312,
+    "fields": {
+      "path": "odissi/unit/ut_307_kumbha_s.mp4",
+      "type": "video",
+      "category_data_id": 7255
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7313,
+    "fields": {
+      "path": "odissi/unit/ut_308_archauk_f.mp4",
+      "type": "video",
+      "category_data_id": 7256
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7314,
+    "fields": {
+      "path": "odissi/unit/ut_308_archauk_s.mp4",
+      "type": "video",
+      "category_data_id": 7256
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7315,
+    "fields": {
+      "path": "odissi/unit/ut_309_chaukapada_f.mp4",
+      "type": "video",
+      "category_data_id": 7257
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7316,
+    "fields": {
+      "path": "odissi/unit/ut_309_chaukapada_s.mp4",
+      "type": "video",
+      "category_data_id": 7257
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7317,
+    "fields": {
+      "path": "odissi/unit/ut_310_mandala_f.mp4",
+      "type": "video",
+      "category_data_id": 7258
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7318,
+    "fields": {
+      "path": "odissi/unit/ut_310_mandala_s.mp4",
+      "type": "video",
+      "category_data_id": 7258
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7319,
+    "fields": {
+      "path": "odissi/unit/ut_311_trasya_f.mp4",
+      "type": "video",
+      "category_data_id": 7259
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7320,
+    "fields": {
+      "path": "odissi/unit/ut_311_trasya_s.mp4",
+      "type": "video",
+      "category_data_id": 7259
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7321,
+    "fields": {
+      "path": "odissi/unit/ut_312_dhanu_f.mp4",
+      "type": "video",
+      "category_data_id": 7260
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7322,
+    "fields": {
+      "path": "odissi/unit/ut_312_dhanu_s.mp4",
+      "type": "video",
+      "category_data_id": 7260
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7323,
+    "fields": {
+      "path": "odissi/unit/ut_313_prustha_f.mp4",
+      "type": "video",
+      "category_data_id": 7261
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7324,
+    "fields": {
+      "path": "odissi/unit/ut_313_prustha_s.mp4",
+      "type": "video",
+      "category_data_id": 7261
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7325,
+    "fields": {
+      "path": "odissi/unit/ut_314_suchi_f.mp4",
+      "type": "video",
+      "category_data_id": 7262
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7326,
+    "fields": {
+      "path": "odissi/unit/ut_314_suchi_s.mp4",
+      "type": "video",
+      "category_data_id": 7262
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7327,
+    "fields": {
+      "path": "odissi/unit/ut_315_kunchi_f.mp4",
+      "type": "video",
+      "category_data_id": 7263
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7328,
+    "fields": {
+      "path": "odissi/unit/ut_315_kunchi_s.mp4",
+      "type": "video",
+      "category_data_id": 7263
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7329,
+    "fields": {
+      "path": "odissi/unit/ut_316_vilag_f.mp4",
+      "type": "video",
+      "category_data_id": 7264
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7330,
+    "fields": {
+      "path": "odissi/unit/ut_316_vilag_s.mp4",
+      "type": "video",
+      "category_data_id": 7264
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7331,
+    "fields": {
+      "path": "odissi/unit/ut_317_anukun_f.mp4",
+      "type": "video",
+      "category_data_id": 7265
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7332,
+    "fields": {
+      "path": "odissi/unit/ut_317_anukun_s.mp4",
+      "type": "video",
+      "category_data_id": 7265
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7333,
+    "fields": {
+      "path": "odissi/unit/ut_318_ghars_f.mp4",
+      "type": "video",
+      "category_data_id": 7266
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7334,
+    "fields": {
+      "path": "odissi/unit/ut_318_ghars_s.mp4",
+      "type": "video",
+      "category_data_id": 7266
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7335,
+    "fields": {
+      "path": "odissi/unit/ut_319_utpar_f.mp4",
+      "type": "video",
+      "category_data_id": 7267
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7336,
+    "fields": {
+      "path": "odissi/unit/ut_319_utpar_s.mp4",
+      "type": "video",
+      "category_data_id": 7267
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7337,
+    "fields": {
+      "path": "odissi/unit/ut_320_ashri_f.mp4",
+      "type": "video",
+      "category_data_id": 7268
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7338,
+    "fields": {
+      "path": "odissi/unit/ut_320_ashri_s.mp4",
+      "type": "video",
+      "category_data_id": 7268
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7339,
+    "fields": {
+      "path": "odissi/unit/ut_321_meena_f.mp4",
+      "type": "video",
+      "category_data_id": 7269
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7340,
+    "fields": {
+      "path": "odissi/unit/ut_321_meena_s.mp4",
+      "type": "video",
+      "category_data_id": 7269
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7341,
+    "fields": {
+      "path": "odissi/unit/ut_322_lalita_f.mp4",
+      "type": "video",
+      "category_data_id": 7270
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7342,
+    "fields": {
+      "path": "odissi/unit/ut_322_lalita_s.mp4",
+      "type": "video",
+      "category_data_id": 7270
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7343,
+    "fields": {
+      "path": "odissi/unit/ut_323_utta_f.mp4",
+      "type": "video",
+      "category_data_id": 7271
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7344,
+    "fields": {
+      "path": "odissi/unit/ut_323_utta_s.mp4",
+      "type": "video",
+      "category_data_id": 7271
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7345,
+    "fields": {
+      "path": "odissi/unit/ut_324_ullo_f.mp4",
+      "type": "video",
+      "category_data_id": 7272
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7346,
+    "fields": {
+      "path": "odissi/unit/ut_324_ullo_s.mp4",
+      "type": "video",
+      "category_data_id": 7272
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7347,
+    "fields": {
+      "path": "odissi/unit/ut_325_januas_f.mp4",
+      "type": "video",
+      "category_data_id": 7273
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7348,
+    "fields": {
+      "path": "odissi/unit/ut_325_januas_s.mp4",
+      "type": "video",
+      "category_data_id": 7273
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7349,
+    "fields": {
+      "path": "odissi/unit/ut_326_nupura_f.mp4",
+      "type": "video",
+      "category_data_id": 7274
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7350,
+    "fields": {
+      "path": "odissi/unit/ut_326_nupura_s.mp4",
+      "type": "video",
+      "category_data_id": 7274
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7351,
+    "fields": {
+      "path": "odissi/unit/ut_327_alidh_f.mp4",
+      "type": "video",
+      "category_data_id": 7275
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7352,
+    "fields": {
+      "path": "odissi/unit/ut_327_alidh_s.mp4",
+      "type": "video",
+      "category_data_id": 7275
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7353,
+    "fields": {
+      "path": "odissi/unit/ut_328_pratya_f.mp4",
+      "type": "video",
+      "category_data_id": 7276
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7354,
+    "fields": {
+      "path": "odissi/unit/ut_328_pratya_s.mp4",
+      "type": "video",
+      "category_data_id": 7276
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7355,
+    "fields": {
+      "path": "odissi/unit/ut_329_bandh_f.mp4",
+      "type": "video",
+      "category_data_id": 7277
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7356,
+    "fields": {
+      "path": "odissi/unit/ut_329_bandh_s.mp4",
+      "type": "video",
+      "category_data_id": 7277
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7357,
+    "fields": {
+      "path": "odissi/unit/ut_330_ekapada_f.mp4",
+      "type": "video",
+      "category_data_id": 7278
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7358,
+    "fields": {
+      "path": "odissi/unit/ut_330_ekapada_s.mp4",
+      "type": "video",
+      "category_data_id": 7278
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7359,
+    "fields": {
+      "path": "odissi/unit/ut_331_jangh_f.mp4",
+      "type": "video",
+      "category_data_id": 7279
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7360,
+    "fields": {
+      "path": "odissi/unit/ut_331_jangh_s.mp4",
+      "type": "video",
+      "category_data_id": 7279
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7361,
+    "fields": {
+      "path": "odissi/unit/ut_332_mahap_f.mp4",
+      "type": "video",
+      "category_data_id": 7280
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7362,
+    "fields": {
+      "path": "odissi/unit/ut_332_mahap_s.mp4",
+      "type": "video",
+      "category_data_id": 7280
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7363,
+    "fields": {
+      "path": "odissi/unit/ut_333_prushtham_f.mp4",
+      "type": "video",
+      "category_data_id": 7281
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7364,
+    "fields": {
+      "path": "odissi/unit/ut_333_prushtham_s.mp4",
+      "type": "video",
+      "category_data_id": 7281
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7365,
+    "fields": {
+      "path": "odissi/unit/ut_501_bamdaksh_f.mp4",
+      "type": "video",
+      "category_data_id": 7282
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7366,
+    "fields": {
+      "path": "odissi/unit/ut_501_bamdaksh_s.mp4",
+      "type": "video",
+      "category_data_id": 7282
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7367,
+    "fields": {
+      "path": "odissi/unit/ut_502_agraprushth_f.mp4",
+      "type": "video",
+      "category_data_id": 7283
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7368,
+    "fields": {
+      "path": "odissi/unit/ut_502_agraprushth_s.mp4",
+      "type": "video",
+      "category_data_id": 7283
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7369,
+    "fields": {
+      "path": "odissi/unit/ut_503_prachala_f.mp4",
+      "type": "video",
+      "category_data_id": 7284
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7370,
+    "fields": {
+      "path": "odissi/unit/ut_503_prachala_s.mp4",
+      "type": "video",
+      "category_data_id": 7284
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7371,
+    "fields": {
+      "path": "odissi/unit/ut_601_sam1_f.mp4",
+      "type": "video",
+      "category_data_id": 7285
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7372,
+    "fields": {
+      "path": "odissi/unit/ut_601_sam1_s.mp4",
+      "type": "video",
+      "category_data_id": 7285
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7373,
+    "fields": {
+      "path": "odissi/unit/ut_602_sam2_f.mp4",
+      "type": "video",
+      "category_data_id": 7286
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7374,
+    "fields": {
+      "path": "odissi/unit/ut_602_sam2_s.mp4",
+      "type": "video",
+      "category_data_id": 7286
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7375,
+    "fields": {
+      "path": "odissi/unit/ut_603_sam3_f.mp4",
+      "type": "video",
+      "category_data_id": 7287
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7376,
+    "fields": {
+      "path": "odissi/unit/ut_603_sam3_s.mp4",
+      "type": "video",
+      "category_data_id": 7287
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7377,
+    "fields": {
+      "path": "odissi/unit/ut_604_sam4_f.mp4",
+      "type": "video",
+      "category_data_id": 7288
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7378,
+    "fields": {
+      "path": "odissi/unit/ut_604_sam4_s.mp4",
+      "type": "video",
+      "category_data_id": 7288
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7379,
+    "fields": {
+      "path": "odissi/unit/ut_605_sam5_f.mp4",
+      "type": "video",
+      "category_data_id": 7289
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7380,
+    "fields": {
+      "path": "odissi/unit/ut_605_sam5_s.mp4",
+      "type": "video",
+      "category_data_id": 7289
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7381,
+    "fields": {
+      "path": "odissi/unit/ut_606_sam6_f.mp4",
+      "type": "video",
+      "category_data_id": 7290
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7382,
+    "fields": {
+      "path": "odissi/unit/ut_606_sam6_s.mp4",
+      "type": "video",
+      "category_data_id": 7290
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7383,
+    "fields": {
+      "path": "odissi/unit/ut_607_sam7_f.mp4",
+      "type": "video",
+      "category_data_id": 7291
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7384,
+    "fields": {
+      "path": "odissi/unit/ut_607_sam7_s.mp4",
+      "type": "video",
+      "category_data_id": 7291
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7385,
+    "fields": {
+      "path": "odissi/unit/ut_608_sam8_f.mp4",
+      "type": "video",
+      "category_data_id": 7292
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7386,
+    "fields": {
+      "path": "odissi/unit/ut_608_sam8_s.mp4",
+      "type": "video",
+      "category_data_id": 7292
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7387,
+    "fields": {
+      "path": "odissi/unit/ut_609_sam9_f.mp4",
+      "type": "video",
+      "category_data_id": 7293
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7388,
+    "fields": {
+      "path": "odissi/unit/ut_609_sam9_s.mp4",
+      "type": "video",
+      "category_data_id": 7293
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7389,
+    "fields": {
+      "path": "odissi/unit/ut_610_sam10_f.mp4",
+      "type": "video",
+      "category_data_id": 7294
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7390,
+    "fields": {
+      "path": "odissi/unit/ut_610_sam10_s.mp4",
+      "type": "video",
+      "category_data_id": 7294
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7391,
+    "fields": {
+      "path": "odissi/unit/ut_611_chauk1_f.mp4",
+      "type": "video",
+      "category_data_id": 7295
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7392,
+    "fields": {
+      "path": "odissi/unit/ut_611_chauk1_s.mp4",
+      "type": "video",
+      "category_data_id": 7295
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7393,
+    "fields": {
+      "path": "odissi/unit/ut_612_chauk2_f.mp4",
+      "type": "video",
+      "category_data_id": 7296
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7394,
+    "fields": {
+      "path": "odissi/unit/ut_612_chauk2_s.mp4",
+      "type": "video",
+      "category_data_id": 7296
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7395,
+    "fields": {
+      "path": "odissi/unit/ut_613_chauk3_f.mp4",
+      "type": "video",
+      "category_data_id": 7297
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7396,
+    "fields": {
+      "path": "odissi/unit/ut_613_chauk3_s.mp4",
+      "type": "video",
+      "category_data_id": 7297
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7397,
+    "fields": {
+      "path": "odissi/unit/ut_614_chauk4_f.mp4",
+      "type": "video",
+      "category_data_id": 7298
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7398,
+    "fields": {
+      "path": "odissi/unit/ut_614_chauk4_s.mp4",
+      "type": "video",
+      "category_data_id": 7298
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7399,
+    "fields": {
+      "path": "odissi/unit/ut_615_chauk5_f.mp4",
+      "type": "video",
+      "category_data_id": 7299
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7400,
+    "fields": {
+      "path": "odissi/unit/ut_615_chauk5_s.mp4",
+      "type": "video",
+      "category_data_id": 7299
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7401,
+    "fields": {
+      "path": "odissi/unit/ut_616_chauk6_f.mp4",
+      "type": "video",
+      "category_data_id": 7300
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7402,
+    "fields": {
+      "path": "odissi/unit/ut_616_chauk6_s.mp4",
+      "type": "video",
+      "category_data_id": 7300
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7403,
+    "fields": {
+      "path": "odissi/unit/ut_617_chauk7_f.mp4",
+      "type": "video",
+      "category_data_id": 7301
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7404,
+    "fields": {
+      "path": "odissi/unit/ut_617_chauk7_s.mp4",
+      "type": "video",
+      "category_data_id": 7301
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7405,
+    "fields": {
+      "path": "odissi/unit/ut_618_chauk8_f.mp4",
+      "type": "video",
+      "category_data_id": 7302
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7406,
+    "fields": {
+      "path": "odissi/unit/ut_618_chauk8_s.mp4",
+      "type": "video",
+      "category_data_id": 7302
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7407,
+    "fields": {
+      "path": "odissi/unit/ut_619_chauk9_f.mp4",
+      "type": "video",
+      "category_data_id": 7303
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7408,
+    "fields": {
+      "path": "odissi/unit/ut_619_chauk9_s.mp4",
+      "type": "video",
+      "category_data_id": 7303
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7409,
+    "fields": {
+      "path": "odissi/unit/ut_620_chauk10_f.mp4",
+      "type": "video",
+      "category_data_id": 7304
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7410,
+    "fields": {
+      "path": "odissi/unit/ut_620_chauk10_s.mp4",
+      "type": "video",
+      "category_data_id": 7304
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7411,
+    "fields": {
+      "path": "odissi/unit/ut_621_tri1_f.mp4",
+      "type": "video",
+      "category_data_id": 7305
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7412,
+    "fields": {
+      "path": "odissi/unit/ut_621_tri1_s.mp4",
+      "type": "video",
+      "category_data_id": 7305
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7413,
+    "fields": {
+      "path": "odissi/unit/ut_622_tri2_f.mp4",
+      "type": "video",
+      "category_data_id": 7306
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7414,
+    "fields": {
+      "path": "odissi/unit/ut_622_tri2_s.mp4",
+      "type": "video",
+      "category_data_id": 7306
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7415,
+    "fields": {
+      "path": "odissi/unit/ut_623_tri3_f.mp4",
+      "type": "video",
+      "category_data_id": 7307
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7416,
+    "fields": {
+      "path": "odissi/unit/ut_623_tri3_s.mp4",
+      "type": "video",
+      "category_data_id": 7307
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7417,
+    "fields": {
+      "path": "odissi/unit/ut_624_tri4_f.mp4",
+      "type": "video",
+      "category_data_id": 7308
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7418,
+    "fields": {
+      "path": "odissi/unit/ut_624_tri4_s.mp4",
+      "type": "video",
+      "category_data_id": 7308
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7419,
+    "fields": {
+      "path": "odissi/unit/ut_625_tri5_f.mp4",
+      "type": "video",
+      "category_data_id": 7309
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7420,
+    "fields": {
+      "path": "odissi/unit/ut_625_tri5_s.mp4",
+      "type": "video",
+      "category_data_id": 7309
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7421,
+    "fields": {
+      "path": "odissi/unit/ut_626_tri16_f.mp4",
+      "type": "video",
+      "category_data_id": 7310
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7422,
+    "fields": {
+      "path": "odissi/unit/ut_626_tri6_s.mp4",
+      "type": "video",
+      "category_data_id": 7310
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7423,
+    "fields": {
+      "path": "odissi/unit/ut_627_tri7_f.mp4",
+      "type": "video",
+      "category_data_id": 7311
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7424,
+    "fields": {
+      "path": "odissi/unit/ut_627_tri7_s.mp4",
+      "type": "video",
+      "category_data_id": 7311
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7425,
+    "fields": {
+      "path": "odissi/unit/ut_628_tri8_f.mp4",
+      "type": "video",
+      "category_data_id": 7312
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7426,
+    "fields": {
+      "path": "odissi/unit/ut_628_tri8_s.mp4",
+      "type": "video",
+      "category_data_id": 7312
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7427,
+    "fields": {
+      "path": "odissi/unit/ut_629_tri9_f.mp4",
+      "type": "video",
+      "category_data_id": 7313
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7428,
+    "fields": {
+      "path": "odissi/unit/ut_629_tri9_s.mp4",
+      "type": "video",
+      "category_data_id": 7313
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7429,
+    "fields": {
+      "path": "odissi/unit/ut_630_tri10_f.mp4",
+      "type": "video",
+      "category_data_id": 7314
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7430,
+    "fields": {
+      "path": "odissi/unit/ut_630_tri10_s.mp4",
+      "type": "video",
+      "category_data_id": 7314
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7431,
+    "fields": {
+      "path": "odissi/unit/ut_801_ardhabh_f.mp4",
+      "type": "video",
+      "category_data_id": 7315
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7432,
+    "fields": {
+      "path": "odissi/unit/ut_801_ardhabh_s.mp4",
+      "type": "video",
+      "category_data_id": 7315
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7433,
+    "fields": {
+      "path": "odissi/unit/ut_802_vesht_f.mp4",
+      "type": "video",
+      "category_data_id": 7316
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7434,
+    "fields": {
+      "path": "odissi/unit/ut_802_vesht_s.mp4",
+      "type": "video",
+      "category_data_id": 7316
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7435,
+    "fields": {
+      "path": "odissi/unit/ut_803_ekchauk_f.mp4",
+      "type": "video",
+      "category_data_id": 7317
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7436,
+    "fields": {
+      "path": "odissi/unit/ut_803_ekchauk_s.mp4",
+      "type": "video",
+      "category_data_id": 7317
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7437,
+    "fields": {
+      "path": "odissi/unit/ut_804_ull_f.mp4",
+      "type": "video",
+      "category_data_id": 7318
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7438,
+    "fields": {
+      "path": "odissi/unit/ut_804_ull_s.mp4",
+      "type": "video",
+      "category_data_id": 7318
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7439,
+    "fields": {
+      "path": "odissi/unit/ut_805_chakrachauk_f.mp4",
+      "type": "video",
+      "category_data_id": 7319
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7440,
+    "fields": {
+      "path": "odissi/unit/ut_805_chakrachauk_s.mp4",
+      "type": "video",
+      "category_data_id": 7319
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7441,
+    "fields": {
+      "path": "odissi/unit/ut_806_chakraut_f.mp4",
+      "type": "video",
+      "category_data_id": 7320
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7442,
+    "fields": {
+      "path": "odissi/unit/ut_806_chakraut_s.mp4",
+      "type": "video",
+      "category_data_id": 7320
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7443,
+    "fields": {
+      "path": "odissi/unit/ut_807_parshach_f.mp4",
+      "type": "video",
+      "category_data_id": 7321
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7444,
+    "fields": {
+      "path": "odissi/unit/ut_807_parshach_s.mp4",
+      "type": "video",
+      "category_data_id": 7321
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7445,
+    "fields": {
+      "path": "odissi/unit/ut_808_kunprush_f.mp4",
+      "type": "video",
+      "category_data_id": 7322
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7446,
+    "fields": {
+      "path": "odissi/unit/ut_808_kunprush_s.mp4",
+      "type": "video",
+      "category_data_id": 7322
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7447,
+    "fields": {
+      "path": "odissi/unit/ut_809_kuntras_f.mp4",
+      "type": "video",
+      "category_data_id": 7323
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7448,
+    "fields": {
+      "path": "odissi/unit/ut_809_kuntras_s.mp4",
+      "type": "video",
+      "category_data_id": 7323
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7449,
+    "fields": {
+      "path": "odissi/unit/ut_810_vipchauk_f.mp4",
+      "type": "video",
+      "category_data_id": 7324
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7450,
+    "fields": {
+      "path": "odissi/unit/ut_810_vipchauk_s.mp4",
+      "type": "video",
+      "category_data_id": 7324
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7451,
+    "fields": {
+      "path": "odissi/unit/ut_811_viptri_f.mp4",
+      "type": "video",
+      "category_data_id": 7325
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7452,
+    "fields": {
+      "path": "odissi/unit/ut_811_viptri_s.mp4",
+      "type": "video",
+      "category_data_id": 7325
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7453,
+    "fields": {
+      "path": "odissi/unit/ut_812_utpchauk_f.mp4",
+      "type": "video",
+      "category_data_id": 7326
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7454,
+    "fields": {
+      "path": "odissi/unit/ut_812_utpchauk_s.mp4",
+      "type": "video",
+      "category_data_id": 7326
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7455,
+    "fields": {
+      "path": "odissi/unit/ut_813_utpur_f.mp4",
+      "type": "video",
+      "category_data_id": 7327
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7456,
+    "fields": {
+      "path": "odissi/unit/ut_813_utpur_s.mp4",
+      "type": "video",
+      "category_data_id": 7327
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7457,
+    "fields": {
+      "path": "odissi/unit/ut_814_garudthi_f.mp4",
+      "type": "video",
+      "category_data_id": 7328
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7458,
+    "fields": {
+      "path": "odissi/unit/ut_814_garudthi_s.mp4",
+      "type": "video",
+      "category_data_id": 7328
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7459,
+    "fields": {
+      "path": "odissi/unit/ut_815_garudbos_f.mp4",
+      "type": "video",
+      "category_data_id": 7329
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7460,
+    "fields": {
+      "path": "odissi/unit/ut_815_garudbos_s.mp4",
+      "type": "video",
+      "category_data_id": 7329
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7461,
+    "fields": {
+      "path": "odissi/unit/ut_816_balachh_f.mp4",
+      "type": "video",
+      "category_data_id": 7330
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7462,
+    "fields": {
+      "path": "odissi/unit/ut_816_balachh_s.mp4",
+      "type": "video",
+      "category_data_id": 7330
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7463,
+    "fields": {
+      "path": "odissi/unit/ut_817_balavip_f.mp4",
+      "type": "video",
+      "category_data_id": 7331
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7464,
+    "fields": {
+      "path": "odissi/unit/ut_817_balavip_s.mp4",
+      "type": "video",
+      "category_data_id": 7331
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7465,
+    "fields": {
+      "path": "odissi/unit/ut_818_balachap_f.mp4",
+      "type": "video",
+      "category_data_id": 7332
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7466,
+    "fields": {
+      "path": "odissi/unit/ut_818_balachap_s.mp4",
+      "type": "video",
+      "category_data_id": 7332
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7467,
+    "fields": {
+      "path": "odissi/unit/ut_819_kash_f.mp4",
+      "type": "video",
+      "category_data_id": 7333
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7468,
+    "fields": {
+      "path": "odissi/unit/ut_819_akash_s.mp4",
+      "type": "video",
+      "category_data_id": 7333
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7469,
+    "fields": {
+      "path": "odissi/unit/ut_820_prith_f.mp4",
+      "type": "video",
+      "category_data_id": 7334
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7470,
+    "fields": {
+      "path": "odissi/unit/ut_820_prith_s.mp4",
+      "type": "video",
+      "category_data_id": 7334
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7471,
+    "fields": {
+      "path": "odissi/unit/ut_821_anga_f.mp4",
+      "type": "video",
+      "category_data_id": 7335
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7472,
+    "fields": {
+      "path": "odissi/unit/ut_821_anga_s.mp4",
+      "type": "video",
+      "category_data_id": 7335
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7473,
+    "fields": {
+      "path": "odissi/unit/ut_822_baksha_f.mp4",
+      "type": "video",
+      "category_data_id": 7336
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7474,
+    "fields": {
+      "path": "odissi/unit/ut_822_baksha_s.mp4",
+      "type": "video",
+      "category_data_id": 7336
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7475,
+    "fields": {
+      "path": "odissi/unit/ut_901_hams_f.mp4",
+      "type": "video",
+      "category_data_id": 7337
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7476,
+    "fields": {
+      "path": "odissi/unit/ut_901_hams_s.mp4",
+      "type": "video",
+      "category_data_id": 7337
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7477,
+    "fields": {
+      "path": "odissi/unit/ut_902_mayu_f.mp4",
+      "type": "video",
+      "category_data_id": 7338
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7478,
+    "fields": {
+      "path": "odissi/unit/ut_902_mayu_s.mp4",
+      "type": "video",
+      "category_data_id": 7338
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7479,
+    "fields": {
+      "path": "odissi/unit/ut_903_mru_f.mp4",
+      "type": "video",
+      "category_data_id": 7339
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7480,
+    "fields": {
+      "path": "odissi/unit/ut_903_mru_s.mp4",
+      "type": "video",
+      "category_data_id": 7339
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7481,
+    "fields": {
+      "path": "odissi/unit/ut_904_gaja_f.mp4",
+      "type": "video",
+      "category_data_id": 7340
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7482,
+    "fields": {
+      "path": "odissi/unit/ut_904_gaja_s.mp4",
+      "type": "video",
+      "category_data_id": 7340
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7483,
+    "fields": {
+      "path": "odissi/unit/ut_905_turan_f.mp4",
+      "type": "video",
+      "category_data_id": 7341
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7484,
+    "fields": {
+      "path": "odissi/unit/ut_905_turan_s.mp4",
+      "type": "video",
+      "category_data_id": 7341
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7485,
+    "fields": {
+      "path": "odissi/unit/ut_906_simhi_f.mp4",
+      "type": "video",
+      "category_data_id": 7342
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7486,
+    "fields": {
+      "path": "odissi/unit/ut_906_simhi_s.mp4",
+      "type": "video",
+      "category_data_id": 7342
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7487,
+    "fields": {
+      "path": "odissi/unit/ut_907_bhuj_f.mp4",
+      "type": "video",
+      "category_data_id": 7343
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7488,
+    "fields": {
+      "path": "odissi/unit/ut_907_bhuj_s.mp4",
+      "type": "video",
+      "category_data_id": 7343
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7489,
+    "fields": {
+      "path": "odissi/unit/ut_908_mand_f.mp4",
+      "type": "video",
+      "category_data_id": 7344
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7490,
+    "fields": {
+      "path": "odissi/unit/ut_908_mand_s.mp4",
+      "type": "video",
+      "category_data_id": 7344
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7491,
+    "fields": {
+      "path": "odissi/unit/ut_910_manav_f.mp4",
+      "type": "video",
+      "category_data_id": 7345
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7492,
+    "fields": {
+      "path": "odissi/unit/ut_910_manav_s.mp4",
+      "type": "video",
+      "category_data_id": 7345
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7493,
+    "fields": {
+      "path": "odissi/unit/ut_1001_01_karor_f.mp4",
+      "type": "video",
+      "category_data_id": 7346
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7494,
+    "fields": {
+      "path": "odissi/unit/ut_1001_01_karor_s.mp4",
+      "type": "video",
+      "category_data_id": 7346
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7495,
+    "fields": {
+      "path": "odissi/unit/ut_1002_01_kartrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7347
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7496,
+    "fields": {
+      "path": "odissi/unit/ut_1002_01_kartrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7347
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7497,
+    "fields": {
+      "path": "odissi/unit/ut_1001_02_karor_f.mp4",
+      "type": "video",
+      "category_data_id": 7348
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7498,
+    "fields": {
+      "path": "odissi/unit/ut_1001_02_karor_s.mp4",
+      "type": "video",
+      "category_data_id": 7348
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7499,
+    "fields": {
+      "path": "odissi/unit/ut_1002_02_kartrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7349
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7500,
+    "fields": {
+      "path": "odissi/unit/ut_1002_02_kartrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7349
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7501,
+    "fields": {
+      "path": "odissi/unit/ut_1003_01_danor_f.mp4",
+      "type": "video",
+      "category_data_id": 7350
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7502,
+    "fields": {
+      "path": "odissi/unit/ut_1003_01_danor_s.mp4",
+      "type": "video",
+      "category_data_id": 7350
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7503,
+    "fields": {
+      "path": "odissi/unit/ut_1004_01_dantrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7351
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7504,
+    "fields": {
+      "path": "odissi/unit/ut_1004_01_dantrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7351
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7505,
+    "fields": {
+      "path": "odissi/unit/ut_1003_02_danor_f.mp4",
+      "type": "video",
+      "category_data_id": 7352
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7506,
+    "fields": {
+      "path": "odissi/unit/ut_1003_02_danor_s.mp4",
+      "type": "video",
+      "category_data_id": 7352
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7507,
+    "fields": {
+      "path": "odissi/unit/ut_1004_02_dantrans1_f.mp4",
+      "type": "video",
+      "category_data_id": 7353
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7508,
+    "fields": {
+      "path": "odissi/unit/ut_1004_02_dantrans1_s.mp4",
+      "type": "video",
+      "category_data_id": 7353
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7509,
+    "fields": {
+      "path": "odissi/unit/ut_1004_02_dantrans2_f.mp4",
+      "type": "video",
+      "category_data_id": 7354
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7510,
+    "fields": {
+      "path": "odissi/unit/ut_1004_02_dantrans2_s.mp4",
+      "type": "video",
+      "category_data_id": 7354
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7511,
+    "fields": {
+      "path": "odissi/unit/ut_1005_01_paikor_f.mp4",
+      "type": "video",
+      "category_data_id": 7355
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7512,
+    "fields": {
+      "path": "odissi/unit/ut_1005_01_paikor_s.mp4",
+      "type": "video",
+      "category_data_id": 7355
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7513,
+    "fields": {
+      "path": "odissi/unit/ut_1006_01_paiktrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7356
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7514,
+    "fields": {
+      "path": "odissi/unit/ut_1006_01_paiktrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7356
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7515,
+    "fields": {
+      "path": "odissi/unit/ut_1005_02_paikor_f.mp4",
+      "type": "video",
+      "category_data_id": 7357
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7516,
+    "fields": {
+      "path": "odissi/unit/ut_1005_02_paikor_s.mp4",
+      "type": "video",
+      "category_data_id": 7357
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7517,
+    "fields": {
+      "path": "odissi/unit/ut_1006_02_paiktrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7358
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7518,
+    "fields": {
+      "path": "odissi/unit/ut_1006_02_paiktrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7358
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7519,
+    "fields": {
+      "path": "odissi/unit/ut_1007_01_chhauor_f.mp4",
+      "type": "video",
+      "category_data_id": 7359
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7520,
+    "fields": {
+      "path": "odissi/unit/ut_1007_01_chhauor_s.mp4",
+      "type": "video",
+      "category_data_id": 7359
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7521,
+    "fields": {
+      "path": "odissi/unit/ut_1008_01_chhtrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7360
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7522,
+    "fields": {
+      "path": "odissi/unit/ut_1008_01_chhtrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7360
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7523,
+    "fields": {
+      "path": "odissi/unit/ut_1007_02_chhauor_f.mp4",
+      "type": "video",
+      "category_data_id": 7361
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7524,
+    "fields": {
+      "path": "odissi/unit/ut_1007_02_chhauor_s.mp4",
+      "type": "video",
+      "category_data_id": 7361
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7525,
+    "fields": {
+      "path": "odissi/unit/ut_1008_02_chhtrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7362
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7526,
+    "fields": {
+      "path": "odissi/unit/ut_1008_02_chhtrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7362
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7527,
+    "fields": {
+      "path": "odissi/unit/ut_1009_sambor_f.mp4",
+      "type": "video",
+      "category_data_id": 7363
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7528,
+    "fields": {
+      "path": "odissi/unit/ut_1009_sambor_s.mp4",
+      "type": "video",
+      "category_data_id": 7363
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7529,
+    "fields": {
+      "path": "odissi/unit/ut_1010_sambor_f.mp4",
+      "type": "video",
+      "category_data_id": 7364
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7530,
+    "fields": {
+      "path": "odissi/unit/ut_1010_sambor_s.mp4",
+      "type": "video",
+      "category_data_id": 7364
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7531,
+    "fields": {
+      "path": "odissi/unit/ut_1011_sambor_f.mp4",
+      "type": "video",
+      "category_data_id": 7365
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7532,
+    "fields": {
+      "path": "odissi/unit/ut_1011_sambor_s.mp4",
+      "type": "video",
+      "category_data_id": 7365
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7533,
+    "fields": {
+      "path": "odissi/unit/ut_1012_mahaor_f.mp4",
+      "type": "video",
+      "category_data_id": 7366
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7534,
+    "fields": {
+      "path": "odissi/unit/ut_1013_mahatrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7367
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7535,
+    "fields": {
+      "path": "odissi/unit/ut_1013_mahatrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7367
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7536,
+    "fields": {
+      "path": "odissi/unit/ut_1014_gotior_f.mp4",
+      "type": "video",
+      "category_data_id": 7368
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7537,
+    "fields": {
+      "path": "odissi/unit/ut_1014_gotior_s.mp4",
+      "type": "video",
+      "category_data_id": 7368
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7538,
+    "fields": {
+      "path": "odissi/unit/ut_1015_gotitrans_f.mp4",
+      "type": "video",
+      "category_data_id": 7369
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7539,
+    "fields": {
+      "path": "odissi/unit/ut_1015_gotitrans_s.mp4",
+      "type": "video",
+      "category_data_id": 7369
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7540,
+    "fields": {
+      "path": "odissi/explanation/exu_001_introBhangi.mp4",
+      "type": "video",
+      "category_data_id": 7370
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7541,
+    "fields": {
+      "path": "odissi/explanation/exu_101_samabhanga.mp4",
+      "type": "video",
+      "category_data_id": 7371
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7542,
+    "fields": {
+      "path": "odissi/explanation/exu_102_ardhabhanga.mp4",
+      "type": "video",
+      "category_data_id": 7372
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7543,
+    "fields": {
+      "path": "odissi/explanation/exu_103_chaukabhanga.mp4",
+      "type": "video",
+      "category_data_id": 7373
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7544,
+    "fields": {
+      "path": "odissi/explanation/exu_104_tribhangi.mp4",
+      "type": "video",
+      "category_data_id": 7374
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7545,
+    "fields": {
+      "path": "odissi/explanation/exu_105_atibhanga.mp4",
+      "type": "video",
+      "category_data_id": 7375
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7546,
+    "fields": {
+      "path": "odissi/explanation/exu_200_intoshilpa.mp4",
+      "type": "video",
+      "category_data_id": 7376
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7547,
+    "fields": {
+      "path": "odissi/explanation/exu_201_marda.mp4",
+      "type": "video",
+      "category_data_id": 7377
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7548,
+    "fields": {
+      "path": "odissi/explanation/exu_202_beena.mp4",
+      "type": "video",
+      "category_data_id": 7378
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7549,
+    "fields": {
+      "path": "odissi/explanation/exu_203_manj.mp4",
+      "type": "video",
+      "category_data_id": 7379
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7550,
+    "fields": {
+      "path": "odissi/explanation/exu_204_bans.mp4",
+      "type": "video",
+      "category_data_id": 7380
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7551,
+    "fields": {
+      "path": "odissi/explanation/exu_205_alas.mp4",
+      "type": "video",
+      "category_data_id": 7381
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7552,
+    "fields": {
+      "path": "odissi/explanation/exu_206_darp.mp4",
+      "type": "video",
+      "category_data_id": 7382
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7553,
+    "fields": {
+      "path": "odissi/explanation/exu_207_sala.mp4",
+      "type": "video",
+      "category_data_id": 7383
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7554,
+    "fields": {
+      "path": "odissi/explanation/exu_208_abhi.mp4",
+      "type": "video",
+      "category_data_id": 7384
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7555,
+    "fields": {
+      "path": "odissi/explanation/exu_209_rama.mp4",
+      "type": "video",
+      "category_data_id": 7385
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7556,
+    "fields": {
+      "path": "odissi/explanation/exu_210_rava.mp4",
+      "type": "video",
+      "category_data_id": 7386
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7557,
+    "fields": {
+      "path": "odissi/explanation/exu_211_sury.mp4",
+      "type": "video",
+      "category_data_id": 7387
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7558,
+    "fields": {
+      "path": "odissi/explanation/exu_212_vish.mp4",
+      "type": "video",
+      "category_data_id": 7388
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7559,
+    "fields": {
+      "path": "odissi/explanation/exu_213_shiv.mp4",
+      "type": "video",
+      "category_data_id": 7389
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7560,
+    "fields": {
+      "path": "odissi/explanation/exu_214_durg.mp4",
+      "type": "video",
+      "category_data_id": 7390
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7561,
+    "fields": {
+      "path": "odissi/explanation/exu_300_intropadabheda.mp4",
+      "type": "video",
+      "category_data_id": 7391
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7562,
+    "fields": {
+      "path": "odissi/explanation/exu_301_0_oversama.mp4",
+      "type": "video",
+      "category_data_id": 7392
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7563,
+    "fields": {
+      "path": "odissi/explanation/exu_301_adi.mp4",
+      "type": "video",
+      "category_data_id": 7393
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7564,
+    "fields": {
+      "path": "odissi/explanation/exu_302_rekha.mp4",
+      "type": "video",
+      "category_data_id": 7394
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7565,
+    "fields": {
+      "path": "odissi/explanation/exu_303_sama.mp4",
+      "type": "video",
+      "category_data_id": 7395
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7566,
+    "fields": {
+      "path": "odissi/explanation/exu_304_viparith.mp4",
+      "type": "video",
+      "category_data_id": 7396
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7567,
+    "fields": {
+      "path": "odissi/explanation/exu_305_0_overchauk.mp4",
+      "type": "video",
+      "category_data_id": 7397
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7568,
+    "fields": {
+      "path": "odissi/explanation/exu_305_arswastika.mp4",
+      "type": "video",
+      "category_data_id": 7398
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7569,
+    "fields": {
+      "path": "odissi/explanation/exu_306_swastika.mp4",
+      "type": "video",
+      "category_data_id": 7399
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7570,
+    "fields": {
+      "path": "odissi/explanation/exu_307_kumbha.mp4",
+      "type": "video",
+      "category_data_id": 7400
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7571,
+    "fields": {
+      "path": "odissi/explanation/exu_308_archauka.mp4",
+      "type": "video",
+      "category_data_id": 7401
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7572,
+    "fields": {
+      "path": "odissi/explanation/exu_309_chaukapada.mp4",
+      "type": "video",
+      "category_data_id": 7402
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7573,
+    "fields": {
+      "path": "odissi/explanation/exu_310_mandala.mp4",
+      "type": "video",
+      "category_data_id": 7403
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7574,
+    "fields": {
+      "path": "odissi/explanation/exu_311_0_overtri.mp4",
+      "type": "video",
+      "category_data_id": 7404
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7575,
+    "fields": {
+      "path": "odissi/explanation/exu_311_trasya.mp4",
+      "type": "video",
+      "category_data_id": 7405
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7576,
+    "fields": {
+      "path": "odissi/explanation/exu_312_dhanu.mp4",
+      "type": "video",
+      "category_data_id": 7406
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7577,
+    "fields": {
+      "path": "odissi/explanation/exu_313_prushtha.mp4",
+      "type": "video",
+      "category_data_id": 7407
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7578,
+    "fields": {
+      "path": "odissi/explanation/exu_314_suchi.mp4",
+      "type": "video",
+      "category_data_id": 7408
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7579,
+    "fields": {
+      "path": "odissi/explanation/exu_315_kunchita.mp4",
+      "type": "video",
+      "category_data_id": 7409
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7580,
+    "fields": {
+      "path": "odissi/explanation/exu_316_vilagna.mp4",
+      "type": "video",
+      "category_data_id": 7410
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7581,
+    "fields": {
+      "path": "odissi/explanation/exu_317_0_overardh.mp4",
+      "type": "video",
+      "category_data_id": 7411
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7582,
+    "fields": {
+      "path": "odissi/explanation/exu_317_anukun.mp4",
+      "type": "video",
+      "category_data_id": 7412
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7583,
+    "fields": {
+      "path": "odissi/explanation/exu_318_gharsita.mp4",
+      "type": "video",
+      "category_data_id": 7413
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7584,
+    "fields": {
+      "path": "odissi/explanation/exu_319_utparshini.mp4",
+      "type": "video",
+      "category_data_id": 7414
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7585,
+    "fields": {
+      "path": "odissi/explanation/exu_320_0_overview.mp4",
+      "type": "video",
+      "category_data_id": 7415
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7586,
+    "fields": {
+      "path": "odissi/explanation/exu_320_ashrita.mp4",
+      "type": "video",
+      "category_data_id": 7416
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7587,
+    "fields": {
+      "path": "odissi/explanation/exu_321_meena.mp4",
+      "type": "video",
+      "category_data_id": 7417
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7588,
+    "fields": {
+      "path": "odissi/explanation/exu_322_lalita.mp4",
+      "type": "video",
+      "category_data_id": 7418
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7589,
+    "fields": {
+      "path": "odissi/explanation/exu_323_uttalita.mp4",
+      "type": "video",
+      "category_data_id": 7419
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7590,
+    "fields": {
+      "path": "odissi/explanation/exu_324_ullolita.mp4",
+      "type": "video",
+      "category_data_id": 7420
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7591,
+    "fields": {
+      "path": "odissi/explanation/exu_325_januash.mp4",
+      "type": "video",
+      "category_data_id": 7421
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7592,
+    "fields": {
+      "path": "odissi/explanation/exu_326_nupura.mp4",
+      "type": "video",
+      "category_data_id": 7422
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7593,
+    "fields": {
+      "path": "odissi/explanation/exu_327_alidha.mp4",
+      "type": "video",
+      "category_data_id": 7423
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7594,
+    "fields": {
+      "path": "odissi/explanation/exu_328_pratya.mp4",
+      "type": "video",
+      "category_data_id": 7424
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7595,
+    "fields": {
+      "path": "odissi/explanation/exu_329_bandha.mp4",
+      "type": "video",
+      "category_data_id": 7425
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7596,
+    "fields": {
+      "path": "odissi/explanation/exu_330_ekapada.mp4",
+      "type": "video",
+      "category_data_id": 7426
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7597,
+    "fields": {
+      "path": "odissi/explanation/exu_331_jangha.mp4",
+      "type": "video",
+      "category_data_id": 7427
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7598,
+    "fields": {
+      "path": "odissi/explanation/exu_332_mahapada.mp4",
+      "type": "video",
+      "category_data_id": 7428
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7599,
+    "fields": {
+      "path": "odissi/explanation/exu_333_prushta.mp4",
+      "type": "video",
+      "category_data_id": 7429
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7600,
+    "fields": {
+      "path": "odissi/explanation/exu_500_introbaks.mp4",
+      "type": "video",
+      "category_data_id": 7430
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7601,
+    "fields": {
+      "path": "odissi/explanation/exu_501_bamdaksh.mp4",
+      "type": "video",
+      "category_data_id": 7431
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7602,
+    "fields": {
+      "path": "odissi/explanation/exu_502_agraprush.mp4",
+      "type": "video",
+      "category_data_id": 7432
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7603,
+    "fields": {
+      "path": "odissi/explanation/exu_503_prachala.mp4",
+      "type": "video",
+      "category_data_id": 7433
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7604,
+    "fields": {
+      "path": "odissi/explanation/exu_600_introcharisb.mp4",
+      "type": "video",
+      "category_data_id": 7434
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7605,
+    "fields": {
+      "path": "odissi/explanation/exu_601_samardh.mp4",
+      "type": "video",
+      "category_data_id": 7435
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7606,
+    "fields": {
+      "path": "odissi/explanation/exu_602_chaukk.mp4",
+      "type": "video",
+      "category_data_id": 7436
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7607,
+    "fields": {
+      "path": "odissi/explanation/exu_603_tribh.mp4",
+      "type": "video",
+      "category_data_id": 7437
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7608,
+    "fields": {
+      "path": "odissi/explanation/exu_800_01_introbhrasb.mp4",
+      "type": "video",
+      "category_data_id": 7438
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7609,
+    "fields": {
+      "path": "odissi/explanation/exu_801_ardha.mp4",
+      "type": "video",
+      "category_data_id": 7439
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7610,
+    "fields": {
+      "path": "odissi/explanation/exu_802_vesh.mp4",
+      "type": "video",
+      "category_data_id": 7440
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7611,
+    "fields": {
+      "path": "odissi/explanation/exu_803_ekchauk.mp4",
+      "type": "video",
+      "category_data_id": 7441
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7612,
+    "fields": {
+      "path": "odissi/explanation/exu_805_chakra.mp4",
+      "type": "video",
+      "category_data_id": 7442
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7613,
+    "fields": {
+      "path": "odissi/explanation/exu_808_kunch.mp4",
+      "type": "video",
+      "category_data_id": 7443
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7614,
+    "fields": {
+      "path": "odissi/explanation/exu_810_vipchau.mp4",
+      "type": "video",
+      "category_data_id": 7444
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7615,
+    "fields": {
+      "path": "odissi/explanation/exu_812_utpl.mp4",
+      "type": "video",
+      "category_data_id": 7445
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7616,
+    "fields": {
+      "path": "odissi/explanation/exu_814_garud.mp4",
+      "type": "video",
+      "category_data_id": 7446
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7617,
+    "fields": {
+      "path": "odissi/explanation/exu_816_balai.mp4",
+      "type": "video",
+      "category_data_id": 7447
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7618,
+    "fields": {
+      "path": "odissi/explanation/exu_819_akash.mp4",
+      "type": "video",
+      "category_data_id": 7448
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7619,
+    "fields": {
+      "path": "odissi/explanation/exu_820_prithvi.mp4",
+      "type": "video",
+      "category_data_id": 7449
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7620,
+    "fields": {
+      "path": "odissi/explanation/exu_821_anga.mp4",
+      "type": "video",
+      "category_data_id": 7450
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7621,
+    "fields": {
+      "path": "odissi/explanation/exu_822_baksha.mp4",
+      "type": "video",
+      "category_data_id": 7451
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7622,
+    "fields": {
+      "path": "odissi/explanation/exu_900_introgati.mp4",
+      "type": "video",
+      "category_data_id": 7452
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7623,
+    "fields": {
+      "path": "odissi/explanation/exu_901_hams.mp4",
+      "type": "video",
+      "category_data_id": 7453
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7624,
+    "fields": {
+      "path": "odissi/explanation/exu_902_mayuri.mp4",
+      "type": "video",
+      "category_data_id": 7454
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7625,
+    "fields": {
+      "path": "odissi/explanation/exu_903_mrugi.mp4",
+      "type": "video",
+      "category_data_id": 7455
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7626,
+    "fields": {
+      "path": "odissi/explanation/exu_904_gaja.mp4",
+      "type": "video",
+      "category_data_id": 7456
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7627,
+    "fields": {
+      "path": "odissi/explanation/exu_905_turan.mp4",
+      "type": "video",
+      "category_data_id": 7457
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7628,
+    "fields": {
+      "path": "odissi/explanation/exu_906_simhi.mp4",
+      "type": "video",
+      "category_data_id": 7458
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7629,
+    "fields": {
+      "path": "odissi/explanation/exu_907_bhuj.mp4",
+      "type": "video",
+      "category_data_id": 7459
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7630,
+    "fields": {
+      "path": "odissi/explanation/exu_908_mand.mp4",
+      "type": "video",
+      "category_data_id": 7460
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7631,
+    "fields": {
+      "path": "odissi/explanation/exu_910_mana.mp4",
+      "type": "video",
+      "category_data_id": 7461
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7632,
+    "fields": {
+      "path": "odissi/explanation/exu_1000_intromt.mp4",
+      "type": "video",
+      "category_data_id": 7462
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7633,
+    "fields": {
+      "path": "odissi/explanation/exu_1001_kar.mp4",
+      "type": "video",
+      "category_data_id": 7463
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7634,
+    "fields": {
+      "path": "odissi/explanation/exu_1002_dand.mp4",
+      "type": "video",
+      "category_data_id": 7464
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7635,
+    "fields": {
+      "path": "odissi/explanation/exu_1003_paik.mp4",
+      "type": "video",
+      "category_data_id": 7465
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7636,
+    "fields": {
+      "path": "odissi/explanation/exu_1004_chhau.mp4",
+      "type": "video",
+      "category_data_id": 7466
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7637,
+    "fields": {
+      "path": "odissi/explanation/exu_1005_sambal.mp4",
+      "type": "video",
+      "category_data_id": 7467
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7638,
+    "fields": {
+      "path": "odissi/explanation/exu_1006_mahari.mp4",
+      "type": "video",
+      "category_data_id": 7468
+    }
+  },
+  {
+    "model": "kalari.CategoriesDataUrls",
+    "pk": 7639,
+    "fields": {
+      "path": "odissi/explanation/exu_1007_gotipua.mp4",
+      "type": "video",
+      "category_data_id": 7469
+    }
+  }
+]
