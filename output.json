@@ -1,0 +1,530 @@
+[
+  {
+    "model": "kalari.Categories",
+    "pk": 4000,
+    "fields": {
+      "name": "Mangalacharan",
+      "slug": "mangalacharan",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4001,
+    "fields": {
+      "name": "Bhoomipranam",
+      "slug": "bhoomipranam",
+      "type": "SEQUENCE",
+      "parent": 4000,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4002,
+    "fields": {
+      "name": "Durga Stuti",
+      "slug": "durga-stuti",
+      "type": "SEQUENCE",
+      "parent": 4000,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4003,
+    "fields": {
+      "name": "Ganesh Bandana",
+      "slug": "ganesh-bandana",
+      "type": "SEQUENCE",
+      "parent": 4000,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4004,
+    "fields": {
+      "name": "Sabhapranam",
+      "slug": "sabhapranam",
+      "type": "SEQUENCE",
+      "parent": 4000,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4005,
+    "fields": {
+      "name": "Sthayi",
+      "slug": "sthayi",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4006,
+    "fields": {
+      "name": "Sthiti",
+      "slug": "sthiti",
+      "type": "SEQUENCE",
+      "parent": 4005,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4007,
+    "fields": {
+      "name": "Sthayi - Pankaj Charan Das",
+      "slug": "sthayi---pankaj-charan-das",
+      "type": "SEQUENCE",
+      "parent": 4005,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4008,
+    "fields": {
+      "name": "Battu - Kelucharan Mohapatra",
+      "slug": "battu---kelucharan-mohapatra",
+      "type": "SEQUENCE",
+      "parent": 4005,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4009,
+    "fields": {
+      "name": "Konark Kanti",
+      "slug": "konark-kanti",
+      "type": "SEQUENCE",
+      "parent": 4005,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4010,
+    "fields": {
+      "name": "Pallavi",
+      "slug": "pallavi",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4011,
+    "fields": {
+      "name": "Raga Rageshri",
+      "slug": "raga-rageshri",
+      "type": "SEQUENCE",
+      "parent": 4010,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4012,
+    "fields": {
+      "name": "Raga Hamsadhwani",
+      "slug": "raga-hamsadhwani",
+      "type": "SEQUENCE",
+      "parent": 4010,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4013,
+    "fields": {
+      "name": "Abhinaya",
+      "slug": "abhinaya",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4014,
+    "fields": {
+      "name": "Sakhi Hey",
+      "slug": "sakhi-hey",
+      "type": "SEQUENCE",
+      "parent": 4013,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4015,
+    "fields": {
+      "name": "Pratinayaka",
+      "slug": "pratinayaka",
+      "type": "SEQUENCE",
+      "parent": 4013,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4016,
+    "fields": {
+      "name": "Moksha",
+      "slug": "moksha",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 5
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4017,
+    "fields": {
+      "name": "Pada Chalana",
+      "slug": "pada-chalana",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 6
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4018,
+    "fields": {
+      "name": "1",
+      "slug": "1",
+      "type": "SEQUENCE",
+      "parent": 4017,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4019,
+    "fields": {
+      "name": "2",
+      "slug": "2",
+      "type": "SEQUENCE",
+      "parent": 4017,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4020,
+    "fields": {
+      "name": "3",
+      "slug": "3",
+      "type": "SEQUENCE",
+      "parent": 4017,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4021,
+    "fields": {
+      "name": "4",
+      "slug": "4",
+      "type": "SEQUENCE",
+      "parent": 4017,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4022,
+    "fields": {
+      "name": "Vilasini",
+      "slug": "vilasini",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 7
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4023,
+    "fields": {
+      "name": "Chalo Chalo",
+      "slug": "chalo-chalo",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 8
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4024,
+    "fields": {
+      "name": "Gatibilas (Simha)",
+      "slug": "gatibilas-simha",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 9
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4025,
+    "fields": {
+      "name": "Gatibilas (Hamsa)",
+      "slug": "gatibilas-hamsa",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 10
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4026,
+    "fields": {
+      "name": "Debi Bharani",
+      "slug": "debi-bharani",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 11
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4027,
+    "fields": {
+      "name": "Kundalika",
+      "slug": "kundalika",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 12
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4028,
+    "fields": {
+      "name": "Abahani",
+      "slug": "abahani",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 13
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4029,
+    "fields": {
+      "name": "Dashavatara",
+      "slug": "dashavatara",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 14
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4030,
+    "fields": {
+      "name": "Abartan Bibartan",
+      "slug": "abartan-bibartan",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 15
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4031,
+    "fields": {
+      "name": "Murchhana",
+      "slug": "murchhana",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 16
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4032,
+    "fields": {
+      "name": "Shiv Parvathi Sabda",
+      "slug": "shiv-parvathi-sabda",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 17
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4033,
+    "fields": {
+      "name": "Sthayi & Sanchari Bhava",
+      "slug": "sthayi-&-sanchari-bhava",
+      "type": "SEQUENCE",
+      "parent": null,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "category_type": "ODISSI",
+      "sort": 18
+    }
+  }
+]
