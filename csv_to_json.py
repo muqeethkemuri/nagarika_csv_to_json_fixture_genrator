@@ -50,6 +50,7 @@ def generate_categories(csv_file_path, category_type, slug_suffix="", start_pk=4
         
         for row in reader:
             # Read in the levels, stripping extra whitespace
+            print("DEBUG ROW:", row)
             level1 = row.get('level1', '').strip()
             level2 = row.get('level2', '').strip()
             level3 = row.get('level3', '').strip()

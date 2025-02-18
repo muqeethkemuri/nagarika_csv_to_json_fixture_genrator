@@ -5571,7 +5571,7 @@
       "slug": "mahari-un-dev",
       "type": "CONTEXT",
       "parent": 4366,
-      "has_data": 1,
+      "has_data": 0,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
       "updated_at": "2024-12-10T15:43:19.760",
@@ -5582,10 +5582,160 @@
     "model": "kalari.Categories",
     "pk": 4370,
     "fields": {
+      "name": "Introduction",
+      "slug": "introduction-un-dev",
+      "type": "CONTEXT",
+      "parent": 4369,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4371,
+    "fields": {
+      "name": "Rupashree Mohapatra",
+      "slug": "rupashree-mohapatra-un-dev",
+      "type": "CONTEXT",
+      "parent": 4369,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4372,
+    "fields": {
+      "name": "Current practices",
+      "slug": "current-practices-un-dev",
+      "type": "CONTEXT",
+      "parent": 4369,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4373,
+    "fields": {
       "name": "Gotipua",
       "slug": "gotipua-un-dev",
       "type": "CONTEXT",
       "parent": 4366,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4374,
+    "fields": {
+      "name": "Traditional",
+      "slug": "traditional-un-dev",
+      "type": "CONTEXT",
+      "parent": 4373,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4375,
+    "fields": {
+      "name": "Current",
+      "slug": "current-un-dev",
+      "type": "CONTEXT",
+      "parent": 4373,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4376,
+    "fields": {
+      "name": "Early Gurus",
+      "slug": "early-gurus-un-dev",
+      "type": "CONTEXT",
+      "parent": 4366,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 5
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4377,
+    "fields": {
+      "name": "Introduction",
+      "slug": "introduction-un-dev",
+      "type": "CONTEXT",
+      "parent": 4376,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4378,
+    "fields": {
+      "name": "Kelucharan Mohapatra",
+      "slug": "kelucharan-mohapatra-un-dev",
+      "type": "CONTEXT",
+      "parent": 4376,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4379,
+    "fields": {
+      "name": "Gangadhar Pradhan",
+      "slug": "gangadhar-pradhan-un-dev",
+      "type": "CONTEXT",
+      "parent": 4376,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4380,
+    "fields": {
+      "name": "Sanjukta Panigrahi",
+      "slug": "sanjukta-panigrahi-un-dev",
+      "type": "CONTEXT",
+      "parent": 4376,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5595,22 +5745,7 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4371,
-    "fields": {
-      "name": "Early Gurus",
-      "slug": "early-gurus-un-dev",
-      "type": "CONTEXT",
-      "parent": 4366,
-      "has_data": 1,
-      "is_active": 1,
-      "created_at": "2024-12-10T15:43:19.760",
-      "updated_at": "2024-12-10T15:43:19.760",
-      "sort": 5
-    }
-  },
-  {
-    "model": "kalari.Categories",
-    "pk": 4372,
+    "pk": 4381,
     "fields": {
       "name": "Texts & transmissions",
       "slug": "texts-&-transmissions-un-dev",
@@ -5626,12 +5761,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4373,
+    "pk": 4382,
     "fields": {
       "name": "Oral Traditions & Texts",
       "slug": "oral-traditions-&-texts-un-dev",
       "type": "CONTEXT",
-      "parent": 4372,
+      "parent": 4381,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5641,12 +5776,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4374,
+    "pk": 4383,
     "fields": {
       "name": "Abhinaya Chandrika",
       "slug": "abhinaya-chandrika-un-dev",
       "type": "CONTEXT",
-      "parent": 4372,
+      "parent": 4381,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5656,12 +5791,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4375,
+    "pk": 4384,
     "fields": {
       "name": "Geeta Gobinda",
       "slug": "geeta-gobinda-un-dev",
       "type": "CONTEXT",
-      "parent": 4372,
+      "parent": 4381,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5671,7 +5806,7 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4376,
+    "pk": 4385,
     "fields": {
       "name": "Body & aesthetics",
       "slug": "body-&-aesthetics-un-dev",
@@ -5687,12 +5822,27 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4377,
+    "pk": 4386,
     "fields": {
       "name": "Body care system",
       "slug": "body-care-system-un-dev",
       "type": "CONTEXT",
-      "parent": 4376,
+      "parent": 4385,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4387,
+    "fields": {
+      "name": "Warm-Up",
+      "slug": "warm-up-un-dev",
+      "type": "CONTEXT",
+      "parent": 4386,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5702,12 +5852,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4378,
+    "pk": 4388,
     "fields": {
-      "name": "Enactment",
-      "slug": "enactment-un-dev",
+      "name": "Warm-up Demo",
+      "slug": "warm-up-demo-un-dev",
       "type": "CONTEXT",
-      "parent": 4376,
+      "parent": 4386,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5717,12 +5867,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4379,
+    "pk": 4389,
     "fields": {
-      "name": "Auchityam",
-      "slug": "auchityam-un-dev",
+      "name": "Folk Cardio",
+      "slug": "folk-cardio-un-dev",
       "type": "CONTEXT",
-      "parent": 4376,
+      "parent": 4386,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5732,12 +5882,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4380,
+    "pk": 4390,
     "fields": {
-      "name": "Costume & Ornament",
-      "slug": "costume-&-ornament-un-dev",
+      "name": "Folk-cardio Demo",
+      "slug": "folk-cardio-demo-un-dev",
       "type": "CONTEXT",
-      "parent": 4376,
+      "parent": 4386,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5747,12 +5897,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4381,
+    "pk": 4391,
     "fields": {
-      "name": "Iconography",
-      "slug": "iconography-un-dev",
+      "name": "Cool Down",
+      "slug": "cool-down-un-dev",
       "type": "CONTEXT",
-      "parent": 4376,
+      "parent": 4386,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5762,12 +5912,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4382,
+    "pk": 4392,
     "fields": {
-      "name": "Realms of embodiment",
-      "slug": "realms-of-embodiment-un-dev",
+      "name": "Cool Down Demo",
+      "slug": "cool-down-demo-un-dev",
       "type": "CONTEXT",
-      "parent": 4376,
+      "parent": 4386,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5777,7 +5927,82 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4383,
+    "pk": 4393,
+    "fields": {
+      "name": "Enactment",
+      "slug": "enactment-un-dev",
+      "type": "CONTEXT",
+      "parent": 4385,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4394,
+    "fields": {
+      "name": "Auchityam",
+      "slug": "auchityam-un-dev",
+      "type": "CONTEXT",
+      "parent": 4385,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4395,
+    "fields": {
+      "name": "Costume & Ornament",
+      "slug": "costume-&-ornament-un-dev",
+      "type": "CONTEXT",
+      "parent": 4385,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4396,
+    "fields": {
+      "name": "Iconography",
+      "slug": "iconography-un-dev",
+      "type": "CONTEXT",
+      "parent": 4385,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 5
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4397,
+    "fields": {
+      "name": "Realms of embodiment",
+      "slug": "realms-of-embodiment-un-dev",
+      "type": "CONTEXT",
+      "parent": 4385,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 6
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4398,
     "fields": {
       "name": "Principles of Movement",
       "slug": "principles-of-movement-un-dev",
@@ -5793,12 +6018,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4384,
+    "pk": 4399,
     "fields": {
       "name": "Movement Articulations",
       "slug": "movement-articulations-un-dev",
       "type": "CONTEXT",
-      "parent": 4383,
+      "parent": 4398,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5808,12 +6033,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4385,
+    "pk": 4400,
     "fields": {
       "name": "Circularity",
       "slug": "circularity-un-dev",
       "type": "CONTEXT",
-      "parent": 4383,
+      "parent": 4398,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5823,12 +6048,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4386,
+    "pk": 4401,
     "fields": {
       "name": "Movement Qualities",
       "slug": "movement-qualities-un-dev",
       "type": "CONTEXT",
-      "parent": 4383,
+      "parent": 4398,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5838,7 +6063,7 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4387,
+    "pk": 4402,
     "fields": {
       "name": "Pedagogy",
       "slug": "pedagogy-un-dev",
@@ -5854,12 +6079,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4388,
+    "pk": 4403,
     "fields": {
       "name": "Traditional",
       "slug": "traditional-un-dev",
       "type": "CONTEXT",
-      "parent": 4387,
+      "parent": 4402,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5869,12 +6094,42 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4389,
+    "pk": 4404,
     "fields": {
       "name": "Kelucharan Mohapatra",
       "slug": "kelucharan-mohapatra-un-dev",
       "type": "CONTEXT",
-      "parent": 4387,
+      "parent": 4402,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4405,
+    "fields": {
+      "name": "Approach",
+      "slug": "approach-un-dev",
+      "type": "CONTEXT",
+      "parent": 4404,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4406,
+    "fields": {
+      "name": "Anecdotes 1",
+      "slug": "anecdotes-1-un-dev",
+      "type": "CONTEXT",
+      "parent": 4404,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5884,12 +6139,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4390,
+    "pk": 4407,
     "fields": {
-      "name": "Gangadhar Pradhan",
-      "slug": "gangadhar-pradhan-un-dev",
+      "name": "Anecdotes 2",
+      "slug": "anecdotes-2-un-dev",
       "type": "CONTEXT",
-      "parent": 4387,
+      "parent": 4404,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5899,13 +6154,58 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4391,
+    "pk": 4408,
+    "fields": {
+      "name": "Gangadhar Pradhan",
+      "slug": "gangadhar-pradhan-un-dev",
+      "type": "CONTEXT",
+      "parent": 4402,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4409,
+    "fields": {
+      "name": "Approach",
+      "slug": "approach-un-dev",
+      "type": "CONTEXT",
+      "parent": 4408,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4410,
+    "fields": {
+      "name": "Anecdotes",
+      "slug": "anecdotes-un-dev",
+      "type": "CONTEXT",
+      "parent": 4408,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4411,
     "fields": {
       "name": "Sharmila Biswas",
       "slug": "sharmila-biswas-un-dev",
       "type": "CONTEXT",
-      "parent": 4387,
-      "has_data": 1,
+      "parent": 4402,
+      "has_data": 0,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
       "updated_at": "2024-12-10T15:43:19.760",
@@ -5914,13 +6214,58 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4392,
+    "pk": 4412,
+    "fields": {
+      "name": "Adult",
+      "slug": "adult-un-dev",
+      "type": "CONTEXT",
+      "parent": 4411,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4413,
+    "fields": {
+      "name": "Children",
+      "slug": "children-un-dev",
+      "type": "CONTEXT",
+      "parent": 4411,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4414,
+    "fields": {
+      "name": "Counselling",
+      "slug": "counselling-un-dev",
+      "type": "CONTEXT",
+      "parent": 4411,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4415,
     "fields": {
       "name": "Aruna Mohanty",
       "slug": "aruna-mohanty-un-dev",
       "type": "CONTEXT",
-      "parent": 4387,
-      "has_data": 1,
+      "parent": 4402,
+      "has_data": 0,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
       "updated_at": "2024-12-10T15:43:19.760",
@@ -5929,7 +6274,37 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4393,
+    "pk": 4416,
+    "fields": {
+      "name": "Approach",
+      "slug": "approach-un-dev",
+      "type": "CONTEXT",
+      "parent": 4415,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4417,
+    "fields": {
+      "name": "Transmission",
+      "slug": "transmission-un-dev",
+      "type": "CONTEXT",
+      "parent": 4415,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4418,
     "fields": {
       "name": "Choreographic Approach",
       "slug": "choreographic-approach-un-dev",
@@ -5945,12 +6320,27 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4394,
+    "pk": 4419,
     "fields": {
       "name": "Kelucharan Mohapatra",
       "slug": "kelucharan-mohapatra-un-dev",
       "type": "CONTEXT",
-      "parent": 4393,
+      "parent": 4418,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4420,
+    "fields": {
+      "name": "Artistic Journey",
+      "slug": "artistic-journey-un-dev",
+      "type": "CONTEXT",
+      "parent": 4419,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5960,12 +6350,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4395,
+    "pk": 4421,
     "fields": {
-      "name": "Gangadhar Pradhan",
-      "slug": "gangadhar-pradhan-un-dev",
+      "name": "Thoughts On Dance",
+      "slug": "thoughts-on-dance-un-dev",
       "type": "CONTEXT",
-      "parent": 4393,
+      "parent": 4419,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -5975,13 +6365,58 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4396,
+    "pk": 4422,
+    "fields": {
+      "name": "Gangadhar Pradhan",
+      "slug": "gangadhar-pradhan-un-dev",
+      "type": "CONTEXT",
+      "parent": 4418,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4423,
+    "fields": {
+      "name": "Artistic Journey",
+      "slug": "artistic-journey-un-dev",
+      "type": "CONTEXT",
+      "parent": 4422,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4424,
+    "fields": {
+      "name": "Thoughts On Dance",
+      "slug": "thoughts-on-dance-un-dev",
+      "type": "CONTEXT",
+      "parent": 4422,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4425,
     "fields": {
       "name": "Sharmila Biswas",
       "slug": "sharmila-biswas-un-dev",
       "type": "CONTEXT",
-      "parent": 4393,
-      "has_data": 1,
+      "parent": 4418,
+      "has_data": 0,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
       "updated_at": "2024-12-10T15:43:19.760",
@@ -5990,13 +6425,43 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4397,
+    "pk": 4426,
+    "fields": {
+      "name": "Artistic Journey",
+      "slug": "artistic-journey-un-dev",
+      "type": "CONTEXT",
+      "parent": 4425,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4427,
+    "fields": {
+      "name": "Thoughts On Dance",
+      "slug": "thoughts-on-dance-un-dev",
+      "type": "CONTEXT",
+      "parent": 4425,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4428,
     "fields": {
       "name": "Aruna Mohanty",
       "slug": "aruna-mohanty-un-dev",
       "type": "CONTEXT",
-      "parent": 4393,
-      "has_data": 1,
+      "parent": 4418,
+      "has_data": 0,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
       "updated_at": "2024-12-10T15:43:19.760",
@@ -6005,7 +6470,37 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4398,
+    "pk": 4429,
+    "fields": {
+      "name": "Artistic Journey",
+      "slug": "artistic-journey-un-dev",
+      "type": "CONTEXT",
+      "parent": 4428,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4430,
+    "fields": {
+      "name": "Thoughts On Dance",
+      "slug": "thoughts-on-dance-un-dev",
+      "type": "CONTEXT",
+      "parent": 4428,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4431,
     "fields": {
       "name": "Music",
       "slug": "music-un-dev",
@@ -6021,12 +6516,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4399,
+    "pk": 4432,
     "fields": {
       "name": "Odissi Music",
       "slug": "odissi-music-un-dev",
       "type": "CONTEXT",
-      "parent": 4398,
+      "parent": 4431,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6036,12 +6531,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4400,
+    "pk": 4433,
     "fields": {
       "name": "Accompaniments",
       "slug": "accompaniments-un-dev",
       "type": "CONTEXT",
-      "parent": 4398,
+      "parent": 4431,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6051,12 +6546,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4401,
+    "pk": 4434,
     "fields": {
       "name": "Odissi Mrudanga",
       "slug": "odissi-mrudanga-un-dev",
       "type": "CONTEXT",
-      "parent": 4398,
+      "parent": 4431,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6066,12 +6561,132 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4402,
+    "pk": 4435,
     "fields": {
       "name": "Mardala",
       "slug": "mardala-un-dev",
       "type": "CONTEXT",
-      "parent": 4398,
+      "parent": 4431,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4436,
+    "fields": {
+      "name": "Introduction",
+      "slug": "introduction-un-dev",
+      "type": "CONTEXT",
+      "parent": 4435,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4437,
+    "fields": {
+      "name": "Current practices",
+      "slug": "current-practices-un-dev",
+      "type": "CONTEXT",
+      "parent": 4435,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4438,
+    "fields": {
+      "name": "Dhaneshwar Swain",
+      "slug": "dhaneshwar-swain-un-dev",
+      "type": "CONTEXT",
+      "parent": 4435,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4439,
+    "fields": {
+      "name": "Mardala Excerpts",
+      "slug": "mardala-excerpts-un-dev",
+      "type": "CONTEXT",
+      "parent": 4431,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 5
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4440,
+    "fields": {
+      "name": "Overview",
+      "slug": "overview-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4441,
+    "fields": {
+      "name": "Adi tala in Arasa & Chakradhar",
+      "slug": "adi-tala-in-arasa-&-chakradhar-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4442,
+    "fields": {
+      "name": "Sabda swara patha",
+      "slug": "sabda-swara-patha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4443,
+    "fields": {
+      "name": "Composition by Banamali Maharana",
+      "slug": "composition-by-banamali-maharana-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6081,12 +6696,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4403,
+    "pk": 4444,
     "fields": {
-      "name": "Mardala Excerpts",
-      "slug": "mardala-excerpts-un-dev",
+      "name": "Bani",
+      "slug": "bani-un-dev",
       "type": "CONTEXT",
-      "parent": 4398,
+      "parent": 4439,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6096,12 +6711,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4404,
+    "pk": 4445,
     "fields": {
-      "name": "Rhythmic variations",
-      "slug": "rhythmic-variations-un-dev",
+      "name": "Theka",
+      "slug": "theka-un-dev",
       "type": "CONTEXT",
-      "parent": 4398,
+      "parent": 4439,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6111,7 +6726,232 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4405,
+    "pk": 4446,
+    "fields": {
+      "name": "Tyahi",
+      "slug": "tyahi-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 7
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4447,
+    "fields": {
+      "name": "Tisra Gati",
+      "slug": "tisra-gati-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 8
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4448,
+    "fields": {
+      "name": "Battu by Kelucharan Mohapatra",
+      "slug": "battu-by-kelucharan-mohapatra-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 9
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4449,
+    "fields": {
+      "name": "Bani by Pankaj Charan Das",
+      "slug": "bani-by-pankaj-charan-das-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 10
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4450,
+    "fields": {
+      "name": "Ganesh Bandana",
+      "slug": "ganesh-bandana-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 11
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4451,
+    "fields": {
+      "name": "Dasavtara by Deba Prasad Das",
+      "slug": "dasavtara-by-deba-prasad-das-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 12
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4452,
+    "fields": {
+      "name": "Mrugi",
+      "slug": "mrugi-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 13
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4453,
+    "fields": {
+      "name": "Mayuri",
+      "slug": "mayuri-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 14
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4454,
+    "fields": {
+      "name": "Gajalila",
+      "slug": "gajalila-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 15
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4455,
+    "fields": {
+      "name": "Manduki",
+      "slug": "manduki-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 16
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4456,
+    "fields": {
+      "name": "Turangini",
+      "slug": "turangini-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 17
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4457,
+    "fields": {
+      "name": "Manavi",
+      "slug": "manavi-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 18
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4458,
+    "fields": {
+      "name": "Dadra in tisra gati by Dhaneshwar Swain",
+      "slug": "dadra-in-tisra-gati-by-dhaneshwar-swain-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 19
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4459,
+    "fields": {
+      "name": "Chhanda prakaran",
+      "slug": "chhanda-prakaran-un-dev",
+      "type": "CONTEXT",
+      "parent": 4439,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 20
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4460,
+    "fields": {
+      "name": "Rhythmic variations",
+      "slug": "rhythmic-variations-un-dev",
+      "type": "CONTEXT",
+      "parent": 4431,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 6
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4461,
     "fields": {
       "name": "Tala",
       "slug": "tala-un-dev",
@@ -6127,12 +6967,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4406,
+    "pk": 4462,
     "fields": {
       "name": "Introduction",
       "slug": "introduction-un-dev",
       "type": "CONTEXT",
-      "parent": 4405,
+      "parent": 4461,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6142,12 +6982,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4407,
+    "pk": 4463,
     "fields": {
       "name": "Attributes",
       "slug": "attributes-un-dev",
       "type": "CONTEXT",
-      "parent": 4405,
+      "parent": 4461,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6157,12 +6997,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4408,
+    "pk": 4464,
     "fields": {
       "name": "Terminologies",
       "slug": "terminologies-un-dev",
       "type": "CONTEXT",
-      "parent": 4405,
+      "parent": 4461,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6172,12 +7012,72 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4409,
+    "pk": 4465,
     "fields": {
       "name": "Tala system",
       "slug": "tala-system-un-dev",
       "type": "CONTEXT",
-      "parent": 4405,
+      "parent": 4461,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4466,
+    "fields": {
+      "name": "Overview",
+      "slug": "overview-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4467,
+    "fields": {
+      "name": "Ekatali",
+      "slug": "ekatali-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4468,
+    "fields": {
+      "name": "Khemta/Jhula",
+      "slug": "khemta-jhula-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4469,
+    "fields": {
+      "name": "Rupak",
+      "slug": "rupak-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6187,12 +7087,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4410,
+    "pk": 4470,
     "fields": {
-      "name": "Arasa",
-      "slug": "arasa-un-dev",
+      "name": "Jhampa",
+      "slug": "jhampa-un-dev",
       "type": "CONTEXT",
-      "parent": 4405,
+      "parent": 4465,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6202,12 +7102,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4411,
+    "pk": 4471,
     "fields": {
-      "name": "Mana",
-      "slug": "mana-un-dev",
+      "name": "Adi",
+      "slug": "adi-un-dev",
       "type": "CONTEXT",
-      "parent": 4405,
+      "parent": 4465,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6217,7 +7117,127 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4412,
+    "pk": 4472,
+    "fields": {
+      "name": "Tripata",
+      "slug": "tripata-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 7
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4473,
+    "fields": {
+      "name": "Jati",
+      "slug": "jati-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 8
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4474,
+    "fields": {
+      "name": "Adatali",
+      "slug": "adatali-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 9
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4475,
+    "fields": {
+      "name": "Matha",
+      "slug": "matha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 10
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4476,
+    "fields": {
+      "name": "Kuduk",
+      "slug": "kuduk-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 11
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4477,
+    "fields": {
+      "name": "Sarimaan",
+      "slug": "sarimaan-un-dev",
+      "type": "CONTEXT",
+      "parent": 4465,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 12
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4478,
+    "fields": {
+      "name": "Arasa",
+      "slug": "arasa-un-dev",
+      "type": "CONTEXT",
+      "parent": 4461,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 5
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4479,
+    "fields": {
+      "name": "Mana",
+      "slug": "mana-un-dev",
+      "type": "CONTEXT",
+      "parent": 4461,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 6
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4480,
     "fields": {
       "name": "Shirobheda",
       "slug": "shirobheda-un-dev",
@@ -6233,12 +7253,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4413,
+    "pk": 4481,
     "fields": {
       "name": "Overview",
       "slug": "overview-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6248,12 +7268,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4414,
+    "pk": 4482,
     "fields": {
       "name": "Sama",
       "slug": "sama-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6263,12 +7283,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4415,
+    "pk": 4483,
     "fields": {
       "name": "Udvahita",
       "slug": "udvahita-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6278,12 +7298,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4416,
+    "pk": 4484,
     "fields": {
       "name": "Adhomukha",
       "slug": "adhomukha-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6293,12 +7313,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4417,
+    "pk": 4485,
     "fields": {
       "name": "Alolita",
       "slug": "alolita-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6308,12 +7328,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4418,
+    "pk": 4486,
     "fields": {
       "name": "Dhuta",
       "slug": "dhuta-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6323,12 +7343,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4419,
+    "pk": 4487,
     "fields": {
       "name": "Kampita",
       "slug": "kampita-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6338,12 +7358,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4420,
+    "pk": 4488,
     "fields": {
       "name": "Paravritta",
       "slug": "paravritta-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6353,12 +7373,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4421,
+    "pk": 4489,
     "fields": {
       "name": "Utkhipta",
       "slug": "utkhipta-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6368,12 +7388,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4422,
+    "pk": 4490,
     "fields": {
       "name": "Paribahita",
       "slug": "paribahita-un-dev",
       "type": "CONTEXT",
-      "parent": 4412,
+      "parent": 4480,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6383,7 +7403,7 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4423,
+    "pk": 4491,
     "fields": {
       "name": "Drishti Bheda",
       "slug": "drishti-bheda-un-dev",
@@ -6399,12 +7419,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4424,
+    "pk": 4492,
     "fields": {
       "name": "Overview",
       "slug": "overview-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6414,12 +7434,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4425,
+    "pk": 4493,
     "fields": {
       "name": "Sama",
       "slug": "sama-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6429,12 +7449,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4426,
+    "pk": 4494,
     "fields": {
       "name": "Alokita",
       "slug": "alokita-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6444,12 +7464,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4427,
+    "pk": 4495,
     "fields": {
       "name": "Sachi",
       "slug": "sachi-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6459,12 +7479,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4428,
+    "pk": 4496,
     "fields": {
       "name": "Pralokita",
       "slug": "pralokita-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6474,12 +7494,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4429,
+    "pk": 4497,
     "fields": {
       "name": "Nimilita",
       "slug": "nimilita-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6489,12 +7509,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4430,
+    "pk": 4498,
     "fields": {
       "name": "Ullokita",
       "slug": "ullokita-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6504,12 +7524,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4431,
+    "pk": 4499,
     "fields": {
       "name": "Anuvrutta",
       "slug": "anuvrutta-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6519,12 +7539,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4432,
+    "pk": 4500,
     "fields": {
       "name": "Avalokita",
       "slug": "avalokita-un-dev",
       "type": "CONTEXT",
-      "parent": 4423,
+      "parent": 4491,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6534,7 +7554,7 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4433,
+    "pk": 4501,
     "fields": {
       "name": "Greevabheda",
       "slug": "greevabheda-un-dev",
@@ -6550,12 +7570,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4434,
+    "pk": 4502,
     "fields": {
       "name": "Overview",
       "slug": "overview-un-dev",
       "type": "CONTEXT",
-      "parent": 4433,
+      "parent": 4501,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6565,12 +7585,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4435,
+    "pk": 4503,
     "fields": {
       "name": "Sundari",
       "slug": "sundari-un-dev",
       "type": "CONTEXT",
-      "parent": 4433,
+      "parent": 4501,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6580,12 +7600,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4436,
+    "pk": 4504,
     "fields": {
       "name": "Tiraschina",
       "slug": "tiraschina-un-dev",
       "type": "CONTEXT",
-      "parent": 4433,
+      "parent": 4501,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6595,12 +7615,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4437,
+    "pk": 4505,
     "fields": {
       "name": "Parivartita",
       "slug": "parivartita-un-dev",
       "type": "CONTEXT",
-      "parent": 4433,
+      "parent": 4501,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6610,12 +7630,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4438,
+    "pk": 4506,
     "fields": {
       "name": "Prakampita",
       "slug": "prakampita-un-dev",
       "type": "CONTEXT",
-      "parent": 4433,
+      "parent": 4501,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6625,7 +7645,7 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4439,
+    "pk": 4507,
     "fields": {
       "name": "Hasta Mudra",
       "slug": "hasta-mudra-un-dev",
@@ -6641,12 +7661,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4440,
+    "pk": 4508,
     "fields": {
       "name": "Introduction",
       "slug": "introduction-un-dev",
       "type": "CONTEXT",
-      "parent": 4439,
+      "parent": 4507,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6656,12 +7676,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4441,
+    "pk": 4509,
     "fields": {
       "name": "Significance",
       "slug": "significance-un-dev",
       "type": "CONTEXT",
-      "parent": 4439,
+      "parent": 4507,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6671,12 +7691,57 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4442,
+    "pk": 4510,
     "fields": {
       "name": "Asamyukta Hasta",
       "slug": "asamyukta-hasta-un-dev",
       "type": "CONTEXT",
-      "parent": 4439,
+      "parent": 4507,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4511,
+    "fields": {
+      "name": "Overview",
+      "slug": "overview-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4512,
+    "fields": {
+      "name": "Pataka",
+      "slug": "pataka-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4513,
+    "fields": {
+      "name": "Tripataka",
+      "slug": "tripataka-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6686,12 +7751,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4443,
+    "pk": 4514,
     "fields": {
-      "name": "Samyukta Hasta",
-      "slug": "samyukta-hasta-un-dev",
+      "name": "Ardhapataka",
+      "slug": "ardhapataka-un-dev",
       "type": "CONTEXT",
-      "parent": 4439,
+      "parent": 4510,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6701,12 +7766,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4444,
+    "pk": 4515,
     "fields": {
-      "name": "Abhinaya Chandrika",
-      "slug": "abhinaya-chandrika-un-dev",
+      "name": "Kartarimukha",
+      "slug": "kartarimukha-un-dev",
       "type": "CONTEXT",
-      "parent": 4439,
+      "parent": 4510,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6716,7 +7781,802 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4445,
+    "pk": 4516,
+    "fields": {
+      "name": "Mayura",
+      "slug": "mayura-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 6
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4517,
+    "fields": {
+      "name": "Ardha Chandra",
+      "slug": "ardha-chandra-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 7
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4518,
+    "fields": {
+      "name": "Arala",
+      "slug": "arala-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 8
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4519,
+    "fields": {
+      "name": "Shukatunda",
+      "slug": "shukatunda-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 9
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4520,
+    "fields": {
+      "name": "Mushti",
+      "slug": "mushti-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 10
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4521,
+    "fields": {
+      "name": "Shikhara",
+      "slug": "shikhara-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 11
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4522,
+    "fields": {
+      "name": "Kapitha",
+      "slug": "kapitha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 12
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4523,
+    "fields": {
+      "name": "Katakamukha",
+      "slug": "katakamukha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 13
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4524,
+    "fields": {
+      "name": "Suchi",
+      "slug": "suchi-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 14
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4525,
+    "fields": {
+      "name": "Chandrakala",
+      "slug": "chandrakala-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 15
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4526,
+    "fields": {
+      "name": "Padmakosha",
+      "slug": "padmakosha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 16
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4527,
+    "fields": {
+      "name": "Sarpaseersha",
+      "slug": "sarpaseersha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 17
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4528,
+    "fields": {
+      "name": "Mrigasheersha",
+      "slug": "mrigasheersha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 18
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4529,
+    "fields": {
+      "name": "Simhamukha",
+      "slug": "simhamukha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 19
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4530,
+    "fields": {
+      "name": "Kangula",
+      "slug": "kangula-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 20
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4531,
+    "fields": {
+      "name": "Alapadma",
+      "slug": "alapadma-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 21
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4532,
+    "fields": {
+      "name": "Chatura",
+      "slug": "chatura-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 22
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4533,
+    "fields": {
+      "name": "Bhramara",
+      "slug": "bhramara-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 23
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4534,
+    "fields": {
+      "name": "Hamsasya",
+      "slug": "hamsasya-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 24
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4535,
+    "fields": {
+      "name": "Hamsapaksha",
+      "slug": "hamsapaksha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 25
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4536,
+    "fields": {
+      "name": "Samdamsa",
+      "slug": "samdamsa-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 26
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4537,
+    "fields": {
+      "name": "Mukula",
+      "slug": "mukula-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 27
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4538,
+    "fields": {
+      "name": "Tamrachooda",
+      "slug": "tamrachooda-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 28
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4539,
+    "fields": {
+      "name": "Trishula",
+      "slug": "trishula-un-dev",
+      "type": "CONTEXT",
+      "parent": 4510,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 29
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4540,
+    "fields": {
+      "name": "Samyukta Hasta",
+      "slug": "samyukta-hasta-un-dev",
+      "type": "CONTEXT",
+      "parent": 4507,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4541,
+    "fields": {
+      "name": "Overview",
+      "slug": "overview-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4542,
+    "fields": {
+      "name": "Anjali",
+      "slug": "anjali-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4543,
+    "fields": {
+      "name": "Kapota",
+      "slug": "kapota-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4544,
+    "fields": {
+      "name": "Karkata",
+      "slug": "karkata-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4545,
+    "fields": {
+      "name": "Swastika",
+      "slug": "swastika-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 5
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4546,
+    "fields": {
+      "name": "Dola hasta",
+      "slug": "dola-hasta-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 6
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4547,
+    "fields": {
+      "name": "Pushpaputa",
+      "slug": "pushpaputa-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 7
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4548,
+    "fields": {
+      "name": "Utsanga",
+      "slug": "utsanga-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 8
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4549,
+    "fields": {
+      "name": "Shivalinga",
+      "slug": "shivalinga-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 9
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4550,
+    "fields": {
+      "name": "Katakavardhana",
+      "slug": "katakavardhana-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 10
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4551,
+    "fields": {
+      "name": "Kartariswastika",
+      "slug": "kartariswastika-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 11
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4552,
+    "fields": {
+      "name": "Sakata",
+      "slug": "sakata-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 12
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4553,
+    "fields": {
+      "name": "Sankha",
+      "slug": "sankha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 13
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4554,
+    "fields": {
+      "name": "Chakra",
+      "slug": "chakra-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 14
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4555,
+    "fields": {
+      "name": "Samputa",
+      "slug": "samputa-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 15
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4556,
+    "fields": {
+      "name": "Pasa",
+      "slug": "pasa-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 16
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4557,
+    "fields": {
+      "name": "Kilaka",
+      "slug": "kilaka-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 17
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4558,
+    "fields": {
+      "name": "Matsya",
+      "slug": "matsya-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 18
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4559,
+    "fields": {
+      "name": "Koorma",
+      "slug": "koorma-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 19
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4560,
+    "fields": {
+      "name": "Varaha",
+      "slug": "varaha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 20
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4561,
+    "fields": {
+      "name": "Garuda",
+      "slug": "garuda-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 21
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4562,
+    "fields": {
+      "name": "Nagabandha",
+      "slug": "nagabandha-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 22
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4563,
+    "fields": {
+      "name": "Khatwa",
+      "slug": "khatwa-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 23
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4564,
+    "fields": {
+      "name": "Bherunda",
+      "slug": "bherunda-un-dev",
+      "type": "CONTEXT",
+      "parent": 4540,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 24
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4565,
+    "fields": {
+      "name": "Abhinaya Chandrika",
+      "slug": "abhinaya-chandrika-un-dev",
+      "type": "CONTEXT",
+      "parent": 4507,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 5
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4566,
+    "fields": {
+      "name": "Overview",
+      "slug": "overview-un-dev",
+      "type": "CONTEXT",
+      "parent": 4565,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4567,
+    "fields": {
+      "name": "Asamyukta Hasta",
+      "slug": "asamyukta-hasta-un-dev",
+      "type": "CONTEXT",
+      "parent": 4565,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4568,
+    "fields": {
+      "name": "Samyukta Hasta",
+      "slug": "samyukta-hasta-un-dev",
+      "type": "CONTEXT",
+      "parent": 4565,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4569,
     "fields": {
       "name": "Abhinaya",
       "slug": "abhinaya-un-dev",
@@ -6732,12 +8592,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4446,
+    "pk": 4570,
     "fields": {
       "name": "Art of Communication",
       "slug": "art-of-communication-un-dev",
       "type": "CONTEXT",
-      "parent": 4445,
+      "parent": 4569,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6747,12 +8607,42 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4447,
+    "pk": 4571,
     "fields": {
       "name": "Classification",
       "slug": "classification-un-dev",
       "type": "CONTEXT",
-      "parent": 4445,
+      "parent": 4569,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4572,
+    "fields": {
+      "name": "Overview",
+      "slug": "overview-un-dev",
+      "type": "CONTEXT",
+      "parent": 4571,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4573,
+    "fields": {
+      "name": "Angika",
+      "slug": "angika-un-dev",
+      "type": "CONTEXT",
+      "parent": 4571,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6762,12 +8652,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4448,
+    "pk": 4574,
     "fields": {
-      "name": "Sthayi & Sanchari Bhava",
-      "slug": "sthayi-&-sanchari-bhava-un-dev",
+      "name": "Vachika",
+      "slug": "vachika-un-dev",
       "type": "CONTEXT",
-      "parent": 4445,
+      "parent": 4571,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6777,12 +8667,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4449,
+    "pk": 4575,
     "fields": {
-      "name": "Bhava & Rasa",
-      "slug": "bhava-&-rasa-un-dev",
+      "name": "Aharya",
+      "slug": "aharya-un-dev",
       "type": "CONTEXT",
-      "parent": 4445,
+      "parent": 4571,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6792,7 +8682,52 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4450,
+    "pk": 4576,
+    "fields": {
+      "name": "Sattvika",
+      "slug": "sattvika-un-dev",
+      "type": "CONTEXT",
+      "parent": 4571,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 5
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4577,
+    "fields": {
+      "name": "Sthayi & Sanchari Bhava",
+      "slug": "sthayi-&-sanchari-bhava-un-dev",
+      "type": "CONTEXT",
+      "parent": 4569,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4578,
+    "fields": {
+      "name": "Bhava & Rasa",
+      "slug": "bhava-&-rasa-un-dev",
+      "type": "CONTEXT",
+      "parent": 4569,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 4
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4579,
     "fields": {
       "name": "Theatre Practices",
       "slug": "theatre-practices-un-dev",
@@ -6808,12 +8743,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4451,
+    "pk": 4580,
     "fields": {
       "name": "Role in Dance",
       "slug": "role-in-dance-un-dev",
       "type": "CONTEXT",
-      "parent": 4450,
+      "parent": 4579,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6823,12 +8758,42 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4452,
+    "pk": 4581,
     "fields": {
       "name": "Techniques",
       "slug": "techniques-un-dev",
       "type": "CONTEXT",
-      "parent": 4450,
+      "parent": 4579,
+      "has_data": 0,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 2
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4582,
+    "fields": {
+      "name": "Emphasis",
+      "slug": "emphasis-un-dev",
+      "type": "CONTEXT",
+      "parent": 4581,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 1
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4583,
+    "fields": {
+      "name": "Elocution",
+      "slug": "elocution-un-dev",
+      "type": "CONTEXT",
+      "parent": 4581,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6838,7 +8803,22 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4453,
+    "pk": 4584,
+    "fields": {
+      "name": "Energy",
+      "slug": "energy-un-dev",
+      "type": "CONTEXT",
+      "parent": 4581,
+      "has_data": 1,
+      "is_active": 1,
+      "created_at": "2024-12-10T15:43:19.760",
+      "updated_at": "2024-12-10T15:43:19.760",
+      "sort": 3
+    }
+  },
+  {
+    "model": "kalari.Categories",
+    "pk": 4585,
     "fields": {
       "name": "Earlier Archival Footage",
       "slug": "earlier-archival-footage-un-dev",
@@ -6854,12 +8834,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4454,
+    "pk": 4586,
     "fields": {
       "name": "Footage 1",
       "slug": "footage-1-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6869,12 +8849,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4455,
+    "pk": 4587,
     "fields": {
       "name": "Footage 2",
       "slug": "footage-2-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6884,12 +8864,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4456,
+    "pk": 4588,
     "fields": {
       "name": "Footage 3",
       "slug": "footage-3-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6899,12 +8879,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4457,
+    "pk": 4589,
     "fields": {
       "name": "Footage 4",
       "slug": "footage-4-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6914,12 +8894,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4458,
+    "pk": 4590,
     "fields": {
       "name": "Footage 5",
       "slug": "footage-5-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6929,12 +8909,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4459,
+    "pk": 4591,
     "fields": {
       "name": "Footage 6",
       "slug": "footage-6-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6944,12 +8924,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4460,
+    "pk": 4592,
     "fields": {
       "name": "Footage 7",
       "slug": "footage-7-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6959,12 +8939,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4461,
+    "pk": 4593,
     "fields": {
       "name": "Footage 8",
       "slug": "footage-8-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6974,12 +8954,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4462,
+    "pk": 4594,
     "fields": {
       "name": "Footage 9",
       "slug": "footage-9-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -6989,12 +8969,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4463,
+    "pk": 4595,
     "fields": {
       "name": "Footage 10",
       "slug": "footage-10-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -7004,12 +8984,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4464,
+    "pk": 4596,
     "fields": {
       "name": "Footage 11",
       "slug": "footage-11-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -7019,12 +8999,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4465,
+    "pk": 4597,
     "fields": {
       "name": "Footage 12",
       "slug": "footage-12-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -7034,12 +9014,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4466,
+    "pk": 4598,
     "fields": {
       "name": "Footage 13",
       "slug": "footage-13-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -7049,12 +9029,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4467,
+    "pk": 4599,
     "fields": {
       "name": "Footage 14",
       "slug": "footage-14-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
@@ -7064,12 +9044,12 @@
   },
   {
     "model": "kalari.Categories",
-    "pk": 4468,
+    "pk": 4600,
     "fields": {
       "name": "Footage 15",
       "slug": "footage-15-un-dev",
       "type": "CONTEXT",
-      "parent": 4453,
+      "parent": 4585,
       "has_data": 1,
       "is_active": 1,
       "created_at": "2024-12-10T15:43:19.760",
