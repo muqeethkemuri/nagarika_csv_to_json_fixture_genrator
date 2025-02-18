@@ -188,9 +188,10 @@ if __name__ == "__main__":
     # Now each tuple includes (csv_file_path, type_string, slug_suffix)
     files_and_types = [
         ("input_csv/sequence_menu.csv","SEQUENCE", ""),
-        ("input_csv/unit_menu.csv", "UNIT", "-UN"),
-        ("input_csv/explanation_unit.csv", "EXPLANATION", "-EXP"),
-        ("input_csv/context_menu.csv", "CONTEXT", "-CXT")
+        ("input_csv/unit_menu.csv", "UNIT", "-un"),
+        ("input_csv/explanation_menu_sequence.csv", "EXPLANATION", "-un-exp"),
+        ("input_csv/explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
+        ("input_csv/context_menu.csv", "CONTEXT", "-un-dev")
         # Add more tuples if needed
     ]
     
