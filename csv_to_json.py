@@ -17,27 +17,59 @@ def slugify(text):
     slug = re.sub(r'-+', '-', slug)
     return slug
 
-def ensure_unique_slug(raw_slug, parent_pk, pk_to_slug, used_slugs):
+### CHANGED ###
+KNOWN_SUFFIXES = ('-un', '-exp', '-dev')
+def remove_known_suffixes(slug_value):
     """
-    Given a raw slug, checks if it is in used_slugs.
-    If it is, prepend the first chunk of the parent's slug, then check again,
-    repeating until we find a slug that isn't in used_slugs.
-    
-    :param raw_slug: The candidate slug (string)
-    :param parent_pk: The parent's pk (or None if top-level)
-    :param pk_to_slug: dict of { pk: slug } so we can look up parent's slug
-    :param used_slugs: set of already-used slugs
-    :return: A guaranteed-unique slug (string)
+    If the slug ends with -un, -exp, or -dev (possibly multiple times),
+    remove those trailing pieces. This avoids repeated suffixes in expansions.
     """
-    final_slug = raw_slug
+    # e.g. if slug_value = "bodha-un", strip off "-un".
+    # If "bodha-un-exp", strip off "-exp", then "-un", etc.
+    pattern = r'(?:' + '|'.join(KNOWN_SUFFIXES) + r')+$'
+    return re.sub(pattern, '', slug_value)
+
+
+### CHANGED ###
+def ensure_unique_slug(raw_slug, parent_pks, pk_to_slug, used_slugs):
+    """
+    Ensure a unique slug by:
+      1) Trying raw_slug alone.
+      2) If collision, prepend parent's "base" (with known suffixes removed),
+         then parent's parent's base, etc.
+      3) NO numeric expansions. We simply stop if collisions persist.
+
+    This avoids repeated suffixes like '-un-un' in the final slug, because
+    we remove the parent's known suffix first, but keep the child's suffix.
+    """
+
+    # 1) If child's raw_slug is free, use it immediately
+    if raw_slug not in used_slugs:
+        return raw_slug
     
-    # If it's already used, and we do have a parent to help disambiguate:
-    while final_slug in used_slugs and parent_pk is not None:
-        parent_slug_full = pk_to_slug.get(parent_pk, "")
-        parent_first_part = re.split(r'[-_]', parent_slug_full)[0] if parent_slug_full else "parent"
-        final_slug = parent_first_part + "-" + final_slug
-    
-    return final_slug
+    # 2) There's a collision → build expansions from the parent chain
+    #    We remove the parent's suffix from the parent's slug so that
+    #    we don't get repeated '-un' or '-exp' or '-dev'.
+    new_slug = raw_slug
+
+    for parent_pk in parent_pks:
+        parent_full_slug = pk_to_slug.get(parent_pk, '')
+        # remove any known suffixes from parent's slug
+        parent_base = remove_known_suffixes(parent_full_slug)
+        if parent_base:
+            candidate = f"{parent_base}-{new_slug}"
+        else:
+            # No parent slug or it was empty
+            candidate = new_slug
+
+        if candidate not in used_slugs:
+            return candidate
+        else:
+            new_slug = candidate
+
+    # 3) No numeric expansions. Just return the final slug we ended up with.
+    #    This means if there's still a collision, we won't fix it further.
+    return new_slug
 
 def generate_categories(
     csv_file_path, 
@@ -81,7 +113,6 @@ def generate_categories(
       
         for row in reader:
             # Read in the levels, stripping extra whitespace
-            print("DEBUG ROW:", row)
             level1 = row.get('level1', '').strip()
             level2 = row.get('level2', '').strip()
             level3 = row.get('level3', '').strip()
@@ -90,7 +121,7 @@ def generate_categories(
             # ------------------ LEVEL 1 ------------------
             if level1:
                 raw_slug = slugify(level1) + slug_suffix
-                unique_slug = ensure_unique_slug(raw_slug, parent_pk=None, pk_to_slug=pk_to_slug, used_slugs=used_slugs)
+                unique_slug = ensure_unique_slug(raw_slug, [], pk_to_slug, used_slugs)
                 
                 category = {
                     "model": "kalari.Categories",
@@ -127,7 +158,7 @@ def generate_categories(
             # ------------------ LEVEL 2 ------------------
             if level2 and current_parent_pk is not None:
                 raw_slug = slugify(level2) + slug_suffix
-                unique_slug = ensure_unique_slug(raw_slug, parent_pk=current_parent_pk, pk_to_slug=pk_to_slug, used_slugs=used_slugs)
+                unique_slug = ensure_unique_slug(raw_slug, [current_parent_pk], pk_to_slug, used_slugs)
                 
                 category = {
                     "model": "kalari.Categories",
@@ -159,7 +190,7 @@ def generate_categories(
             # ------------------ LEVEL 3 ------------------
             if level3 and current_child_pk is not None:
                 raw_slug = slugify(level3) + slug_suffix
-                unique_slug = ensure_unique_slug(raw_slug, parent_pk=current_child_pk, pk_to_slug=pk_to_slug, used_slugs=used_slugs)
+                unique_slug = ensure_unique_slug(raw_slug, [current_child_pk, current_parent_pk], pk_to_slug, used_slugs)
                 
                 category = {
                     "model": "kalari.Categories",
@@ -190,7 +221,7 @@ def generate_categories(
             # ------------------ LEVEL 4 ------------------
             if level4 and current_grandchild_pk is not None:
                 raw_slug = slugify(level4) + slug_suffix
-                unique_slug = ensure_unique_slug(raw_slug, parent_pk=current_grandchild_pk, pk_to_slug=pk_to_slug, used_slugs=used_slugs)
+                unique_slug = ensure_unique_slug(raw_slug, [current_grandchild_pk, current_child_pk, current_parent_pk], pk_to_slug, used_slugs)
                 
                 category = {
                     "model": "kalari.Categories",
