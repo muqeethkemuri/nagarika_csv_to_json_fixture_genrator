@@ -31,40 +31,14 @@ def remove_known_suffixes(slug_value):
 
 
 def ensure_unique_slug(raw_slug, parent_pks, pk_to_slug, used_slugs):
-    """
-    Ensure a unique slug by:
-      1) Trying the raw_slug alone.
-      2) If collision, prepend the immediate parent's slug and check again.
-      3) If still a collision, accumulate the chain (e.g., grandparent-parent-child).
-      4) If all levels are exhausted and a unique slug is still not found,
-         raise an error.
-    
-    Parameters:
-      raw_slug (str): The slug generated from the category's own name.
-      parent_pks (list): List of parent primary keys, ordered from immediate parent
-                         to higher-level ancestors.
-      pk_to_slug (dict): Mapping from primary key to its slug.
-      used_slugs (set): Set of slugs already in use.
-    
-    Returns:
-      str: A unique slug built from the child's slug and, if needed, parent slugs.
-    
-    Raises:
-      ValueError: If a unique slug cannot be generated after using all parent levels.
-    """
     # 1) Try using the raw slug
     if raw_slug not in used_slugs:
         return raw_slug
-
-    # 2) Accumulate parent slugs, starting with the immediate parent.
-    #    We build the candidate by prepending parent's slugs one by one.
     parent_chain = []
     for parent_pk in parent_pks:
         parent_full_slug = pk_to_slug.get(parent_pk, '')
         parent_base = remove_known_suffixes(parent_full_slug)
         if parent_base:
-            # Prepend the parent's slug to the chain (so that the immediate parent
-            # comes last in the chain, i.e. "...-parent-child")
             parent_chain.insert(0, parent_base)
             candidate = "-".join(parent_chain + [raw_slug])
             if candidate not in used_slugs:
@@ -72,9 +46,6 @@ def ensure_unique_slug(raw_slug, parent_pks, pk_to_slug, used_slugs):
         else:
             # If parent's slug is empty, skip it.
             continue
-
-    # 3) If we have tried all available parents and still haven't found a unique slug,
-    #    then raise an error.
     raise ValueError(
         f"Slug collision: Could not generate a unique slug for '{raw_slug}' with parent chain "
         f"{[pk_to_slug.get(pk, '') for pk in parent_pks]}. Last candidate was '{candidate}'."
@@ -272,8 +243,6 @@ if __name__ == "__main__":
     files_and_types = [
         ("input_csv/sequence_menu.csv", "SEQUENCE", ""),
         ("input_csv/unit_menu.csv", "UNIT", "-un"),
-        #("input_csv/explanation_menu_sequence.csv", "EXPLANATION", "-un-exp"),
-        #("input_csv/explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
         ("input_csv/explanation_menu_sequence+explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
         ("input_csv/context_menu.csv", "CONTEXT", "-un-dev")
     ]
