@@ -30,17 +30,13 @@ def remove_known_suffixes(slug_value):
     return re.sub(pattern, '', slug_value)
 
 
-### CHANGED ###
 def ensure_unique_slug(raw_slug, parent_pks, pk_to_slug, used_slugs):
     """
     Ensure a unique slug by:
       1) Trying raw_slug alone.
       2) If collision, prepend parent's "base" (with known suffixes removed),
          then parent's parent's base, etc.
-      3) NO numeric expansions. We simply stop if collisions persist.
-
-    This avoids repeated suffixes like '-un-un' in the final slug, because
-    we remove the parent's known suffix first, but keep the child's suffix.
+      3) Stop as soon as a unique combination is found.
     """
 
     # 1) If child's raw_slug is free, use it immediately
@@ -52,7 +48,7 @@ def ensure_unique_slug(raw_slug, parent_pks, pk_to_slug, used_slugs):
     #    we don't get repeated '-un' or '-exp' or '-dev'.
     new_slug = raw_slug
 
-    for parent_pk in parent_pks:
+    for i, parent_pk in enumerate(parent_pks):
         parent_full_slug = pk_to_slug.get(parent_pk, '')
         # remove any known suffixes from parent's slug
         parent_base = remove_known_suffixes(parent_full_slug)
@@ -67,8 +63,7 @@ def ensure_unique_slug(raw_slug, parent_pks, pk_to_slug, used_slugs):
         else:
             new_slug = candidate
 
-    # 3) No numeric expansions. Just return the final slug we ended up with.
-    #    This means if there's still a collision, we won't fix it further.
+    # 3) If no unique combination is found, return the final slug
     return new_slug
 
 def generate_categories(
