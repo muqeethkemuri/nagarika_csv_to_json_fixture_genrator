@@ -111,7 +111,7 @@
     "pk": 4007,
     "fields": {
       "name": "Sthayi - Pankaj Charan Das",
-      "slug": "sthayi---pankaj-charan-das",
+      "slug": "sthayi-pankaj-charan-das",
       "type": "SEQUENCE",
       "parent": 4005,
       "has_data": 1,
@@ -126,7 +126,7 @@
     "pk": 4008,
     "fields": {
       "name": "Battu - Kelucharan Mohapatra",
-      "slug": "battu---kelucharan-mohapatra",
+      "slug": "battu-kelucharan-mohapatra",
       "type": "SEQUENCE",
       "parent": 4005,
       "has_data": 1,
@@ -1496,7 +1496,7 @@
     "pk": 4098,
     "fields": {
       "name": "Bamachala - Dakshyachala",
-      "slug": "bamachala---dakshyachala-un",
+      "slug": "bamachala-dakshyachala-un",
       "type": "UNIT",
       "parent": 4097,
       "has_data": 1,
@@ -1511,7 +1511,7 @@
     "pk": 4099,
     "fields": {
       "name": "Agrachala - Prushthachala",
-      "slug": "agrachala---prushthachala-un",
+      "slug": "agrachala-prushthachala-un",
       "type": "UNIT",
       "parent": 4097,
       "has_data": 1,
@@ -3286,7 +3286,7 @@
     "pk": 4217,
     "fields": {
       "name": "Sthayi - Pankaj Charan Das",
-      "slug": "sthayi---pankaj-charan-das-un-exp",
+      "slug": "sthayi-pankaj-charan-das-un-exp",
       "type": "EXPLANATION",
       "parent": 4214,
       "has_data": 1,
@@ -3301,7 +3301,7 @@
     "pk": 4218,
     "fields": {
       "name": "Battu - Kelucharan Mohapatra",
-      "slug": "battu---kelucharan-mohapatra-un-exp",
+      "slug": "battu-kelucharan-mohapatra-un-exp",
       "type": "EXPLANATION",
       "parent": 4214,
       "has_data": 1,
@@ -4877,7 +4877,7 @@
     "pk": 4323,
     "fields": {
       "name": "Bamachala - Dakshyachala",
-      "slug": "bamachala---dakshyachala-un-exp",
+      "slug": "bamachala-dakshyachala-un-exp",
       "type": "EXPLANATION",
       "parent": 4321,
       "has_data": 1,
@@ -4892,7 +4892,7 @@
     "pk": 4324,
     "fields": {
       "name": "Agrachala - Prushthachala",
-      "slug": "agrachala---prushthachala-un-exp",
+      "slug": "agrachala-prushthachala-un-exp",
       "type": "EXPLANATION",
       "parent": 4321,
       "has_data": 1,

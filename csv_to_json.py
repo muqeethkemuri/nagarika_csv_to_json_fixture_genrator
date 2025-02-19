@@ -4,7 +4,8 @@ import re
 
 def slugify(text):
     """Convert a string into a slug: lowercase, hyphens instead of spaces, etc."""
-    return (
+    # Replace spaces with hyphens and remove unwanted characters
+    slug = (
         text.lower()
             .strip()
             .replace(' ', '-')
@@ -12,6 +13,9 @@ def slugify(text):
             .replace(')', '')
             .replace('/', '-')
     )
+    # Replace multiple consecutive hyphens with a single hyphen
+    slug = re.sub(r'-+', '-', slug)
+    return slug
 
 def ensure_unique_slug(raw_slug, parent_pk, pk_to_slug, used_slugs):
     """
@@ -252,7 +256,7 @@ if __name__ == "__main__":
         )
         all_categories.extend(new_cats)
     
-    output_file = "output.json"
+    output_file = "odissi_categories.json"
     with open(output_file, "w", encoding="utf-8") as outfile:
         json.dump(all_categories, outfile, indent=2)
     
