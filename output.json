@@ -985,7 +985,7 @@
     "pk": 4064,
     "fields": {
       "name": "Chauka",
-      "slug": "chauka-un",
+      "slug": "padabheda-chauka-un",
       "type": "UNIT",
       "parent": 4058,
       "has_data": 0,
@@ -1090,7 +1090,7 @@
     "pk": 4071,
     "fields": {
       "name": "Tribhangi",
-      "slug": "tribhangi-un",
+      "slug": "padabheda-tribhangi-un",
       "type": "UNIT",
       "parent": 4058,
       "has_data": 0,
@@ -1722,7 +1722,7 @@
     "pk": 4113,
     "fields": {
       "name": "Chauka",
-      "slug": "chauka-un",
+      "slug": "basic-chauka-un",
       "type": "UNIT",
       "parent": 4101,
       "has_data": 0,
@@ -1737,7 +1737,7 @@
     "pk": 4114,
     "fields": {
       "name": "1",
-      "slug": "1-un",
+      "slug": "basic-1-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1752,7 +1752,7 @@
     "pk": 4115,
     "fields": {
       "name": "2",
-      "slug": "2-un",
+      "slug": "basic-2-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1767,7 +1767,7 @@
     "pk": 4116,
     "fields": {
       "name": "3",
-      "slug": "3-un",
+      "slug": "basic-3-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1782,7 +1782,7 @@
     "pk": 4117,
     "fields": {
       "name": "4",
-      "slug": "4-un",
+      "slug": "basic-4-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1797,7 +1797,7 @@
     "pk": 4118,
     "fields": {
       "name": "5",
-      "slug": "5-un",
+      "slug": "basic-5-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1812,7 +1812,7 @@
     "pk": 4119,
     "fields": {
       "name": "6",
-      "slug": "6-un",
+      "slug": "basic-6-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1827,7 +1827,7 @@
     "pk": 4120,
     "fields": {
       "name": "7",
-      "slug": "7-un",
+      "slug": "basic-7-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1842,7 +1842,7 @@
     "pk": 4121,
     "fields": {
       "name": "8",
-      "slug": "8-un",
+      "slug": "basic-8-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1857,7 +1857,7 @@
     "pk": 4122,
     "fields": {
       "name": "9",
-      "slug": "9-un",
+      "slug": "basic-9-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1872,7 +1872,7 @@
     "pk": 4123,
     "fields": {
       "name": "10",
-      "slug": "10-un",
+      "slug": "basic-10-un",
       "type": "UNIT",
       "parent": 4113,
       "has_data": 1,
@@ -1887,7 +1887,7 @@
     "pk": 4124,
     "fields": {
       "name": "Tribhangi",
-      "slug": "tribhangi-un",
+      "slug": "basic-tribhangi-un",
       "type": "UNIT",
       "parent": 4101,
       "has_data": 0,
@@ -1902,7 +1902,7 @@
     "pk": 4125,
     "fields": {
       "name": "1",
-      "slug": "1-un",
+      "slug": "basic-1-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -1917,7 +1917,7 @@
     "pk": 4126,
     "fields": {
       "name": "2",
-      "slug": "2-un",
+      "slug": "basic-2-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -1932,7 +1932,7 @@
     "pk": 4127,
     "fields": {
       "name": "3",
-      "slug": "3-un",
+      "slug": "basic-3-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -1947,7 +1947,7 @@
     "pk": 4128,
     "fields": {
       "name": "4",
-      "slug": "4-un",
+      "slug": "basic-4-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -1962,7 +1962,7 @@
     "pk": 4129,
     "fields": {
       "name": "5",
-      "slug": "5-un",
+      "slug": "basic-5-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -1977,7 +1977,7 @@
     "pk": 4130,
     "fields": {
       "name": "6",
-      "slug": "6-un",
+      "slug": "basic-6-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -1992,7 +1992,7 @@
     "pk": 4131,
     "fields": {
       "name": "7",
-      "slug": "7-un",
+      "slug": "basic-7-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -2007,7 +2007,7 @@
     "pk": 4132,
     "fields": {
       "name": "8",
-      "slug": "8-un",
+      "slug": "basic-8-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -2022,7 +2022,7 @@
     "pk": 4133,
     "fields": {
       "name": "9",
-      "slug": "9-un",
+      "slug": "basic-9-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -2037,7 +2037,7 @@
     "pk": 4134,
     "fields": {
       "name": "10",
-      "slug": "10-un",
+      "slug": "basic-10-un",
       "type": "UNIT",
       "parent": 4124,
       "has_data": 1,
@@ -2113,7 +2113,7 @@
     "pk": 4139,
     "fields": {
       "name": "Chauka",
-      "slug": "chauka-un",
+      "slug": "ekapada-chauka-un",
       "type": "UNIT",
       "parent": 4138,
       "has_data": 1,
@@ -2128,7 +2128,7 @@
     "pk": 4140,
     "fields": {
       "name": "Ullolita",
-      "slug": "ullolita-un",
+      "slug": "ekapada-ullolita-un",
       "type": "UNIT",
       "parent": 4138,
       "has_data": 1,
@@ -2158,7 +2158,7 @@
     "pk": 4142,
     "fields": {
       "name": "Chauka",
-      "slug": "chauka-un",
+      "slug": "chakra-chauka-un",
       "type": "UNIT",
       "parent": 4141,
       "has_data": 1,
@@ -2233,7 +2233,7 @@
     "pk": 4147,
     "fields": {
       "name": "Trasya",
-      "slug": "trasya-un",
+      "slug": "kunchita-trasya-un",
       "type": "UNIT",
       "parent": 4145,
       "has_data": 1,
@@ -2263,7 +2263,7 @@
     "pk": 4149,
     "fields": {
       "name": "Chauka",
-      "slug": "chauka-un",
+      "slug": "viparita-chauka-un",
       "type": "UNIT",
       "parent": 4148,
       "has_data": 1,
@@ -2308,7 +2308,7 @@
     "pk": 4152,
     "fields": {
       "name": "Chauka",
-      "slug": "chauka-un",
+      "slug": "utpluta-chauka-un",
       "type": "UNIT",
       "parent": 4151,
       "has_data": 1,
@@ -2760,7 +2760,7 @@
     "pk": 4182,
     "fields": {
       "name": "Original 1",
-      "slug": "original-1-un",
+      "slug": "danda-original-1-un",
       "type": "UNIT",
       "parent": 4181,
       "has_data": 1,
@@ -2775,7 +2775,7 @@
     "pk": 4183,
     "fields": {
       "name": "Transformed 1",
-      "slug": "transformed-1-un",
+      "slug": "danda-transformed-1-un",
       "type": "UNIT",
       "parent": 4181,
       "has_data": 1,
@@ -2790,7 +2790,7 @@
     "pk": 4184,
     "fields": {
       "name": "Original 2",
-      "slug": "original-2-un",
+      "slug": "danda-original-2-un",
       "type": "UNIT",
       "parent": 4181,
       "has_data": 1,
@@ -2850,7 +2850,7 @@
     "pk": 4188,
     "fields": {
       "name": "Original 1",
-      "slug": "original-1-un",
+      "slug": "paika-original-1-un",
       "type": "UNIT",
       "parent": 4187,
       "has_data": 1,
@@ -2865,7 +2865,7 @@
     "pk": 4189,
     "fields": {
       "name": "Transformed 1",
-      "slug": "transformed-1-un",
+      "slug": "paika-transformed-1-un",
       "type": "UNIT",
       "parent": 4187,
       "has_data": 1,
@@ -2880,7 +2880,7 @@
     "pk": 4190,
     "fields": {
       "name": "Original 2",
-      "slug": "original-2-un",
+      "slug": "paika-original-2-un",
       "type": "UNIT",
       "parent": 4187,
       "has_data": 1,
@@ -2895,7 +2895,7 @@
     "pk": 4191,
     "fields": {
       "name": "Transformed 2",
-      "slug": "transformed-2-un",
+      "slug": "paika-transformed-2-un",
       "type": "UNIT",
       "parent": 4187,
       "has_data": 1,
@@ -2925,7 +2925,7 @@
     "pk": 4193,
     "fields": {
       "name": "Original 1",
-      "slug": "original-1-un",
+      "slug": "chhau-original-1-un",
       "type": "UNIT",
       "parent": 4192,
       "has_data": 1,
@@ -2940,7 +2940,7 @@
     "pk": 4194,
     "fields": {
       "name": "Transformed 1",
-      "slug": "transformed-1-un",
+      "slug": "chhau-transformed-1-un",
       "type": "UNIT",
       "parent": 4192,
       "has_data": 1,
@@ -2955,7 +2955,7 @@
     "pk": 4195,
     "fields": {
       "name": "Original 2",
-      "slug": "original-2-un",
+      "slug": "chhau-original-2-un",
       "type": "UNIT",
       "parent": 4192,
       "has_data": 1,
@@ -2970,7 +2970,7 @@
     "pk": 4196,
     "fields": {
       "name": "Transformed 2",
-      "slug": "transformed-2-un",
+      "slug": "chhau-transformed-2-un",
       "type": "UNIT",
       "parent": 4192,
       "has_data": 1,
@@ -3105,7 +3105,7 @@
     "pk": 4205,
     "fields": {
       "name": "Original",
-      "slug": "original-un",
+      "slug": "gotipua-original-un",
       "type": "UNIT",
       "parent": 4204,
       "has_data": 1,
@@ -3120,7 +3120,7 @@
     "pk": 4206,
     "fields": {
       "name": "Transformed",
-      "slug": "transformed-un",
+      "slug": "gotipua-transformed-un",
       "type": "UNIT",
       "parent": 4204,
       "has_data": 1,
@@ -4292,7 +4292,7 @@
     "pk": 4284,
     "fields": {
       "name": "Chauka",
-      "slug": "chauka-un-exp",
+      "slug": "padabheda-chauka-un-exp",
       "type": "EXPLANATION",
       "parent": 4276,
       "has_data": 0,
@@ -4412,7 +4412,7 @@
     "pk": 4292,
     "fields": {
       "name": "Tribhangi",
-      "slug": "tribhangi-un-exp",
+      "slug": "padabheda-tribhangi-un-exp",
       "type": "EXPLANATION",
       "parent": 4276,
       "has_data": 0,
@@ -4967,7 +4967,7 @@
     "pk": 4329,
     "fields": {
       "name": "Chauka",
-      "slug": "chauka-un-exp",
+      "slug": "basic-chauka-un-exp",
       "type": "EXPLANATION",
       "parent": 4326,
       "has_data": 1,
@@ -4982,7 +4982,7 @@
     "pk": 4330,
     "fields": {
       "name": "Tribhangi",
-      "slug": "tribhangi-un-exp",
+      "slug": "basic-tribhangi-un-exp",
       "type": "EXPLANATION",
       "parent": 4326,
       "has_data": 1,
@@ -5688,7 +5688,7 @@
     "pk": 4377,
     "fields": {
       "name": "Introduction",
-      "slug": "introduction-un-dev",
+      "slug": "early-introduction-un-dev",
       "type": "CONTEXT",
       "parent": 4376,
       "has_data": 1,
@@ -6172,7 +6172,7 @@
     "pk": 4409,
     "fields": {
       "name": "Approach",
-      "slug": "approach-un-dev",
+      "slug": "gangadhar-approach-un-dev",
       "type": "CONTEXT",
       "parent": 4408,
       "has_data": 1,
@@ -6277,7 +6277,7 @@
     "pk": 4416,
     "fields": {
       "name": "Approach",
-      "slug": "approach-un-dev",
+      "slug": "aruna-approach-un-dev",
       "type": "CONTEXT",
       "parent": 4415,
       "has_data": 1,
@@ -6323,7 +6323,7 @@
     "pk": 4419,
     "fields": {
       "name": "Kelucharan Mohapatra",
-      "slug": "kelucharan-mohapatra-un-dev",
+      "slug": "choreographic-kelucharan-mohapatra-un-dev",
       "type": "CONTEXT",
       "parent": 4418,
       "has_data": 0,
@@ -6368,7 +6368,7 @@
     "pk": 4422,
     "fields": {
       "name": "Gangadhar Pradhan",
-      "slug": "gangadhar-pradhan-un-dev",
+      "slug": "choreographic-gangadhar-pradhan-un-dev",
       "type": "CONTEXT",
       "parent": 4418,
       "has_data": 0,
@@ -6383,7 +6383,7 @@
     "pk": 4423,
     "fields": {
       "name": "Artistic Journey",
-      "slug": "artistic-journey-un-dev",
+      "slug": "choreographic-artistic-journey-un-dev",
       "type": "CONTEXT",
       "parent": 4422,
       "has_data": 1,
@@ -6398,7 +6398,7 @@
     "pk": 4424,
     "fields": {
       "name": "Thoughts On Dance",
-      "slug": "thoughts-on-dance-un-dev",
+      "slug": "choreographic-thoughts-on-dance-un-dev",
       "type": "CONTEXT",
       "parent": 4422,
       "has_data": 1,
@@ -6413,7 +6413,7 @@
     "pk": 4425,
     "fields": {
       "name": "Sharmila Biswas",
-      "slug": "sharmila-biswas-un-dev",
+      "slug": "choreographic-sharmila-biswas-un-dev",
       "type": "CONTEXT",
       "parent": 4418,
       "has_data": 0,
@@ -6428,7 +6428,7 @@
     "pk": 4426,
     "fields": {
       "name": "Artistic Journey",
-      "slug": "artistic-journey-un-dev",
+      "slug": "choreographic-artistic-journey-un-dev",
       "type": "CONTEXT",
       "parent": 4425,
       "has_data": 1,
@@ -6443,7 +6443,7 @@
     "pk": 4427,
     "fields": {
       "name": "Thoughts On Dance",
-      "slug": "thoughts-on-dance-un-dev",
+      "slug": "choreographic-thoughts-on-dance-un-dev",
       "type": "CONTEXT",
       "parent": 4425,
       "has_data": 1,
@@ -6458,7 +6458,7 @@
     "pk": 4428,
     "fields": {
       "name": "Aruna Mohanty",
-      "slug": "aruna-mohanty-un-dev",
+      "slug": "choreographic-aruna-mohanty-un-dev",
       "type": "CONTEXT",
       "parent": 4418,
       "has_data": 0,
@@ -6473,7 +6473,7 @@
     "pk": 4429,
     "fields": {
       "name": "Artistic Journey",
-      "slug": "artistic-journey-un-dev",
+      "slug": "choreographic-artistic-journey-un-dev",
       "type": "CONTEXT",
       "parent": 4428,
       "has_data": 1,
@@ -6488,7 +6488,7 @@
     "pk": 4430,
     "fields": {
       "name": "Thoughts On Dance",
-      "slug": "thoughts-on-dance-un-dev",
+      "slug": "choreographic-thoughts-on-dance-un-dev",
       "type": "CONTEXT",
       "parent": 4428,
       "has_data": 1,
@@ -6579,7 +6579,7 @@
     "pk": 4436,
     "fields": {
       "name": "Introduction",
-      "slug": "introduction-un-dev",
+      "slug": "mardala-introduction-un-dev",
       "type": "CONTEXT",
       "parent": 4435,
       "has_data": 1,
@@ -6594,7 +6594,7 @@
     "pk": 4437,
     "fields": {
       "name": "Current practices",
-      "slug": "current-practices-un-dev",
+      "slug": "mardala-current-practices-un-dev",
       "type": "CONTEXT",
       "parent": 4435,
       "has_data": 1,
@@ -7030,7 +7030,7 @@
     "pk": 4466,
     "fields": {
       "name": "Overview",
-      "slug": "overview-un-dev",
+      "slug": "tala-overview-un-dev",
       "type": "CONTEXT",
       "parent": 4465,
       "has_data": 1,
@@ -7422,7 +7422,7 @@
     "pk": 4492,
     "fields": {
       "name": "Overview",
-      "slug": "overview-un-dev",
+      "slug": "drishti-overview-un-dev",
       "type": "CONTEXT",
       "parent": 4491,
       "has_data": 1,
@@ -7437,7 +7437,7 @@
     "pk": 4493,
     "fields": {
       "name": "Sama",
-      "slug": "sama-un-dev",
+      "slug": "drishti-sama-un-dev",
       "type": "CONTEXT",
       "parent": 4491,
       "has_data": 1,
@@ -7573,7 +7573,7 @@
     "pk": 4502,
     "fields": {
       "name": "Overview",
-      "slug": "overview-un-dev",
+      "slug": "greevabheda-overview-un-dev",
       "type": "CONTEXT",
       "parent": 4501,
       "has_data": 1,
@@ -7664,7 +7664,7 @@
     "pk": 4508,
     "fields": {
       "name": "Introduction",
-      "slug": "introduction-un-dev",
+      "slug": "hasta-introduction-un-dev",
       "type": "CONTEXT",
       "parent": 4507,
       "has_data": 1,
@@ -7709,7 +7709,7 @@
     "pk": 4511,
     "fields": {
       "name": "Overview",
-      "slug": "overview-un-dev",
+      "slug": "asamyukta-overview-un-dev",
       "type": "CONTEXT",
       "parent": 4510,
       "has_data": 1,
@@ -8159,7 +8159,7 @@
     "pk": 4541,
     "fields": {
       "name": "Overview",
-      "slug": "overview-un-dev",
+      "slug": "samyukta-overview-un-dev",
       "type": "CONTEXT",
       "parent": 4540,
       "has_data": 1,
@@ -8519,7 +8519,7 @@
     "pk": 4565,
     "fields": {
       "name": "Abhinaya Chandrika",
-      "slug": "abhinaya-chandrika-un-dev",
+      "slug": "hasta-abhinaya-chandrika-un-dev",
       "type": "CONTEXT",
       "parent": 4507,
       "has_data": 0,
@@ -8534,7 +8534,7 @@
     "pk": 4566,
     "fields": {
       "name": "Overview",
-      "slug": "overview-un-dev",
+      "slug": "hasta-overview-un-dev",
       "type": "CONTEXT",
       "parent": 4565,
       "has_data": 1,
@@ -8625,7 +8625,7 @@
     "pk": 4572,
     "fields": {
       "name": "Overview",
-      "slug": "overview-un-dev",
+      "slug": "classification-overview-un-dev",
       "type": "CONTEXT",
       "parent": 4571,
       "has_data": 1,
