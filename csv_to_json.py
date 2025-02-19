@@ -33,55 +33,53 @@ def remove_known_suffixes(slug_value):
 def ensure_unique_slug(raw_slug, parent_pks, pk_to_slug, used_slugs):
     """
     Ensure a unique slug by:
-      1) Trying raw_slug alone.
-      2) If collision, try prepending each parent's "base" level by level,
-         stopping as soon as a unique combination is found.
-      3) If no unique combination is found after trying all parents,
-         return the last generated slug (which will be the most prepended).
+      1) Trying the raw_slug alone.
+      2) If collision, prepend the immediate parent's slug and check again.
+      3) If still a collision, accumulate the chain (e.g., grandparent-parent-child).
+      4) If all levels are exhausted and a unique slug is still not found,
+         raise an error.
+    
+    Parameters:
+      raw_slug (str): The slug generated from the category's own name.
+      parent_pks (list): List of parent primary keys, ordered from immediate parent
+                         to higher-level ancestors.
+      pk_to_slug (dict): Mapping from primary key to its slug.
+      used_slugs (set): Set of slugs already in use.
+    
+    Returns:
+      str: A unique slug built from the child's slug and, if needed, parent slugs.
+    
+    Raises:
+      ValueError: If a unique slug cannot be generated after using all parent levels.
     """
-
-    # 1) If child's raw_slug is free, use it immediately
+    # 1) Try using the raw slug
     if raw_slug not in used_slugs:
         return raw_slug
 
-    # 2) There's a collision → build expansions from the parent chain
-    #    We remove the parent's suffix from the parent's slug so that
-    #    we don't get repeated '-un' or '-exp' or '-dev'.
-
-    for parent_pk in parent_pks:  # Iterate through parents one by one
+    # 2) Accumulate parent slugs, starting with the immediate parent.
+    #    We build the candidate by prepending parent's slugs one by one.
+    parent_chain = []
+    for parent_pk in parent_pks:
         parent_full_slug = pk_to_slug.get(parent_pk, '')
         parent_base = remove_known_suffixes(parent_full_slug)
-
         if parent_base:
-            candidate = f"{parent_base}-{raw_slug}" # Prepend parent to the *raw_slug*
+            # Prepend the parent's slug to the chain (so that the immediate parent
+            # comes last in the chain, i.e. "...-parent-child")
+            parent_chain.insert(0, parent_base)
+            candidate = "-".join(parent_chain + [raw_slug])
+            if candidate not in used_slugs:
+                return candidate
         else:
-            candidate = raw_slug # Should not happen unless parent slug is empty
+            # If parent's slug is empty, skip it.
+            continue
 
-        if candidate not in used_slugs:
-            return candidate  # Found a unique slug with *this* level of parent! Return immediately
+    # 3) If we have tried all available parents and still haven't found a unique slug,
+    #    then raise an error.
+    raise ValueError(
+        f"Slug collision: Could not generate a unique slug for '{raw_slug}' with parent chain "
+        f"{[pk_to_slug.get(pk, '') for pk in parent_pks]}. Last candidate was '{candidate}'."
+    )
 
-    # 3) If no unique combination is found after trying all parents,
-    #    return the last candidate (which is the raw_slug prepended with all parents).
-    #    In this version, if we reach here, it means even with all parents prepended,
-    #    it's still not unique (which is unlikely in your scenario, but possible).
-    #    In the original code, it was returning the *last* candidate built.
-    #    Here we should probably return a slug that is *guaranteed* unique,
-    #    even if it's very long. For simplicity, let's just return the last candidate
-    #    which in this loop structure would be the raw_slug prepended with all parents.
-
-    # Original code's behavior was to return the last `candidate` generated.
-    # Let's maintain that for now.  The last candidate will have all parent prefixes.
-    if parent_pks: # If there were parents to consider, take the last candidate
-        parent_full_slug = pk_to_slug.get(parent_pks[-1], '') # Get the *last* parent's slug
-        parent_base = remove_known_suffixes(parent_full_slug)
-        if parent_base:
-            return f"{parent_base}-{raw_slug}" # Return with *all* parents prefixed
-        else:
-            return raw_slug # Fallback if even last parent has no slug
-    else: # No parents to consider, and raw_slug is not unique.  This is unexpected in your logic.
-        return raw_slug # As a fallback, just return the raw_slug (it will still be marked as used)
-                      # You might want to add a counter or something more robust if collisions
-                      # are expected even after prepending all parents.
 
 def generate_categories(
     csv_file_path, 
