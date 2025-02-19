@@ -229,7 +229,7 @@ if __name__ == "__main__":
         ("input_csv/unit_menu.csv", "UNIT", "-un"),
         #("input_csv/explanation_menu_sequence.csv", "EXPLANATION", "-un-exp"),
         #("input_csv/explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
-        ("input_csv/test_menu.csv", "EXPLANATION", "-un-exp"),
+        ("input_csv/explanation_menu_sequence+explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
         ("input_csv/context_menu.csv", "CONTEXT", "-un-dev")
     ]
     
