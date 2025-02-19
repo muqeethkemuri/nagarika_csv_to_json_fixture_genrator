@@ -5,3 +5,7 @@
 
 Note: Adding One More Level To the files for explantion and UNIT required Level 4 
 
+venv/bin/activate
+which python
+unalias python   
+python csv_to_json_v2.py    

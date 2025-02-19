@@ -307,7 +307,7 @@ def generate_categories(
             if movie_val:
                 create_data_and_urls(
                     title_str=row_title,
-                    direction_val="movie",
+                    direction_val="",
                     video_path=movie_val,
                     parent_cat_pk=final_category_pk_for_this_row
                 )
@@ -325,10 +325,10 @@ def generate_categories(
 
 if __name__ == "__main__":
     files_and_types = [
-        ("input_csv/sequence_menu.csv", "SEQUENCE", ""),
-        ("input_csv/unit_menu.csv", "UNIT", "-un"),
-        ("input_csv/explanation_menu_sequence+explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
-        ("input_csv/context_menu.csv", "CONTEXT", "-un-dev")
+        ("input_csv_v2/sequence_menu.csv", "SEQUENCE", ""),
+        ("input_csv_v2/unit_menu.csv", "UNIT", "-un"),
+        ("input_csv_v2/explanation_menu_sequence+explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
+        ("input_csv_v2/context_menu.csv", "CONTEXT", "-un-dev")
     ]
 
     all_categories = []
