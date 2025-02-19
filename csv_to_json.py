@@ -74,8 +74,10 @@ def generate_categories(
     # Read the CSV
     with open(csv_file_path, mode='r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
-        
+      
         for row in reader:
+            # Read in the levels, stripping extra whitespace
+            print("DEBUG ROW:", row)
             level1 = row.get('level1', '').strip()
             level2 = row.get('level2', '').strip()
             level3 = row.get('level3', '').strip()
@@ -225,8 +227,9 @@ if __name__ == "__main__":
     files_and_types = [
         ("input_csv/sequence_menu.csv", "SEQUENCE", ""),
         ("input_csv/unit_menu.csv", "UNIT", "-un"),
-        ("input_csv/explanation_menu_sequence.csv", "EXPLANATION", "-un-exp"),
-        ("input_csv/explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
+        #("input_csv/explanation_menu_sequence.csv", "EXPLANATION", "-un-exp"),
+        #("input_csv/explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
+        ("input_csv/test_menu.csv", "EXPLANATION", "-un-exp"),
         ("input_csv/context_menu.csv", "CONTEXT", "-un-dev")
     ]
     
