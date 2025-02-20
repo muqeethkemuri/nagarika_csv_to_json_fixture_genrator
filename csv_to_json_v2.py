@@ -41,6 +41,7 @@ def generate_categories(
     csv_file_path, 
     category_type, 
     slug_suffix="", 
+    video_prefix="",          # <-- NEW ARG, default empty
     start_pk=4000,
     used_slugs=None,
     pk_to_slug=None,
@@ -51,14 +52,10 @@ def generate_categories(
     all_categories_data_urls=None
 ):
     """
-    Generates Category fixtures from CSV (UNCHANGED), plus also creates
+    Generates Category fixtures from CSV, plus also creates
     corresponding CategoriesData & CategoriesDataUrls fixtures.
 
-    :param data_pk_start: Starting PK for CategoriesData and CategoriesDataUrls
-    :param current_data_pk: The next PK to use for CategoriesData(Urls). Passed in so
-                            it accumulates across all CSV files.
-    :param all_categories_data: A list where we append newly generated CategoriesData
-    :param all_categories_data_urls: A list where we append newly generated CategoriesDataUrls
+    :param video_prefix: String to prepend before any 'front'/'side'/'movie' filename.
     """
 
     timestamp = "2024-12-10T15:43:19.760"
@@ -97,10 +94,9 @@ def generate_categories(
             level2 = row.get('level2', '').strip()
             level3 = row.get('level3', '').strip()
             level4 = row.get('level4', '').strip()
-            # If your CSV has "front", "side", "movie", etc. columns, read them:
             front_val = row.get('front', '').strip()
             side_val = row.get('side', '').strip()
-            movie_val = row.get('movie', '').strip()  # only if explanation file has "movie"
+            movie_val = row.get('movie', '').strip()  # only if your CSV has "movie"
 
             # ------------------ LEVEL 1 ------------------
             if level1:
@@ -228,9 +224,7 @@ def generate_categories(
                 parent_map[current_grandchild_pk].append(next_pk)
                 parent_map[next_pk] = []
 
-                # The “final” category pk for this row is level4
                 final_category_pk_for_this_row = next_pk
-
                 next_pk += 1
             else:
                 # If level4 doesn't exist, but we have level3, then that is final
@@ -243,22 +237,15 @@ def generate_categories(
                     final_category_pk_for_this_row = current_parent_pk
 
             # ------------------ CREATE CATEGORIES_DATA & DATA_URLS  ------------------
-            # For each "front"/"side"/"movie" column, if it is non-empty, create a record in
-            # kalari.CategoriesData, plus a parallel record in kalari.CategoriesDataUrls.
-            #
-            # Decide how to fill 'title' or 'direction'. Typically you might want the 'title'
-            # to come from whichever level name is the "meaningful" name for this row. 
-            # Below is an example approach:
-            
+
             def create_data_and_urls(title_str, direction_val, video_path, parent_cat_pk):
                 nonlocal current_data_pk
-                # Create the CategoriesData fixture item
                 data_item = {
                     "model": "kalari.CategoriesData",
                     "pk": current_data_pk,
                     "fields": {
                         "title": title_str,
-                        "category_id": parent_cat_pk,  # link to the final category pk
+                        "category_id": parent_cat_pk,
                         "direction": direction_val,
                         "created_at": timestamp,
                         "updated_at": timestamp
@@ -266,8 +253,6 @@ def generate_categories(
                 }
                 all_categories_data.append(data_item)
 
-                # Create the CategoriesDataUrls fixture item
-                # Use the SAME pk, but point category_data_id => that pk
                 urls_item = {
                     "model": "kalari.CategoriesDataUrls",
                     "pk": current_data_pk,
@@ -278,41 +263,43 @@ def generate_categories(
                     }
                 }
                 all_categories_data_urls.append(urls_item)
-
                 current_data_pk += 1
 
-            # Pick a default "title" from whichever columns you want:
-            # e.g. If you want it from level3 if present, else level2, else level1:
+            # Decide a default "row_title" from whichever level you want
             row_title = level4 if level4 else (level3 if level3 else (level2 if level2 else level1))
 
-            # If 'front' cell has something, treat it as "direction = front"
+            # If 'front' cell is not empty
             if front_val:
+                # Prepend prefix if given
+                prefixed_path = f"{video_prefix}/{front_val}" if video_prefix else front_val
                 create_data_and_urls(
                     title_str=row_title,
                     direction_val="front",
-                    video_path=front_val,  # or build a path: f"odissi/{category_type.lower()}/{front_val}.mp4"
+                    video_path=prefixed_path,
                     parent_cat_pk=final_category_pk_for_this_row
                 )
 
-            # If 'side' cell has something, treat it as "direction = side"
+            # If 'side' cell is not empty
             if side_val:
+                prefixed_path = f"{video_prefix}/{side_val}" if video_prefix else side_val
                 create_data_and_urls(
                     title_str=row_title,
                     direction_val="side",
-                    video_path=side_val,
+                    video_path=prefixed_path,
                     parent_cat_pk=final_category_pk_for_this_row
                 )
 
-            # If 'movie' cell has something (applies to EXPLANATION rows?), treat it as direction = "movie"
+            # If 'movie' cell is not empty
             if movie_val:
+                prefixed_path = f"{video_prefix}/{movie_val}" if video_prefix else movie_val
                 create_data_and_urls(
                     title_str=row_title,
-                    direction_val="",
-                    video_path=movie_val,
+                    direction_val="",  # or "movie" if you prefer
+                    video_path=prefixed_path,
                     parent_cat_pk=final_category_pk_for_this_row
                 )
             
-            # Done processing that CSV row
+            # Done processing this CSV row
 
     # Final pass: if a category has children, set "has_data"=0
     for cat in categories:
@@ -322,13 +309,13 @@ def generate_categories(
 
     return categories, next_pk, used_slugs, pk_to_slug, current_data_pk
 
-
 if __name__ == "__main__":
     files_and_types = [
-        ("input_csv_v2/sequence_menu.csv", "SEQUENCE", ""),
-        ("input_csv_v2/unit_menu.csv", "UNIT", "-un"),
-        ("input_csv_v2/explanation_menu_sequence+explanation_menu_unit.csv", "EXPLANATION", "-un-exp"),
-        ("input_csv_v2/context_menu.csv", "CONTEXT", "-un-dev")
+        # Each tuple now has 4 items: CSV, category_type, slug_suffix, and video_prefix
+        ("input_csv_v2/sequence_menu.csv", "SEQUENCE", "", "odissi/sequence"),
+        ("input_csv_v2/unit_menu.csv", "UNIT", "-un", "odissi/unit"),
+        ("input_csv_v2/explanation_menu_sequence+explanation_menu_unit.csv", "EXPLANATION", "-un-exp", "odissi/explanation"),
+        ("input_csv_v2/context_menu.csv", "CONTEXT", "-un-dev", "odissi/context")
     ]
 
     all_categories = []
@@ -337,22 +324,22 @@ if __name__ == "__main__":
     used_slugs = set()
     pk_to_slug = {}
 
-    # ---- Lists for the new data fixtures ----
+    # Lists for the new data fixtures
     all_categories_data = []
     all_categories_data_urls = []
 
-    # Start the new data PK from 7000 (like in your examples)
+    # Start the new data PK from 7000
     current_data_pk = 7000
 
-    for csv_file, cat_type, slug_suffix in files_and_types:
+    for csv_file, cat_type, slug_suffix, video_prefix in files_and_types:
         new_cats, current_pk, used_slugs, pk_to_slug, current_data_pk = generate_categories(
             csv_file,
             cat_type,
             slug_suffix=slug_suffix,
+            video_prefix=video_prefix,   # <-- pass the prefix here
             start_pk=current_pk,
             used_slugs=used_slugs,
             pk_to_slug=pk_to_slug,
-            # Pass in data-fixture references
             data_pk_start=7000,
             current_data_pk=current_data_pk,
             all_categories_data=all_categories_data,
@@ -360,7 +347,7 @@ if __name__ == "__main__":
         )
         all_categories.extend(new_cats)
 
-    # Write out the Categories fixture (unchanged from your code)
+    # Write out the Categories fixture
     output_file = "odissi_categories.json"
     with open(output_file, "w", encoding="utf-8") as outfile:
         json.dump(all_categories, outfile, indent=2)

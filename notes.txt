@@ -9,3 +9,10 @@ venv/bin/activate
 which python
 unalias python   
 python csv_to_json_v2.py    
+
+
+paths appending 
+1. odissi/sequence -> sequence_menu.csv
+2. odissi/unit -> unit_menu.csv
+3. odissi/explanation -> explanation_menu_sequence+explanation_menu_unit.csv
+4. odissi/context -> context_menu.csv
