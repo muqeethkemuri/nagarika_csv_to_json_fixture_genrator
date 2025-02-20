@@ -6,11 +6,11 @@ def slugify(text):
     """Convert a string into a slug: lowercase, hyphens instead of spaces, etc."""
     slug = (
         text.lower()
-            .strip()
-            .replace(' ', '-')
-            .replace('(', '')
-            .replace(')', '')
-            .replace('/', '-')
+        .strip()
+        .replace(' ', '-')
+        .replace('(', '')
+        .replace(')', '')
+        .replace('/', '-')
     )
     slug = re.sub(r'-+', '-', slug)
     return slug
@@ -49,9 +49,9 @@ def generate_categories(
     current_data_pk=None,
     all_categories_data=None,
     all_categories_data_urls=None,
-    all_categories_movements=None,  # New arg for movements
-    movements_pk_start=3000,        # New arg for movements PK
-    current_movements_pk=None       # New arg to track movements PK
+    all_categories_movements=None,
+    movements_pk_start=3000,
+    current_movements_pk=None
 ):
     timestamp = "2024-12-10T15:43:19.760"
     
@@ -79,8 +79,6 @@ def generate_categories(
     current_grandchild_pk = None
     
     sort_order_level1 = 1
-
-    # Dictionary to store overview slugs for each level1 category
     overview_slugs = {}
 
     with open(csv_file_path, mode='r', encoding='utf-8') as f:
@@ -121,7 +119,9 @@ def generate_categories(
                 pk_to_slug[next_pk] = unique_slug
 
                 parent_map[next_pk] = []
-                overview_slugs[level1] = f"{slugify(level1)}-overview{slug_suffix}"
+                # Overview slug without suffix for SEQUENCE, with suffix otherwise
+                overview_suffix = "" if category_type == "SEQUENCE" else slug_suffix
+                overview_slugs[level1] = f"{slugify(level1)}-overview{overview_suffix}"
 
                 current_parent_pk = next_pk
                 current_child_pk = None
@@ -262,10 +262,10 @@ def generate_categories(
                 # CREATE CATEGORIES_MOVEMENTS
                 row_title = level4 if level4 else (level3 if level3 else (level2 if level2 else level1))
                 slug_base = slugify(row_title)
-                related_slug = f"{slug_base}{slug_suffix}"
+                # Apply suffix only for non-SEQUENCE types
+                related_slug = slug_base if category_type == "SEQUENCE" else f"{slug_base}{slug_suffix}"
                 
-                # Add overview entry if applicable
-                overview_added = False
+                # Add overview entry if level1 exists
                 if level1 and level1 in overview_slugs:
                     overview_movement = {
                         "model": "kalari.CategoriesMovements",
@@ -280,7 +280,6 @@ def generate_categories(
                     }
                     all_categories_movements.append(overview_movement)
                     current_movements_pk += 1
-                    overview_added = True
 
                 # Add movement entry
                 movement = {
@@ -365,6 +364,12 @@ if __name__ == "__main__":
         )
         all_categories.extend(new_cats)
         all_categories_movements.extend(new_movements)
+
+    # Sort all_categories_movements by category_data_movements_id, then "Overview" first
+    all_categories_movements.sort(key=lambda x: (
+        x["fields"]["category_data_movements_id"],
+        0 if x["fields"].get("is_related_only", False) else 1
+    ))
 
     # Write Categories fixture
     with open("odissi_categories.json", "w", encoding="utf-8") as outfile:
