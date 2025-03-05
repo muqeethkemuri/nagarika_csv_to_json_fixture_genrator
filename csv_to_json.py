@@ -312,10 +312,10 @@ def generate_categories(
 if __name__ == "__main__":
     files_and_types = [
         # Each tuple now has 4 items: CSV, category_type, slug_suffix, and video_prefix
-        ("input_csv_v2/sequence_menu.csv", "SEQUENCE", "", "odissi/sequence"),
-        ("input_csv_v2/unit_menu.csv", "UNIT", "-un", "odissi/unit"),
-        ("input_csv_v2/explanation_menu_sequence+explanation_menu_unit.csv", "EXPLANATION", "-un-exp", "odissi/explanation"),
-        ("input_csv_v2/context_menu.csv", "CONTEXT", "-un-dev", "odissi/context")
+        ("input_csv/sequence_menu.csv", "SEQUENCE", "", "odissi/sequence"),
+        ("input_csv/unit_menu.csv", "UNIT", "-un", "odissi/unit"),
+        ("input_csv/explanation_menu_sequence+explanation_menu_unit.csv", "EXPLANATION", "-un-exp", "odissi/explanation"),
+        ("input_csv/context_menu.csv", "CONTEXT", "-un-dev", "odissi/context")
     ]
 
     all_categories = []
